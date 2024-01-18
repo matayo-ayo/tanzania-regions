@@ -1,0 +1,5652 @@
+[
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KIVUKONI",
+    "WAR_CODE": 11101,
+    "STREET": "KIVUKONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KIVUKONI",
+    "WAR_CODE": 11101,
+    "STREET": "SEA VIEW",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "UPANGA MASHARIKI",
+    "WAR_CODE": 11102,
+    "STREET": "KITONGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "UPANGA MASHARIKI",
+    "WAR_CODE": 11102,
+    "STREET": "KIBASILA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "UPANGA MAGHARIBI",
+    "WAR_CODE": 11103,
+    "STREET": "FIRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "UPANGA MAGHARIBI",
+    "WAR_CODE": 11103,
+    "STREET": "CHARAMBE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "UPANGA MAGHARIBI",
+    "WAR_CODE": 11103,
+    "STREET": "MFAUME",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KISUTU",
+    "WAR_CODE": 11104,
+    "STREET": "KISUTU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KISUTU",
+    "WAR_CODE": 11104,
+    "STREET": "MTENDENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "MCHAFUKOGE",
+    "WAR_CODE": 11105,
+    "STREET": "KITUMBINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "MCHAFUKOGE",
+    "WAR_CODE": 11105,
+    "STREET": "MCHAFUKOGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KARIAKOO",
+    "WAR_CODE": 11106,
+    "STREET": "KARIAKOO MAGHARIBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KARIAKOO",
+    "WAR_CODE": 11106,
+    "STREET": "KARIAKOO KASKAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "KARIAKOO",
+    "WAR_CODE": 11106,
+    "STREET": "KARIAKOO MASHARIKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "GEREZANI",
+    "WAR_CODE": 11107,
+    "STREET": "GEREZANI MASHARIKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "GEREZANI",
+    "WAR_CODE": 11107,
+    "STREET": "GEREZANI MAGHARIBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "JANGWANI",
+    "WAR_CODE": 11108,
+    "STREET": "UKOMBOZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "JANGWANI",
+    "WAR_CODE": 11108,
+    "STREET": "MNAZI MMOJA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "JANGWANI",
+    "WAR_CODE": 11108,
+    "STREET": "MTAMBANI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "JANGWANI",
+    "WAR_CODE": 11108,
+    "STREET": "MTAMBANI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "MCHIKICHINI",
+    "WAR_CODE": 11109,
+    "STREET": "MISSION QUARTER",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "MCHIKICHINI",
+    "WAR_CODE": 11109,
+    "STREET": "ILALA KOTA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA CBD",
+    "DIS_CODE": 11,
+    "WARD": "MCHIKICHINI",
+    "WAR_CODE": 11109,
+    "STREET": "MSIMBAZI BONDENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ILALA",
+    "WAR_CODE": 12101,
+    "STREET": "MAFURIKO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ILALA",
+    "WAR_CODE": 12101,
+    "STREET": "KASULU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ILALA",
+    "WAR_CODE": 12101,
+    "STREET": "KARUME",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ILALA",
+    "WAR_CODE": 12101,
+    "STREET": "SHARIFF SHAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ILALA",
+    "WAR_CODE": 12101,
+    "STREET": "AMANA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUGURUNI",
+    "WAR_CODE": 12102,
+    "STREET": "MALAPA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUGURUNI",
+    "WAR_CODE": 12102,
+    "STREET": "MADENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUGURUNI",
+    "WAR_CODE": 12102,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUGURUNI",
+    "WAR_CODE": 12102,
+    "STREET": "MVINJENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "MANDELA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "TABATA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "MATUMBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "MSIMBAZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "TENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "MTAMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "TABATA",
+    "WAR_CODE": 12103,
+    "STREET": "MSIMBAZI MAGHARIBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "TEMBOMGWAZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "KIMANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "KIMANGA DARAJANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "BANEBANE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "KIHIMBWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "SOKOINE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIMANGA",
+    "WAR_CODE": 12104,
+    "STREET": "TWIGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "SEGEREA",
+    "WAR_CODE": 12105,
+    "STREET": "MGOMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "SEGEREA",
+    "WAR_CODE": 12105,
+    "STREET": "UGOMBOLWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "SEGEREA",
+    "WAR_CODE": 12105,
+    "STREET": "SEGEREA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "SEGEREA",
+    "WAR_CODE": 12105,
+    "STREET": "MFAUME",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "MOGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "KARAKATA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "KIPUNGUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "STAKISHARI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "UWANJA WA NDEGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPAWA",
+    "WAR_CODE": 12106,
+    "STREET": "MJIMPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "UKONGA",
+    "WAR_CODE": 12107,
+    "STREET": "MWEMBE MADAFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "UKONGA",
+    "WAR_CODE": 12107,
+    "STREET": "MAZIZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "UKONGA",
+    "WAR_CODE": 12107,
+    "STREET": "MARKAZ",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "UKONGA",
+    "WAR_CODE": 12107,
+    "STREET": "MONGO LA NDEGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "UKONGA",
+    "WAR_CODE": 12107,
+    "STREET": "SABASABA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIWALANI",
+    "WAR_CODE": 12108,
+    "STREET": "KIGILAGILA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIWALANI",
+    "WAR_CODE": 12108,
+    "STREET": "YOMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIWALANI",
+    "WAR_CODE": 12108,
+    "STREET": "KIWALANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "KOMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "MIEMBENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "MTAKUJA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "MTAMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "BUTIAMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "VINGUNGUTI",
+    "WAR_CODE": 12109,
+    "STREET": "MAJENGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "GONGO LA MBOTO",
+    "WAR_CODE": 12110,
+    "STREET": "GULUKA KWALALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "GONGO LA MBOTO",
+    "WAR_CODE": 12110,
+    "STREET": "GONGO LA MBOTO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "GONGO LA MBOTO",
+    "WAR_CODE": 12110,
+    "STREET": "ULONGONI A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "GONGO LA MBOTO",
+    "WAR_CODE": 12110,
+    "STREET": "ULONGONI B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KITUNDA",
+    "WAR_CODE": 12111,
+    "STREET": "KIPERA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KITUNDA",
+    "WAR_CODE": 12111,
+    "STREET": "KITUNDA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KITUNDA",
+    "WAR_CODE": 12111,
+    "STREET": "RELINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KITUNDA",
+    "WAR_CODE": 12111,
+    "STREET": "KIYOMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU",
+    "WAR_CODE": 12112,
+    "STREET": "KINYAMWEZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU",
+    "WAR_CODE": 12112,
+    "STREET": "BOMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU",
+    "WAR_CODE": 12112,
+    "STREET": "KIGOGO FRESH 'A'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU",
+    "WAR_CODE": 12112,
+    "STREET": "KIGOGO FRESH 'B'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU",
+    "WAR_CODE": 12112,
+    "STREET": "MUSTAPHA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MAJOHE",
+    "WAR_CODE": 12113,
+    "STREET": "MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MAJOHE",
+    "WAR_CODE": 12113,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MAJOHE",
+    "WAR_CODE": 12113,
+    "STREET": "KIVULE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MAJOHE",
+    "WAR_CODE": 12113,
+    "STREET": "RADA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MAJOHE",
+    "WAR_CODE": 12113,
+    "STREET": "VIWEGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "KITONGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "YANGEYANGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "MBONDOLE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "MVULENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "KIBOGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "KIDOLE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "MKERA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "SANGARA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MSONGOLA",
+    "WAR_CODE": 12114,
+    "STREET": "UWANJA WA NYANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "TUNGINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "YONGWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "LUKOMI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "VIKONGORO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "NGUVU MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "VIROBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "KIDUGALO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "NGWALE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "CHANIKA",
+    "WAR_CODE": 12115,
+    "STREET": "LUKOONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KINYEREZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KIFURU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KWALIMBAGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KINYEREZI",
+    "WAR_CODE": 12116,
+    "STREET": "KIBAGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIVULE",
+    "WAR_CODE": 12117,
+    "STREET": "KIVULE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIVULE",
+    "WAR_CODE": 12117,
+    "STREET": "BOMBAMBILI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIVULE",
+    "WAR_CODE": 12117,
+    "STREET": "KAREZANGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIVULE",
+    "WAR_CODE": 12117,
+    "STREET": "MAGORE A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MNYAMANI",
+    "WAR_CODE": 12118,
+    "STREET": "MALUZUKU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MNYAMANI",
+    "WAR_CODE": 12118,
+    "STREET": "MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MNYAMANI",
+    "WAR_CODE": 12118,
+    "STREET": "FARU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MNYAMANI",
+    "WAR_CODE": 12118,
+    "STREET": "MNYAMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "LIWITI",
+    "WAR_CODE": 12119,
+    "STREET": "MACHIMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "LIWITI",
+    "WAR_CODE": 12119,
+    "STREET": "LIWITI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "LIWITI",
+    "WAR_CODE": 12119,
+    "STREET": "MISEWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "LIWITI",
+    "WAR_CODE": 12119,
+    "STREET": "AMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BONYOKWA",
+    "WAR_CODE": 12120,
+    "STREET": "BONYOKWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BONYOKWA",
+    "WAR_CODE": 12120,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BONYOKWA",
+    "WAR_CODE": 12120,
+    "STREET": "MSINGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPUNGUNI",
+    "WAR_CODE": 12121,
+    "STREET": "KIPUNGUNI B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPUNGUNI",
+    "WAR_CODE": 12121,
+    "STREET": "KITINYE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPUNGUNI",
+    "WAR_CODE": 12121,
+    "STREET": "MACHIMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KIPUNGUNI",
+    "WAR_CODE": 12121,
+    "STREET": "AMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KISUKULU",
+    "WAR_CODE": 12122,
+    "STREET": "LUHANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KISUKULU",
+    "WAR_CODE": 12122,
+    "STREET": "KISUKULU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "KISUKULU",
+    "WAR_CODE": 12122,
+    "STREET": "MIANZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MINAZI MIREFU",
+    "WAR_CODE": 12123,
+    "STREET": "MWALE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MINAZI MIREFU",
+    "WAR_CODE": 12123,
+    "STREET": "MIGOMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MINAZI MIREFU",
+    "WAR_CODE": 12123,
+    "STREET": "MINAZI MIREFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "ZAVALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "MGEULE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "NYEBURU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "KIGEZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "KIGEZI CHINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "MGEULE JUU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "BUYUNI",
+    "WAR_CODE": 12124,
+    "STREET": "TALIANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "NZASA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "ZOGOALI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "ZINGIZIWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "LUBAKAYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "KIMWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "NGOBEDI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "SOMELO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "ZINGIZIWA",
+    "WAR_CODE": 12125,
+    "STREET": "GOGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MZINGA",
+    "WAR_CODE": 12126,
+    "STREET": "MWANAGATI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MZINGA",
+    "WAR_CODE": 12126,
+    "STREET": "MAGOLE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "MZINGA",
+    "WAR_CODE": 12126,
+    "STREET": "MZINGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU STATION",
+    "WAR_CODE": 12127,
+    "STREET": "BANGULO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU STATION",
+    "WAR_CODE": 12127,
+    "STREET": "PUGU STATION",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "ILALA",
+    "DIS_CODE": 12,
+    "WARD": "PUGU STATION",
+    "WAR_CODE": 12127,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAGOMENI",
+    "WAR_CODE": 14101,
+    "STREET": "SUNA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAGOMENI",
+    "WAR_CODE": 14101,
+    "STREET": "MAKUTI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAGOMENI",
+    "WAR_CODE": 14101,
+    "STREET": "MAKUTI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAGOMENI",
+    "WAR_CODE": 14101,
+    "STREET": "DOSSI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAGOMENI",
+    "WAR_CODE": 14101,
+    "STREET": "IDRISA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MZIMUNI",
+    "WAR_CODE": 14102,
+    "STREET": "IDRISA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MZIMUNI",
+    "WAR_CODE": 14102,
+    "STREET": "MAKUMBUSHO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MZIMUNI",
+    "WAR_CODE": 14102,
+    "STREET": "MTAMBANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MZIMUNI",
+    "WAR_CODE": 14102,
+    "STREET": "MWINYIMKUU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "NDUGUMBI",
+    "WAR_CODE": 14104,
+    "STREET": "MPAKANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "NDUGUMBI",
+    "WAR_CODE": 14104,
+    "STREET": "MIKOROSHINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "NDUGUMBI",
+    "WAR_CODE": 14104,
+    "STREET": "MAKANYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "NDUGUMBI",
+    "WAR_CODE": 14104,
+    "STREET": "VIGAENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "MTOGOLE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "KWA TUMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "PAKACHA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "SOKONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "MKUNDUGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "TANDALE",
+    "WAR_CODE": 14106,
+    "STREET": "MUHALTANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "MAKUMBUSHO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "MINAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "MCHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "MBUYUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKUMBUSHO",
+    "WAR_CODE": 14107,
+    "STREET": "SINGANO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "KAMBANGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "MSISIRI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "MSISIRI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "BWAWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "MWINJUMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "KWA KOPA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MWANANYAMALA",
+    "WAR_CODE": 14108,
+    "STREET": "MSOLOMI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "HANANASIF",
+    "WAR_CODE": 14109,
+    "STREET": "HANANASIF",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "HANANASIF",
+    "WAR_CODE": 14109,
+    "STREET": "KISUTU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "HANANASIF",
+    "WAR_CODE": 14109,
+    "STREET": "MKUNGUNI A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "HANANASIF",
+    "WAR_CODE": 14109,
+    "STREET": "MKUNGUNI B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "HANANASIF",
+    "WAR_CODE": 14109,
+    "STREET": "KAWAWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KINONDONI",
+    "WAR_CODE": 14110,
+    "STREET": "KUMBUKUMBU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KINONDONI",
+    "WAR_CODE": 14110,
+    "STREET": "KINONDONI MJINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KINONDONI",
+    "WAR_CODE": 14110,
+    "STREET": "KINONDONI SHAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KINONDONI",
+    "WAR_CODE": 14110,
+    "STREET": "ADA ESTATE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MSASANI",
+    "WAR_CODE": 14111,
+    "STREET": "OYSTERBAY",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MSASANI",
+    "WAR_CODE": 14111,
+    "STREET": "MASAKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MSASANI",
+    "WAR_CODE": 14111,
+    "STREET": "MIKOROSHONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MSASANI",
+    "WAR_CODE": 14111,
+    "STREET": "BONDE LA MPUNGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MSASANI",
+    "WAR_CODE": 14111,
+    "STREET": "MAKANGIRA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "MIKOCHENI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "MIKOCHENI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "REGENT ESTATE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "ALLY H. MWINYI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "TPDC",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MIKOCHENI",
+    "WAR_CODE": 14112,
+    "STREET": "DARAJANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "KIJITONYAMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "ALIMAUA \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "ALIMAUA \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "MPAKANI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "MPAKANI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "BWAWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "MWENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIJITONYAMA",
+    "WAR_CODE": 14113,
+    "STREET": "NZASA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIGOGO",
+    "WAR_CODE": 14118,
+    "STREET": "KIGOGO KATI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIGOGO",
+    "WAR_CODE": 14118,
+    "STREET": "KIGOGO MKWAJUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KIGOGO",
+    "WAR_CODE": 14118,
+    "STREET": "KIGOGO MBUYUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KAWE",
+    "WAR_CODE": 14121,
+    "STREET": "MZIMUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KAWE",
+    "WAR_CODE": 14121,
+    "STREET": "UKWAMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KAWE",
+    "WAR_CODE": 14121,
+    "STREET": "MBEZI  BEACH  \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KAWE",
+    "WAR_CODE": 14121,
+    "STREET": "MBEZI  BEACH  \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "PWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "KILONGAWIMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "MTONGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "TEGETA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "UNUNIO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "KUNDUCHI",
+    "WAR_CODE": 14122,
+    "STREET": "KONDO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "BOKO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "BUNJU \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "KILUNGULE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "BUSIHAYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "DOVYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "BUNJU",
+    "WAR_CODE": 14125,
+    "STREET": "MKOANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBWENI",
+    "WAR_CODE": 14126,
+    "STREET": "MAPUTO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBWENI",
+    "WAR_CODE": 14126,
+    "STREET": "MBWENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBWENI",
+    "WAR_CODE": 14126,
+    "STREET": "TETA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBWENI",
+    "WAR_CODE": 14126,
+    "STREET": "MALINDI ESTATE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBWENI",
+    "WAR_CODE": 14126,
+    "STREET": "MPIJI MBWENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBEZI JUU",
+    "WAR_CODE": 14128,
+    "STREET": "JOGOO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBEZI JUU",
+    "WAR_CODE": 14128,
+    "STREET": "NDUMBWI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBEZI JUU",
+    "WAR_CODE": 14128,
+    "STREET": "MBEZI MTONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBEZI JUU",
+    "WAR_CODE": 14128,
+    "STREET": "MBEZI KATI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MBEZI JUU",
+    "WAR_CODE": 14128,
+    "STREET": "MBEZI JUU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKONGO",
+    "WAR_CODE": 14129,
+    "STREET": "CHANGANYIKENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKONGO",
+    "WAR_CODE": 14129,
+    "STREET": "MBUYUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKONGO",
+    "WAR_CODE": 14129,
+    "STREET": "MLALAKUWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MAKONGO",
+    "WAR_CODE": 14129,
+    "STREET": "MAKONGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "WAZO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "SALASALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "KILIMAHEWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "MADALE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "MIVUMONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "KISANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "KILIMAHEWA JUU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "WAZO",
+    "WAR_CODE": 14130,
+    "STREET": "NAKASANGWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MABWEPANDE",
+    "WAR_CODE": 14134,
+    "STREET": "BUNJU \"B'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MABWEPANDE",
+    "WAR_CODE": 14134,
+    "STREET": "MABWE PANDE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MABWEPANDE",
+    "WAR_CODE": 14134,
+    "STREET": "MJIMPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MABWEPANDE",
+    "WAR_CODE": 14134,
+    "STREET": "KIHONZILE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KINONDONI",
+    "DIS_CODE": 14,
+    "WARD": "MABWEPANDE",
+    "WAR_CODE": 14134,
+    "STREET": "MBOPO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TEMEKE",
+    "WAR_CODE": 15101,
+    "STREET": "MAGANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TEMEKE",
+    "WAR_CODE": 15101,
+    "STREET": "MATUMBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TEMEKE",
+    "WAR_CODE": 15101,
+    "STREET": "NJARO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TEMEKE",
+    "WAR_CODE": 15101,
+    "STREET": "TEMEKE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MAMBOLEO \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "SANDALI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MAMBOLEO \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MPOGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MWEMBELADU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "TINDWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MKWIDA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "VETERINARY",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "USALAMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "KIMBUNGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "MWEMBEMNOFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "SANDALI",
+    "WAR_CODE": 15102,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHANG’OMBE",
+    "WAR_CODE": 15103,
+    "STREET": "BORA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHANG’OMBE",
+    "WAR_CODE": 15103,
+    "STREET": "TOROLI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHANG’OMBE",
+    "WAR_CODE": 15103,
+    "STREET": "CHANG'OMBE \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHANG’OMBE",
+    "WAR_CODE": 15103,
+    "STREET": "CHANG'OMBE \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KEKO",
+    "WAR_CODE": 15104,
+    "STREET": "KEKO \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KEKO",
+    "WAR_CODE": 15104,
+    "STREET": "KEKO MWANGA \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KEKO",
+    "WAR_CODE": 15104,
+    "STREET": "KEKO MWANGA \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KEKO",
+    "WAR_CODE": 15104,
+    "STREET": "KEKO MAGURUMBASI \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KEKO",
+    "WAR_CODE": 15104,
+    "STREET": "KEKO MAGURUMBASI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIBURANI",
+    "WAR_CODE": 15105,
+    "STREET": "MIBURANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIBURANI",
+    "WAR_CODE": 15105,
+    "STREET": "UWANJA WA TAIFA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIBURANI",
+    "WAR_CODE": 15105,
+    "STREET": "WAILES",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIBURANI",
+    "WAR_CODE": 15105,
+    "STREET": "KEKO MACHUNGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIBURANI",
+    "WAR_CODE": 15105,
+    "STREET": "MGULANI (KEKO JUU)",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "AZIMIO KASKAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "AZIMIO KUSINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "TAMBUKARELI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "MTONGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "MTONI UNGUJA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "AZIMIO",
+    "WAR_CODE": 15106,
+    "STREET": "MBUYUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "TAMLA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "MAGURUWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "KILIMAHEWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "TANDIKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "NYAMBWERA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TANDIKA",
+    "WAR_CODE": 15107,
+    "STREET": "MABATINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "MTONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "SABASABA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "BUSTANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "RELINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "CHAUREMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MTONI",
+    "WAR_CODE": 15108,
+    "STREET": "BOKORANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KURASINI",
+    "WAR_CODE": 15109,
+    "STREET": "SHIMO LA UDONGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KURASINI",
+    "WAR_CODE": 15109,
+    "STREET": "MIVINJENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KURASINI",
+    "WAR_CODE": 15109,
+    "STREET": "MINAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KURASINI",
+    "WAR_CODE": 15109,
+    "STREET": "KURASINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KURASINI",
+    "WAR_CODE": 15109,
+    "STREET": "KIUNGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "KIZUIANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "KIBONDE MAJI \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "KICHEMCHEM",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "JESHI LA WOKOVU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MBAGALA KUU MASHARIKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MBAGALA KUU MAGHARIBI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MBAGALA KUU KASKAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MAKUKA KUSINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MAKUKA KASKAZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA KUU",
+    "WAR_CODE": 15112,
+    "STREET": "MPAKANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "MBAGALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "KIZINGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "MANGAYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "MORINGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "BUGHUDADI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MBAGALA",
+    "WAR_CODE": 15113,
+    "STREET": "SERENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MAKANGARAWE",
+    "WAR_CODE": 15114,
+    "STREET": "MAKANGARAWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MAKANGARAWE",
+    "WAR_CODE": 15114,
+    "STREET": "YOMBO DOVYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MAKANGARAWE",
+    "WAR_CODE": 15114,
+    "STREET": "MSAKALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MAKANGARAWE",
+    "WAR_CODE": 15114,
+    "STREET": "UWAZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MAKANGARAWE",
+    "WAR_CODE": 15114,
+    "STREET": "MBONDE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "YOMBO VITUKA",
+    "WAR_CODE": 15115,
+    "STREET": "YOMBO VITUKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "YOMBO VITUKA",
+    "WAR_CODE": 15115,
+    "STREET": "SIGARA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "YOMBO VITUKA",
+    "WAR_CODE": 15115,
+    "STREET": "MACHIMBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "YOMBO VITUKA",
+    "WAR_CODE": 15115,
+    "STREET": "MAGOGONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "YOMBO VITUKA",
+    "WAR_CODE": 15115,
+    "STREET": "MZAMBARAUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "MAGENGENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "MWEMBEBAMIA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "KIPONZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "KISEWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "RUFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "MSUFINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "VIGOA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "DOVYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHAMAZI",
+    "WAR_CODE": 15116,
+    "STREET": "MKONDOGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHARAMBE",
+    "WAR_CODE": 15117,
+    "STREET": "KURASINI MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHARAMBE",
+    "WAR_CODE": 15117,
+    "STREET": "NZASA \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHARAMBE",
+    "WAR_CODE": 15117,
+    "STREET": "RANGI TATU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "CHARAMBE",
+    "WAR_CODE": 15117,
+    "STREET": "MACHINJIONI A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "TOANGOMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MALELA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "VIKUNAI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MASULIZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MASAKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MIKWAMBE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "CHANGANYIKENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MWAPEMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "PONDE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "KONGOWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "GOROKA 'A'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "GOROKA 'B'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MZINGA 'A'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "TOANGOMA",
+    "WAR_CODE": 15118,
+    "STREET": "MZINGA 'B'",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "BUZA",
+    "WAR_CODE": 15125,
+    "STREET": "BUZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "BUZA",
+    "WAR_CODE": 15125,
+    "STREET": "MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "BUZA",
+    "WAR_CODE": 15125,
+    "STREET": "MASHINE YA MAJI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "BUZA",
+    "WAR_CODE": 15125,
+    "STREET": "KIDAGAA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "BUZA",
+    "WAR_CODE": 15125,
+    "STREET": "AMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILAKALA",
+    "WAR_CODE": 15127,
+    "STREET": "BARABARA YA MWINYI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILAKALA",
+    "WAR_CODE": 15127,
+    "STREET": "KILAKALA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILAKALA",
+    "WAR_CODE": 15127,
+    "STREET": "KIGUNGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILAKALA",
+    "WAR_CODE": 15127,
+    "STREET": "KIEMBESAMAKI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILAKALA",
+    "WAR_CODE": 15127,
+    "STREET": "YOMBO RELI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "JUHUDI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "KIBURUGWA NAMBA3",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "KWANYOKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "KINGUGI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "BARABARA YA MWINYI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBURUGWA",
+    "WAR_CODE": 15128,
+    "STREET": "KIBURUGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIJICHI",
+    "WAR_CODE": 15129,
+    "STREET": "MGENI NANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIJICHI",
+    "WAR_CODE": 15129,
+    "STREET": "MISHENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIJICHI",
+    "WAR_CODE": 15129,
+    "STREET": "MTONI KIJICHI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIJICHI",
+    "WAR_CODE": 15129,
+    "STREET": "BUTIAMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIJICHI",
+    "WAR_CODE": 15129,
+    "STREET": "MWANAMTOTI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIANZINI",
+    "WAR_CODE": 15130,
+    "STREET": "MAJIMATITU A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIANZINI",
+    "WAR_CODE": 15130,
+    "STREET": "MACHINJIONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIANZINI",
+    "WAR_CODE": 15130,
+    "STREET": "MPONDA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "MIANZINI",
+    "WAR_CODE": 15130,
+    "STREET": "MIANZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBONDEMAJI",
+    "WAR_CODE": 15131,
+    "STREET": "MAJIMATITU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBONDEMAJI",
+    "WAR_CODE": 15131,
+    "STREET": "KIBONDEMAJI A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBONDEMAJI",
+    "WAR_CODE": 15131,
+    "STREET": "MCHIKICHINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KIBONDEMAJI",
+    "WAR_CODE": 15131,
+    "STREET": "KIMBANGULILE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILUNGULE",
+    "WAR_CODE": 15132,
+    "STREET": "KILUNGULE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILUNGULE",
+    "WAR_CODE": 15132,
+    "STREET": "NZASA A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILUNGULE",
+    "WAR_CODE": 15132,
+    "STREET": "MAJIMATITU B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILUNGULE",
+    "WAR_CODE": 15132,
+    "STREET": "KWA MZUNGU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "TEMEKE",
+    "DIS_CODE": 15,
+    "WARD": "KILUNGULE",
+    "WAR_CODE": 15132,
+    "STREET": "UZOMBOKONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBURAHATI",
+    "WAR_CODE": 16101,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBURAHATI",
+    "WAR_CODE": 16101,
+    "STREET": "NATIONAL HOUSING CORP",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBURAHATI",
+    "WAR_CODE": 16101,
+    "STREET": "BARAFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SINZA",
+    "WAR_CODE": 16102,
+    "STREET": "SINZA \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SINZA",
+    "WAR_CODE": 16102,
+    "STREET": "SINZA \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SINZA",
+    "WAR_CODE": 16102,
+    "STREET": "SINZA \"C",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SINZA",
+    "WAR_CODE": 16102,
+    "STREET": "SINZA \"D",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SINZA",
+    "WAR_CODE": 16102,
+    "STREET": "SINZA \"E",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "UBUNGO",
+    "WAR_CODE": 16103,
+    "STREET": "CHUO KIKUU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "UBUNGO",
+    "WAR_CODE": 16103,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "UBUNGO",
+    "WAR_CODE": 16103,
+    "STREET": "KIBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "UBUNGO",
+    "WAR_CODE": 16103,
+    "STREET": "MSEWE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "UBUNGO",
+    "WAR_CODE": 16103,
+    "STREET": "NATIONAL HOUSING CORP.",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "BARUTI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "KIMARA BARUTI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "MAVURUNZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "KILUNGULE \"A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "KILUNGULE  \"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIMARA",
+    "WAR_CODE": 16104,
+    "STREET": "GOLANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "SARANGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "UPENDO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "KIMARA\"B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "MATANGINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "STOP OVER",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "KING'ONGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "MICHUNGWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "UKOMBOZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "SARANGA",
+    "WAR_CODE": 16105,
+    "STREET": "MJI MPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKUBURI",
+    "WAR_CODE": 16106,
+    "STREET": "MWONGOZO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKUBURI",
+    "WAR_CODE": 16106,
+    "STREET": "MAKOKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKUBURI",
+    "WAR_CODE": 16106,
+    "STREET": "KIBANGU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKUBURI",
+    "WAR_CODE": 16106,
+    "STREET": "MAKUBURI KIBANGU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKUBURI",
+    "WAR_CODE": 16106,
+    "STREET": "KAJIMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "KWA JONGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "KIMAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "KILIMAHEWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "KAGERA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "MIANZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MAKURUMLA",
+    "WAR_CODE": 16107,
+    "STREET": "SISI KWA SISI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MIDIZINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "KILIMANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MNAZI MMOJA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MUUNGANO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "UZURI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MVULENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MWEMBENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "CHAKULA BORA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "TUPENDANE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MANZESE",
+    "WAR_CODE": 16108,
+    "STREET": "MFEREJINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "MABIBO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "JITEGEMEE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "AZIMIO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "KANUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "MATOKEO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MABIBO",
+    "WAR_CODE": 16109,
+    "STREET": "MABIBO FARASI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIBAMBA",
+    "WAR_CODE": 16110,
+    "STREET": "KIBWEGERE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIBAMBA",
+    "WAR_CODE": 16110,
+    "STREET": "KIBAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIBAMBA",
+    "WAR_CODE": 16110,
+    "STREET": "HONDOGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIBAMBA",
+    "WAR_CODE": 16110,
+    "STREET": "GOGONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KIBAMBA",
+    "WAR_CODE": 16110,
+    "STREET": "KILUVYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "KWEMBE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "MPAKANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "KING'AZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "LUGURUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "KISOPWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "NJETENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "KING'AZI B",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "MJIMPYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "MSAKUZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "KWEMBE",
+    "WAR_CODE": 16111,
+    "STREET": "MLONGAZILA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "GOBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "MATOSA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "KULANGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "KINZUDI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "KUNGURU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "KIBULULU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "TEGETA A",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "GOBA",
+    "WAR_CODE": 16112,
+    "STREET": "MUUNGANO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MSAKUZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MSUMI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MBEZI LUIS",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MPIJI MAGOHE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MAKABE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MSHIKAMANO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "MSAKUZI KUSINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MBEZI",
+    "WAR_CODE": 16113,
+    "STREET": "LUIS",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MSIGANI",
+    "WAR_CODE": 16114,
+    "STREET": "TEMBONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MSIGANI",
+    "WAR_CODE": 16114,
+    "STREET": "MALAMBA MAWILI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MSIGANI",
+    "WAR_CODE": 16114,
+    "STREET": "KWA YUSUPH",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MSIGANI",
+    "WAR_CODE": 16114,
+    "STREET": "MSIGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "UBUNGO",
+    "DIS_CODE": 16,
+    "WARD": "MSIGANI",
+    "WAR_CODE": 16114,
+    "STREET": "MSINGWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "GOLANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "KWA CHALE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "MIKENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "NGOBANYA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "KIZITO HUONJWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIMBIJI",
+    "WAR_CODE": 17101,
+    "STREET": "KIJAKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "KIZANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MBWAMAJI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MWERA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "DEGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MALIMBIKA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "VISIKINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "BAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MWANZO MGUMU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "SHIRIKISHO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MINONDO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "SARA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "MKWAJUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "SOMANGILA",
+    "WAR_CODE": 17102,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "TUNGI",
+    "WAR_CODE": 17103,
+    "STREET": "TUNGI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "TUNGI",
+    "WAR_CODE": 17103,
+    "STREET": "MAGOGONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "TUNGI",
+    "WAR_CODE": 17103,
+    "STREET": "MUUNGANO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "TUMAINI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "KIGOGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "MWASONGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "SHARIFU",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "VUMILIA UKOONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "NGOMA MAPINDUZI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "MWANINGA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "MKAMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "LINGATO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "MADEGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KISARAWE II",
+    "WAR_CODE": 17104,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "POTEA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "PU CENTRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "KWA MORISI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "GULUBWIDA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "MAHENGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "TUNDWI CENTRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "SONGANI CENTRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "PEMBA CENTRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "BUYUNI CENTRE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "KIBUNGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "MUHIMBILI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "NYANGE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "CHAMBEWA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "PEMBAMNAZI",
+    "WAR_CODE": 17105,
+    "STREET": "MTIMWEUPE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "MJIMWEMA",
+    "WAR_CODE": 17106,
+    "STREET": "MAWENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "MJIMWEMA",
+    "WAR_CODE": 17106,
+    "STREET": "UNGINDONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "MJIMWEMA",
+    "WAR_CODE": 17106,
+    "STREET": "MJIMWEMA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "MJIMWEMA",
+    "WAR_CODE": 17106,
+    "STREET": "KIBUGUMO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIGAMBONI",
+    "WAR_CODE": 17107,
+    "STREET": "KIGAMBONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIGAMBONI",
+    "WAR_CODE": 17107,
+    "STREET": "FERRY",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIGAMBONI",
+    "WAR_CODE": 17107,
+    "STREET": "TUAMOYO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "VIJIBWENI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "KIBENE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "MKWAJUNI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "KISIWANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "UPENDO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "VIJIBWENI",
+    "WAR_CODE": 17108,
+    "STREET": "MAJENGO",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "NYAKWALE",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "KICHANGANI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "SOKONI",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "KIZIZA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "UVUMBA",
+    "PLACES": ""
+  },
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "REG_CODE": 11,
+    "DISTRIC": "KIGAMBONI",
+    "DIS_CODE": 17,
+    "WARD": "KIBADA",
+    "WAR_CODE": 17109,
+    "STREET": "KIFURUKWE",
+    "PLACES": ""
+  }
+]
