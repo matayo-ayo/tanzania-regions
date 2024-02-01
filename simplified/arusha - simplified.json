@@ -1,0 +1,5486 @@
+[
+  {
+    "REGION": "ARUSHA",
+    "POSTCODE": 23,
+    "DISTRIC": [
+      {
+        "NAME": "ARUSHA CBD",
+        "POSTCODE": 231,
+        "WARD": [
+          {
+            "NAME": "SEKEI",
+            "POSTCODE": 23101,
+            "STREETS": [
+              {
+                "NAME": "SANAWARI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAUREI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAA WA AICC",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAA WA MAHAKAMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAURA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOLIONDOI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KATI",
+            "POSTCODE": 23102,
+            "STREETS": [
+              {
+                "NAME": "BONDENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PANGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KALOLENI",
+            "POSTCODE": 23103,
+            "STREETS": [
+              {
+                "NAME": "KALOLENI MAGHARIBI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MITA 200",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KALOLENI MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEVOLOSI",
+            "POSTCODE": 23104,
+            "STREETS": [
+              {
+                "NAME": "MTAA WA LEVOLOSI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGARENARO",
+            "POSTCODE": 23105,
+            "STREETS": [
+              {
+                "NAME": "KAMBI YA FISI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DARAJANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NHC",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TCA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MITA 200",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ELERAI",
+            "POSTCODE": 23106,
+            "STREETS": [
+              {
+                "NAME": "KWARE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BURKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AZIMIO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHAMSI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SAMANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SACON",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "REMTULA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAMA MUSA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGURUMO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "URUNDINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHUMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO “A”",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO “B”",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UNGA LIMITED",
+            "POSTCODE": 23107,
+            "STREETS": [
+              {
+                "NAME": "ESSO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIWANDANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKABURI YA BANIANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TINDIGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DARAJANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OSTERBAY",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "DARAJA II",
+            "POSTCODE": 23108,
+            "STREETS": [
+              {
+                "NAME": "JAMHURI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ALINYANYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SANARE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NDARVOI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DARAJANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KATI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "THEMI",
+            "POSTCODE": 23109,
+            "STREETS": [
+              {
+                "NAME": "THEMI MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLD POLICE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CORRIDOR AREA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AICC FLATS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAMBARAGE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIMANDOLU",
+            "POSTCODE": 23110,
+            "STREETS": [
+              {
+                "NAME": "KITIANGARE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TINDIGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIJENGE KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIJENGE KUSINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLORIENI",
+            "POSTCODE": 23111,
+            "STREETS": [
+              {
+                "NAME": "SUYE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MEIRIOTI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWANAMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBESHERE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MOIVOI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RC",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BARAA",
+            "POSTCODE": 23112,
+            "STREETS": [
+              {
+                "NAME": "KWA MREFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SORENYI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIROSHI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OFISINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAMBI YA CHUPA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MFEREJINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SIARA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ELKIROUWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEMARA",
+            "POSTCODE": 23113,
+            "STREETS": [
+              {
+                "NAME": "ILKIROUWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLEPHOLOS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KORONGONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIKWAKWARU ‘A’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIKWAKWARU‘B’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LEMARA KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SUNFLAG",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGUTOTO",
+            "POSTCODE": 23114,
+            "STREETS": [
+              {
+                "NAME": "BLOCK C1",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BLOCK C2",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BLOCK D",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BLOCK F",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BLOCK H",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BLOCK J",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOKON 1",
+            "POSTCODE": 23115,
+            "STREETS": [
+              {
+                "NAME": "LOLOVONO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LONGDONG",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MURRIET",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KANISANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SAINEVUNO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MADUKANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOMBETINI",
+            "POSTCODE": 23116,
+            "STREETS": [
+              {
+                "NAME": "SIMANJIRO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BANDA MBILI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIRIKA ‘A’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLAMURRAKI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TERRAT",
+            "POSTCODE": 23117,
+            "STREETS": [
+              {
+                "NAME": "LAITAYOK",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IMITONG'WA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASKIRIA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BONDENI KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLEPOLOSI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ERANGAU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLKUNGU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ENGAVUNET",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MOSHONO",
+            "POSTCODE": 23118,
+            "STREETS": [
+              {
+                "NAME": "NANJA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MOSHONO KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ENGOSOWASH",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "T.PACKERS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLKEREYAN KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LAIZER",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LOSIRWAYLAIZER",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KALIMAJI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLASITI",
+            "POSTCODE": 23119,
+            "STREETS": [
+              {
+                "NAME": "KIMINDOROSI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLASITI CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLORESHO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLKEREYAN",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BURKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLTEVES",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MOIVARO",
+            "POSTCODE": 23120,
+            "STREETS": [
+              {
+                "NAME": "EDANYOEMASI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MOIVARO KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHANGARAO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGURUMAUS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SEKEI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MOSHONO KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SINONI",
+            "POSTCODE": 23121,
+            "STREETS": [
+              {
+                "NAME": "MAKAO MAPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLEVOLOS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLOMOKEYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLJANVUTIAN",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLIMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIGUNGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ENGOSENGIU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MURIET",
+            "POSTCODE": 23122,
+            "STREETS": [
+              {
+                "NAME": "BONDENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KATI",
+                "PLACES": [
+                  "",
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MURIETI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLIMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSASANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "FFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ELUANYI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NADOSOITO KUSINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGORIENITO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLDONYOKUMUR",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "EMBARARWAI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OSUNYAI JR",
+            "POSTCODE": 23123,
+            "STREETS": [
+              {
+                "NAME": "OSUNYAI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGUSERO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIRIKA 'B'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "JR",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SAKINA",
+            "POSTCODE": 23124,
+            "STREETS": [
+              {
+                "NAME": "OLMATEJOO “A”",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAVARANA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GIRIKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "OLMATEJO “B”",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAIRIVA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SAKINA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MELAMARI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLMOTI",
+            "POSTCODE": 23125,
+            "STREETS": [
+              {
+                "NAME": "OLMOTI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGARAMTONI YA CHINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLIMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIRONGOINE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAFCO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "ARUSHA",
+        "POSTCODE": 232,
+        "WARD": [
+          {
+            "NAME": "OLTURUMET",
+            "POSTCODE": 23201,
+            "STREETS": [
+              {
+                "NAME": "NAFCO",
+                "PLACES": [
+                  "EKENYWA",
+                  "SEURI",
+                  "ILKUISHINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MWANDET",
+            "POSTCODE": 23202,
+            "STREETS": [
+              {
+                "NAME": "IMBIBIA",
+                "PLACES": [
+                  "SUGUMEN",
+                  "MUKULAT",
+                  "IMBIBIAKATI"
+                ]
+              },
+              {
+                "NAME": "LOSIKITO",
+                "PLACES": [
+                  "LEMBOLEI",
+                  "LEMBASHISHI",
+                  "OLOMISHIRA",
+                  "LOSIRWA"
+                ]
+              },
+              {
+                "NAME": "ENGALAONI",
+                "PLACES": [
+                  "BOMBANI",
+                  "LEWAWA",
+                  "ORMUKUNA"
+                ]
+              },
+              {
+                "NAME": "ENGURTOTO",
+                "PLACES": [
+                  "MBUKARA",
+                  "OLORIKOTI",
+                  "SHULENI",
+                  "ENGANALET"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLKOKOLA",
+            "POSTCODE": 23203,
+            "STREETS": [
+              {
+                "NAME": "OLKEJULENDERIT",
+                "PLACES": [
+                  "KANDA SIKIRIET",
+                  "OLBAMBA",
+                  "OLKEJULENDERIT"
+                ]
+              },
+              {
+                "NAME": "ILKUROT",
+                "PLACES": [
+                  "NGALUMA",
+                  "SARUNGA"
+                ]
+              },
+              {
+                "NAME": "LENGIJAVE",
+                "PLACES": [
+                  "OLOLUA",
+                  "OLBAK",
+                  "ILTULELE",
+                  "KIBORI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLDONYOSAMBU",
+            "POSTCODE": 23204,
+            "STREETS": [
+              {
+                "NAME": "OLDONYOSAMBU",
+                "PLACES": [
+                  "MADUKANI",
+                  "OLDONYO- SAMBU",
+                  "MARURANI"
+                ]
+              },
+              {
+                "NAME": "LEMONG'O",
+                "PLACES": [
+                  "LEMONG'O JUU",
+                  "NGIVILAT",
+                  "LEMUNGE"
+                ]
+              },
+              {
+                "NAME": "LEMANDA",
+                "PLACES": [
+                  "LEMANDA",
+                  "ZAHANATI",
+                  "ENJOCK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MUSA",
+            "POSTCODE": 23205,
+            "STREETS": [
+              {
+                "NAME": "OLOITUSHULA",
+                "PLACES": [
+                  "LOOLASHO",
+                  "LOOLOVON",
+                  "MASHARIKI"
+                ]
+              },
+              {
+                "NAME": "NENGUNG'U",
+                "PLACES": [
+                  "OLKILORITI",
+                  "NGORIENITO"
+                ]
+              },
+              {
+                "NAME": "OLCHOROVUS",
+                "PLACES": [
+                  "ENJORO ONDARE",
+                  "EMANYATA",
+                  "ENGUSERO"
+                ]
+              },
+              {
+                "NAME": "LIKAMBA",
+                "PLACES": [
+                  "OLOMISHIRA",
+                  "OLOVONI",
+                  "LIKAMBA",
+                  "EUNOTO",
+                  "ENGUVURURANA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KISONGO",
+            "POSTCODE": 23206,
+            "STREETS": [
+              {
+                "NAME": "ENGORORA",
+                "PLACES": [
+                  "ENGORORA KATI",
+                  "LOSINONI",
+                  "EMATASYA"
+                ]
+              },
+              {
+                "NAME": "ILKERIN",
+                "PLACES": [
+                  "ILKERIN JUU",
+                  "PARSELIAN",
+                  "NAROMURU"
+                ]
+              },
+              {
+                "NAME": "LESIRAA",
+                "PLACES": [
+                  "LOSINGIRA",
+                  "BWAWANI",
+                  "LESIRAA",
+                  "MTEELELU"
+                ]
+              },
+              {
+                "NAME": "LOVILUKUNY",
+                "PLACES": [
+                  "LOVILUKUNY",
+                  "LOONGULULU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BANGATA",
+            "POSTCODE": 23207,
+            "STREETS": [
+              {
+                "NAME": "BANGATA",
+                "PLACES": [
+                  "OLEVOLOS",
+                  "MEERENY",
+                  "ENGIKARET"
+                ]
+              },
+              {
+                "NAME": "MIDAWE",
+                "PLACES": [
+                  "NRUKENY",
+                  "MANGOLA"
+                ]
+              },
+              {
+                "NAME": "SASI",
+                "PLACES": [
+                  "SANGANANU",
+                  "NKOASEI",
+                  "NKOANICHE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOKON II",
+            "POSTCODE": 23208,
+            "STREETS": [
+              {
+                "NAME": "SOKON II",
+                "PLACES": [
+                  "SIMANJIRO",
+                  "NAMBERE",
+                  "NGOILENYA",
+                  "ILKILORIT",
+                  "LONGIDARE"
+                ]
+              },
+              {
+                "NAME": "OLDADAI",
+                "PLACES": [
+                  "KIJAVE",
+                  "KIVESI",
+                  "ACHI",
+                  "MISHORORI"
+                ]
+              },
+              {
+                "NAME": "NGIRES",
+                "PLACES": [
+                  "KIUTU",
+                  "SOYEN",
+                  "OLTUROTO",
+                  "OLEVOLOS",
+                  "NGOIKAA",
+                  "KIMELOK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIRANYI",
+            "POSTCODE": 23209,
+            "STREETS": [
+              {
+                "NAME": "NGIRES",
+                "PLACES": [
+                  "KIRANYI",
+                  "SIWANDETI",
+                  "ILKIUREI",
+                  "NAMAYANA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLORIEN",
+            "POSTCODE": 23210,
+            "STREETS": [
+              {
+                "NAME": "NGIRES",
+                "PLACES": [
+                  "OLORIEN",
+                  "OLOSIVA",
+                  "MRINGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ILKIDING'A",
+            "POSTCODE": 23211,
+            "STREETS": [
+              {
+                "NAME": "ILKIDING'A",
+                "PLACES": [
+                  "MULA",
+                  "LOBULU",
+                  "NDIKALA",
+                  "LAIZER"
+                ]
+              },
+              {
+                "NAME": "OLOIGERUNO",
+                "PLACES": [
+                  "OLOIGERUNO",
+                  "NARESHO",
+                  "OLTULELE",
+                  "OLDONYO"
+                ]
+              },
+              {
+                "NAME": "ILKISONGO",
+                "PLACES": [
+                  "ILMELILI",
+                  "ILKISONGO CHINI",
+                  "ILKISONGO JUU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SAMBASHA",
+            "POSTCODE": 23212,
+            "STREETS": [
+              {
+                "NAME": "SAMBASHA",
+                "PLACES": [
+                  "HUDUMA",
+                  "ILPARAKWO",
+                  "MPAKANI"
+                ]
+              },
+              {
+                "NAME": "SHIMBORO",
+                "PLACES": [
+                  "LTINGIDI",
+                  "MADUKANI",
+                  "MUTERIAN",
+                  "MEDUTI"
+                ]
+              },
+              {
+                "NAME": "TIMBOLO",
+                "PLACES": [
+                  "OMELILI",
+                  "MASANGA",
+                  "MIUNGA",
+                  "NAROKI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIMNYAKI",
+            "POSTCODE": 23213,
+            "STREETS": [
+              {
+                "NAME": "OLMRINGARINGA",
+                "PLACES": [
+                  "SAIBOKU",
+                  "SHULE",
+                  "JOSHO",
+                  "MELEMBUKI"
+                ]
+              },
+              {
+                "NAME": "OLOVOLOS",
+                "PLACES": [
+                  "MAENDELEO",
+                  "WATAALAM",
+                  "VITENDO",
+                  "JUHUDI"
+                ]
+              },
+              {
+                "NAME": "KIMNYAKI",
+                "PLACES": [
+                  "MITARONI",
+                  "LEKAKO",
+                  "LOINEPUNYE",
+                  "WAVII"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLMOTONYI",
+            "POSTCODE": 23214,
+            "STREETS": [
+              {
+                "NAME": "KIMNYAKI",
+                "PLACES": [
+                  "NGARAMTONI",
+                  "OLMOTONYI",
+                  "EMAOI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLJORO",
+            "POSTCODE": 23215,
+            "STREETS": [
+              {
+                "NAME": "MIRONGOINE",
+                "PLACES": [
+                  "BONDENI",
+                  "KIGONGONI",
+                  "KUMBAKUMBA"
+                ]
+              },
+              {
+                "NAME": "OLJORO",
+                "PLACES": [
+                  "UJAMAA",
+                  "OLMOTONY",
+                  "KIKEDOKINI"
+                ]
+              },
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  "ENDEVES",
+                  "ILMITONG'WA",
+                  "MBUYUNI",
+                  "ENJIKAKA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLTUROTO",
+            "POSTCODE": 23216,
+            "STREETS": [
+              {
+                "NAME": "KIVULUL",
+                "PLACES": [
+                  "OLOIGERO",
+                  "OLMARET",
+                  "OLMATEJO"
+                ]
+              },
+              {
+                "NAME": "OLDONYOSAPUK",
+                "PLACES": [
+                  "ILMADU",
+                  "OLDONYO",
+                  "MAGWA",
+                  "KARANTINI",
+                  "SHULENI"
+                ]
+              },
+              {
+                "NAME": "ILKIREVI",
+                "PLACES": [
+                  "OLTUROTO",
+                  "OLOIROWA",
+                  "LESHABARI"
+                ]
+              },
+              {
+                "NAME": "OSUNYAI",
+                "PLACES": [
+                  "EKENYWA",
+                  "OLDONYONO",
+                  "OSUNYAI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MOIVO",
+            "POSTCODE": 23217,
+            "STREETS": [
+              {
+                "NAME": "OSUNYAI",
+                "PLACES": [
+                  "MOIVO",
+                  "OLTULELEI",
+                  "OLORESHO",
+                  "SAMA",
+                  "ILKOLOLORIT"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MLANGARINI",
+            "POSTCODE": 23218,
+            "STREETS": [
+              {
+                "NAME": "MLANGARINI",
+                "PLACES": [
+                  "MAJENGO",
+                  "MLANGARINI KATI",
+                  "BONDENI"
+                ]
+              },
+              {
+                "NAME": "KISERIAN",
+                "PLACES": [
+                  "LOSILWAY",
+                  "LOONGIVA",
+                  "KESERIAN",
+                  "MBUNI",
+                  "LESOIT",
+                  "MUUNGANO",
+                  "MLIMANI",
+                  "OLMARAROI",
+                  "OLODERIT"
+                ]
+              },
+              {
+                "NAME": "MANYIRE",
+                "PLACES": [
+                  "UPENDO",
+                  "MAJENGO",
+                  "MAKAO MAPYA",
+                  "OLMESERA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NDURUMA",
+            "POSTCODE": 23219,
+            "STREETS": [
+              {
+                "NAME": "NDURUMA",
+                "PLACES": [
+                  "OLODENDERIT",
+                  "MAROROI",
+                  "NDURUMA KATI",
+                  "NDURUMA MADUKANI"
+                ]
+              },
+              {
+                "NAME": "SAMARIA",
+                "PLACES": [
+                  "UNGUUNI",
+                  "USANDAWENI",
+                  "KICHANGANI",
+                  "SAMARIA"
+                ]
+              },
+              {
+                "NAME": "MARURANI",
+                "PLACES": [
+                  "JAMAIKA",
+                  "MURURANI HUDUMA",
+                  "MARURANI KATI",
+                  "MSHIKAMANO",
+                  "UMOJA"
+                ]
+              },
+              {
+                "NAME": "MAJI MOTO",
+                "PLACES": [
+                  "ZAIRE",
+                  "MSUMBIJI",
+                  "KITONGOJINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BWAWANI",
+            "POSTCODE": 23220,
+            "STREETS": [
+              {
+                "NAME": "BWAWANI",
+                "PLACES": [
+                  "KAZAMOYO",
+                  "BWAWANI",
+                  "OLMAVINU",
+                  "MWANDETI",
+                  "LAMOLOK",
+                  "MAJENGO"
+                ]
+              },
+              {
+                "NAME": "THEMI YA SIMBA",
+                "PLACES": [
+                  "NYAMAGANA",
+                  "SONGAMBELE",
+                  "LEMEDEYE"
+                ]
+              },
+              {
+                "NAME": "MUNGUSHI",
+                "PLACES": [
+                  "KIBAONI",
+                  "BURKA",
+                  "MUNGUSHI",
+                  "GALILAYA"
+                ]
+              },
+              {
+                "NAME": "KIGONGONI",
+                "PLACES": [
+                  "DARAJANI",
+                  "MASAINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MATEVES",
+            "POSTCODE": 23221,
+            "STREETS": [
+              {
+                "NAME": "NGORBOB",
+                "PLACES": [
+                  "KAMBI YA MAZIWA",
+                  "SOVOYO",
+                  "EMATASIA",
+                  "ORNGIOSWA",
+                  "OLKARIA"
+                ]
+              },
+              {
+                "NAME": "LEMUGUR",
+                "PLACES": [
+                  "NGULUVANI",
+                  "ENGIKARET",
+                  "SAROVO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEMANYATA",
+            "POSTCODE": 23222,
+            "STREETS": [
+              {
+                "NAME": "LEMANYATA",
+                "PLACES": [
+                  "RC MISSION",
+                  "LEMANYATA",
+                  "OLMOTONY"
+                ]
+              },
+              {
+                "NAME": "OLKOKOLA",
+                "PLACES": [
+                  "OLAMA",
+                  "ENGORIKA",
+                  "SANDO",
+                  "STESHENI"
+                ]
+              },
+              {
+                "NAME": "LENJANI",
+                "PLACES": [
+                  "LENJANI",
+                  "MATIMU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLDONYOWASS",
+            "POSTCODE": 23223,
+            "STREETS": [
+              {
+                "NAME": "OLDONYOWASS",
+                "PLACES": [
+                  "SURA",
+                  "OLDONYOWASS",
+                  "MAREU",
+                  "SOKONI"
+                ]
+              },
+              {
+                "NAME": "LOSINONI",
+                "PLACES": [
+                  "PATURUMANI",
+                  "ENGEDEKO",
+                  "LESAKARTATA"
+                ]
+              },
+              {
+                "NAME": "ENGUTUKOIT",
+                "PLACES": [
+                  "ENGUTUKOIT",
+                  "ESIRALE",
+                  "MADEBE",
+                  "KAANANI"
+                ]
+              },
+              {
+                "NAME": "LOSINONI JUU",
+                "PLACES": [
+                  "LOSINONI JUU",
+                  "NAMEROK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LAROI",
+            "POSTCODE": 23224,
+            "STREETS": [
+              {
+                "NAME": "LAROI",
+                "PLACES": [
+                  "MLIMAN FARM",
+                  "NAMBA  10",
+                  "LAROI"
+                ]
+              },
+              {
+                "NAME": "ENJORO",
+                "PLACES": [
+                  "ENJORO",
+                  "NAMBA 2 NA 3"
+                ]
+              },
+              {
+                "NAME": "KISIMA CHA MUNGU",
+                "PLACES": [
+                  "NAMBA 13",
+                  "BWAWANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIUTU",
+            "POSTCODE": 23225,
+            "STREETS": [
+              {
+                "NAME": "SEKEI",
+                "PLACES": [
+                  "MENYEMBERE",
+                  "MBAAVAI",
+                  "MENG'ORIKI",
+                  "JORDAN",
+                  "KIVESI"
+                ]
+              },
+              {
+                "NAME": "NAUREI",
+                "PLACES": [
+                  "SOKON BARAZANI",
+                  "OSYAITI",
+                  "EMAYANA"
+                ]
+              },
+              {
+                "NAME": "ENGORIKA",
+                "PLACES": [
+                  "EMBALAKAI",
+                  "RIKOYAN",
+                  "MURUVE",
+                  "KAILAS"
+                ]
+              },
+              {
+                "NAME": "OLGILAI",
+                "PLACES": [
+                  "KIMELOK",
+                  "LAIZER",
+                  "KIVESI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TARAKWA",
+            "POSTCODE": 23226,
+            "STREETS": [
+              {
+                "NAME": "OLGILAI",
+                "PLACES": [
+                  "TARAKWA",
+                  "SAITABAU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ILBORU",
+            "POSTCODE": 23227,
+            "STREETS": [
+              {
+                "NAME": "OLGILAI",
+                "PLACES": [
+                  "OLTULELEI",
+                  "MERETU"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "ARUMERU",
+        "POSTCODE": 233,
+        "WARD": [
+          {
+            "NAME": "USA RIVER",
+            "POSTCODE": 23301,
+            "STREETS": [
+              {
+                "NAME": "OLGILAI",
+                "PLACES": [
+                  "NGARESERO",
+                  "MJI MWEMA",
+                  "USA MADUKANI",
+                  "KWA KISAMBARE",
+                  "MAGADIRISHO",
+                  "MLIMA SIYONI",
+                  "MAGADINI",
+                  "MANYATA KATI",
+                  "NGANANA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAJI YA CHAI",
+            "POSTCODE": 23302,
+            "STREETS": [
+              {
+                "NAME": "NGURDOTO",
+                "PLACES": [
+                  "BONDENI",
+                  "MSESEVENI",
+                  "MBURIASHI",
+                  "MSAMANENI",
+                  "KATI"
+                ]
+              },
+              {
+                "NAME": "KITEFU",
+                "PLACES": [
+                  "MASAALENI",
+                  "TANESCO",
+                  "MKUUNY",
+                  "KIMANDAFU",
+                  "BONDENI"
+                ]
+              },
+              {
+                "NAME": "MAJI YA CHAI",
+                "PLACES": [
+                  "K/CENTRE",
+                  "KIMANDAFU",
+                  "MAJI YA CHAI KATI"
+                ]
+              },
+              {
+                "NAME": "LERAI",
+                "PLACES": [
+                  "NGORIKA",
+                  "MAGADINI",
+                  "LERAI KATI"
+                ]
+              },
+              {
+                "NAME": "NGONGONGARE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NKOARANGA",
+            "POSTCODE": 23303,
+            "STREETS": [
+              {
+                "NAME": "NSHUPU",
+                "PLACES": [
+                  "MLONDO",
+                  "NSHUPU ASILI",
+                  "KIRIMA"
+                ]
+              },
+              {
+                "NAME": "NKOARANGA",
+                "PLACES": [
+                  "TELEMBO",
+                  "KOMBO \"A",
+                  "KOMBO \"B",
+                  "NGORIKA"
+                ]
+              },
+              {
+                "NAME": "NGYANI",
+                "PLACES": [
+                  "MARIKANDA",
+                  "SAUNYI",
+                  "NKOASAKIRI",
+                  "MAWENI",
+                  "TEEMA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "POLI",
+            "POSTCODE": 23304,
+            "STREETS": [
+              {
+                "NAME": "NDATU",
+                "PLACES": [
+                  "NKURA",
+                  "MULA",
+                  "KILALANIC"
+                ]
+              },
+              {
+                "NAME": "NJORO",
+                "PLACES": [
+                  "NTUWE",
+                  "NJORO"
+                ]
+              },
+              {
+                "NAME": "POLI",
+                "PLACES": [
+                  "RUMALE",
+                  "KERESHU",
+                  "POLI KATI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SEELA SING'ISI",
+            "POSTCODE": 23305,
+            "STREETS": [
+              {
+                "NAME": "SING'ISI",
+                "PLACES": [
+                  "NSTONI",
+                  "MAVINUNI",
+                  "MARINGA",
+                  "KYARAA",
+                  "NKOAFIRI"
+                ]
+              },
+              {
+                "NAME": "MALALA",
+                "PLACES": [
+                  "CHEMCHEM",
+                  "MADIIRA",
+                  "SOWETO"
+                ]
+              },
+              {
+                "NAME": "SEELA",
+                "PLACES": [
+                  "NANDERE",
+                  "SEELA KATI",
+                  "KIBENU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "AKHERI",
+            "POSTCODE": 23306,
+            "STREETS": [
+              {
+                "NAME": "PATANDI",
+                "PLACES": [
+                  "DULUTI",
+                  "PATANDI",
+                  "TENGERU",
+                  "MAVINUNI"
+                ]
+              },
+              {
+                "NAME": "NGURUMA",
+                "PLACES": [
+                  "NGURUMA KATI",
+                  "MURAIWENI",
+                  "MANYIRE",
+                  "MAKSORU"
+                ]
+              },
+              {
+                "NAME": "AKHERI",
+                "PLACES": [
+                  "MARINGA",
+                  "NKOAMALAY",
+                  "IFURINY"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NKOARISAMBU",
+            "POSTCODE": 23307,
+            "STREETS": [
+              {
+                "NAME": "MFULONY",
+                "PLACES": [
+                  "MFULONY",
+                  "ULUU",
+                  "NKOANDOUA",
+                  "NKOANANYA"
+                ]
+              },
+              {
+                "NAME": "KIMUNDO",
+                "PLACES": [
+                  "KIMUNDO",
+                  "DAMU",
+                  "SHIMBUMBU",
+                  "NKOAYAALO"
+                ]
+              },
+              {
+                "NAME": "NKOARISAMBU",
+                "PLACES": [
+                  "NKOARISAMBU",
+                  "NDOOMBO KATI",
+                  "NDOOMBO MLIMANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NKOANRUA",
+            "POSTCODE": 23308,
+            "STREETS": [
+              {
+                "NAME": "NKOANRUA",
+                "PLACES": [
+                  "NKOARUA KATI",
+                  "KARIVA KIMUNYA",
+                  "MURAI WENY",
+                  "NKOAMBIAA",
+                  "SHASHONY"
+                ]
+              },
+              {
+                "NAME": "LOITA NKOAMALA",
+                "PLACES": [
+                  "LOITA",
+                  "NKOAMAALA"
+                ]
+              },
+              {
+                "NAME": "KIPANDE NKOAVELE",
+                "PLACES": [
+                  "KIPANDE",
+                  "NKOAVELE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SONGORO",
+            "POSTCODE": 23309,
+            "STREETS": [
+              {
+                "NAME": "SONGORO",
+                "PLACES": [
+                  "KYUTA",
+                  "SHARA",
+                  "NKOASAKUYA",
+                  "NKWERARI"
+                ]
+              },
+              {
+                "NAME": "SURA",
+                "PLACES": [
+                  "MANGUVA",
+                  "NSHING'A",
+                  "NKOAROUA",
+                  "MBOLELE",
+                  "KYARETO"
+                ]
+              },
+              {
+                "NAME": "USHILI",
+                "PLACES": [
+                  "USHILI",
+                  "KYARETO",
+                  "UROLWATALA"
+                ]
+              },
+              {
+                "NAME": "URISHO",
+                "PLACES": [
+                  "KOMBO",
+                  "URISHOANDA",
+                  "KYARETO",
+                  "ULUBORU",
+                  "MBOLELE"
+                ]
+              },
+              {
+                "NAME": "MULALA",
+                "PLACES": [
+                  "KYUTA",
+                  "NKOATILA",
+                  "METO",
+                  "NKOANASARI"
+                ]
+              },
+              {
+                "NAME": "KILINGA",
+                "PLACES": [
+                  "BONDENI",
+                  "MWASENY",
+                  "KISIWANI",
+                  "KIMANDOLU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGARENANYUKI",
+            "POSTCODE": 23310,
+            "STREETS": [
+              {
+                "NAME": "OLKUNG'WADO",
+                "PLACES": [
+                  "LENDOIYA",
+                  "KWA LOCK",
+                  "ILKRUMUN",
+                  "OLKUNGWA'DO",
+                  "KIREENY",
+                  "MWEKEY"
+                ]
+              },
+              {
+                "NAME": "ILKRUMUN",
+                "PLACES": [
+                  "OLDINGA",
+                  "ESLALEY"
+                ]
+              },
+              {
+                "NAME": "UWIRO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGABOBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIMIRI CHINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIMIRI  JUU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIKWE",
+            "POSTCODE": 23311,
+            "STREETS": [
+              {
+                "NAME": "KIKWE",
+                "PLACES": [
+                  "MALALA",
+                  "HUDUMA",
+                  "LUWAINI"
+                ]
+              },
+              {
+                "NAME": "NAMBALA",
+                "PLACES": [
+                  "MALALA",
+                  "NGANANA",
+                  "NJORO"
+                ]
+              },
+              {
+                "NAME": "MAWENI",
+                "PLACES": [
+                  "MBOGA",
+                  "POSTA",
+                  "MAZIWA"
+                ]
+              },
+              {
+                "NAME": "KARANGAI",
+                "PLACES": [
+                  "MIEMBENI",
+                  "BONDENI",
+                  "MTONI",
+                  "NRUMANGENY"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBUGUNI",
+            "POSTCODE": 23312,
+            "STREETS": [
+              {
+                "NAME": "MBUGUNI",
+                "PLACES": [
+                  "MADUKANI",
+                  "KAMBI YA TANGA KATI",
+                  "DIPU",
+                  "KAMBI YA TANGA CHINI",
+                  "ROMAN CATHORIC"
+                ]
+              },
+              {
+                "NAME": "MIKUNGANI",
+                "PLACES": [
+                  "SHULENI",
+                  "KANISANI",
+                  "MTONI",
+                  "MSIKITINI",
+                  "KOMOLO"
+                ]
+              },
+              {
+                "NAME": "KIKULETWA",
+                "PLACES": [
+                  "MSUFINI",
+                  "MNAZI MMOJA",
+                  "MANYATA",
+                  "KIGONGONI",
+                  "KATI"
+                ]
+              },
+              {
+                "NAME": "MSITU WA MBOGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKIBA",
+            "POSTCODE": 23313,
+            "STREETS": [
+              {
+                "NAME": "VALESKA",
+                "PLACES": [
+                  "HUDUMA",
+                  "MWAMKO\"A",
+                  "SONGAMBELE",
+                  "MAENDELEO",
+                  "MWAMKO B"
+                ]
+              },
+              {
+                "NAME": "MAKIBA",
+                "PLACES": [
+                  "MABATINI",
+                  "KORONA",
+                  "MTONI",
+                  "SONGAMBELE"
+                ]
+              },
+              {
+                "NAME": "PATANUMBE",
+                "PLACES": [
+                  "MTONI",
+                  "DIPU",
+                  "LOSTETI",
+                  "TAMBARARE",
+                  "NGARENANYUKI"
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MARORONI",
+            "POSTCODE": 23314,
+            "STREETS": [
+              {
+                "NAME": "MARORONI",
+                "PLACES": [
+                  "KILIMAMOJA",
+                  "TANESCO",
+                  "KANANI",
+                  "ZAIRE",
+                  "NAZARETI"
+                ]
+              },
+              {
+                "NAME": "SAMARIA",
+                "PLACES": [
+                  "BONDENI",
+                  "KIJENGE",
+                  "ZAIRE",
+                  "SAVANA",
+                  "KATI"
+                ]
+              },
+              {
+                "NAME": "KWAUGORO",
+                "PLACES": [
+                  "ZAIRE",
+                  "YERIKO",
+                  "KILOMBERO",
+                  "MIGANDINI",
+                  "MAGANDINI"
+                ]
+              },
+              {
+                "NAME": "MIGANDINI",
+                "PLACES": [
+                  "MIGANDINI",
+                  "MAGADINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIKATITI",
+            "POSTCODE": 23315,
+            "STREETS": [
+              {
+                "NAME": "KIKATITI",
+                "PLACES": [
+                  "KIKATITI MJINI",
+                  "SURUMALA",
+                  "NKOAMANGASHA"
+                ]
+              },
+              {
+                "NAME": "NASHOLI",
+                "PLACES": [
+                  "MLIMANI",
+                  "KAMBI YA MKAA"
+                ]
+              },
+              {
+                "NAME": "SAKILA CHINI",
+                "PLACES": [
+                  "DACHI",
+                  "LUWAINI",
+                  "OLKONONOI"
+                ]
+              },
+              {
+                "NAME": "NGYEKU",
+                "PLACES": [
+                  "NKAOSABAYA",
+                  "MLIMANI",
+                  "NGYEKU KATI",
+                  "CHEMCHEM"
+                ]
+              },
+              {
+                "NAME": "SAKILA",
+                "PLACES": [
+                  "ULUKUSARE",
+                  "NRUMANGENY",
+                  "MKUFINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KING'ORI",
+            "POSTCODE": 23316,
+            "STREETS": [
+              {
+                "NAME": "MAREU",
+                "PLACES": [
+                  "MAREU SENTA",
+                  "KWA PHILIPO",
+                  "HOSPITALI",
+                  "KWA MASIKA",
+                  "MELATOI",
+                  "KWA PHILIPO B"
+                ]
+              },
+              {
+                "NAME": "NKOANSIYO",
+                "PLACES": [
+                  "SIKIRARI",
+                  "HOSPITALI",
+                  "NKOANEEMA"
+                ]
+              },
+              {
+                "NAME": "KING'ORI",
+                "PLACES": [
+                  "KWA KIRENGA",
+                  "URISHO",
+                  "MADUKANI",
+                  "MSESEWENI"
+                ]
+              },
+              {
+                "NAME": "NSENGONY",
+                "PLACES": [
+                  "NTUWE",
+                  "MBORENY",
+                  "NKOANOEL",
+                  "CHEMCHEM"
+                ]
+              },
+              {
+                "NAME": "NKOANOEL",
+                "PLACES": [
+                  "BONDENI",
+                  "NOEL SENTA"
+                ]
+              },
+              {
+                "NAME": "MBORENY",
+                "PLACES": [
+                  "KIDIRE",
+                  "NONGILI"
+                ]
+              },
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  "KWA TULELE",
+                  "MANYATA",
+                  "MULALA",
+                  "MIKAELI"
+                ]
+              },
+              {
+                "NAME": "OLDONYANGIRO",
+                "PLACES": [
+                  "KWA MASIKA",
+                  "HOSPITALI",
+                  "OLDONYONGIRO",
+                  "KWA PETRO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEGURUKI",
+            "POSTCODE": 23317,
+            "STREETS": [
+              {
+                "NAME": "LEGURUKI",
+                "PLACES": [
+                  "MLIMANI",
+                  "MADUKANI",
+                  "NOSEIYA"
+                ]
+              },
+              {
+                "NAME": "NKOASENGA",
+                "PLACES": [
+                  "MAAMGALIO",
+                  "SENETO",
+                  "BWAWANI",
+                  "CENTER"
+                ]
+              },
+              {
+                "NAME": "MIRIRINY",
+                "PLACES": [
+                  "SUKUTA",
+                  "LOLERA",
+                  "SINAI"
+                ]
+              },
+              {
+                "NAME": "KANDASHE",
+                "PLACES": [
+                  "MIANZINI",
+                  "SAOINAJU",
+                  "CENTRE"
+                ]
+              },
+              {
+                "NAME": "SHISHTON",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MARUANGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SHAMBARAI BURKA",
+            "POSTCODE": 23318,
+            "STREETS": [
+              {
+                "NAME": "SHAMBARAI BURKA",
+                "PLACES": [
+                  "SHAMBARAI KATI",
+                  "HUDUMA",
+                  "TUMAINI"
+                ]
+              },
+              {
+                "NAME": "KERIKENYI",
+                "PLACES": [
+                  "SOFIA",
+                  "NDURUMA",
+                  "MANDELA"
+                ]
+              },
+              {
+                "NAME": "MSITU WA MBOGO",
+                "PLACES": [
+                  "TANKINI",
+                  "KAMPUNI",
+                  "HUDUMA",
+                  "MADUKANI",
+                  "KATI"
+                ]
+              },
+              {
+                "NAME": "KAMBI YA TANGA JUU",
+                "PLACES": [
+                  "SONGAMBELE",
+                  "KAZA MOYO",
+                  "BARBARABA KUU",
+                  "KAMBI YA TANGA JUU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAJENGO",
+            "POSTCODE": 23319,
+            "STREETS": [
+              {
+                "NAME": "KALOLENI",
+                "PLACES": [
+                  "EWASI",
+                  "KALOLENI",
+                  "BONDENI"
+                ]
+              },
+              {
+                "NAME": "MAJENGO KATI",
+                "PLACES": [
+                  "MAJENGO KATI",
+                  "OLMARA",
+                  "HUDUMA"
+                ]
+              },
+              {
+                "NAME": "ENGATANI",
+                "PLACES": [
+                  "ENGATANI",
+                  "MTONI",
+                  "MAJENGO DIPU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MALULA",
+            "POSTCODE": 23320,
+            "STREETS": [
+              {
+                "NAME": "KOLILA",
+                "PLACES": [
+                  "KOLILA",
+                  "NRUMANGENY"
+                ]
+              },
+              {
+                "NAME": "NGEJUSOSIA",
+                "PLACES": [
+                  "MAANGASHINY R.C",
+                  "NGEJUSOSIA KATI",
+                  "MAKAO MAPYA"
+                ]
+              },
+              {
+                "NAME": "NRUMANGENY",
+                "PLACES": [
+                  "NRUMANGENY",
+                  "CHEMCHEM",
+                  "AMANI"
+                ]
+              },
+              {
+                "NAME": "MALULA",
+                "PLACES": [
+                  "MALULA MJINI",
+                  "MIKUUNI",
+                  "RELINI",
+                  "KRISMASS",
+                  "MARETONI",
+                  "MLIMANI",
+                  "RC",
+                  "RC KATI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UWIRO",
+            "POSTCODE": 23321,
+            "STREETS": [
+              {
+                "NAME": "UWIRO",
+                "PLACES": [
+                  "KIMOSONU",
+                  "KYAMAKATA",
+                  "IYAN",
+                  "NNKUUNY",
+                  "MUKURU"
+                ]
+              },
+              {
+                "NAME": "KISIMIRI JUU",
+                "PLACES": [
+                  "ZAHANATI",
+                  "JAMGWALE",
+                  "LUWAI"
+                ]
+              },
+              {
+                "NAME": "KISIMIRI CHINI",
+                "PLACES": [
+                  "UZUNGUNI",
+                  "LENGARE",
+                  "KARAFIA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGABOBO",
+            "POSTCODE": 23322,
+            "STREETS": [
+              {
+                "NAME": "NGABOBO",
+                "PLACES": [
+                  "OLTEPES",
+                  "NGABOBO",
+                  "TANK"
+                ]
+              },
+              {
+                "NAME": "OLTEPES",
+                "PLACES": [
+                  "MWINUKO",
+                  "KILIMASIMBA",
+                  "MAWASILIANO"
+                ]
+              },
+              {
+                "NAME": "TANK",
+                "PLACES": [
+                  "MADUKANI",
+                  "TANK",
+                  "MAJENGO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MARUVANGO",
+            "POSTCODE": 23323,
+            "STREETS": [
+              {
+                "NAME": "MARUVANGO",
+                "PLACES": [
+                  "KAVESHE",
+                  "CENTRE",
+                  "KWATULELE",
+                  "MAKIVARU"
+                ]
+              },
+              {
+                "NAME": "SHISHTONY",
+                "PLACES": [
+                  "ITINGARE",
+                  "SHISHTONY",
+                  "NOSEIYA",
+                  "LERAI"
+                ]
+              },
+              {
+                "NAME": "MBAASENY",
+                "PLACES": [
+                  "NOMBEKO",
+                  "MBAASENY",
+                  "SONGAMBELE"
+                ]
+              },
+              {
+                "NAME": "MOUWARA",
+                "PLACES": [
+                  "HAZINA",
+                  "MBURIASHI",
+                  "MOUWARA CENTRE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IMBASENI",
+            "POSTCODE": 23324,
+            "STREETS": [
+              {
+                "NAME": "NGONGONGARE",
+                "PLACES": [
+                  "ARAUYO",
+                  "NAPOCO",
+                  "MTONI",
+                  "MAMUNA"
+                ]
+              },
+              {
+                "NAME": "KIWAWA",
+                "PLACES": [
+                  "ARUDECO",
+                  "KIWAWA",
+                  "BONDENI"
+                ]
+              },
+              {
+                "NAME": "IMBASENI",
+                "PLACES": [
+                  "SOKONI",
+                  "CHEMCHEM",
+                  "SHULENI",
+                  "KANISANI",
+                  "TANGINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "AMBURENI",
+            "POSTCODE": 23325,
+            "STREETS": [
+              {
+                "NAME": "AMBURENI",
+                "PLACES": [
+                  "MSORONGO",
+                  "URONY",
+                  "AMBURENI"
+                ]
+              },
+              {
+                "NAME": "SHANGARAI",
+                "PLACES": [
+                  "MOIVARO",
+                  "LORUVANI",
+                  "MACHUMBA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NKOANEKOLI",
+            "POSTCODE": 23326,
+            "STREETS": [
+              {
+                "NAME": "NKOANEKOLI",
+                "PLACES": [
+                  "NKOANEKOLI",
+                  "KWA MANGUSHA",
+                  "NKOAGIROI",
+                  "LOYA",
+                  "MAMIRE",
+                  "JUAKALI"
+                ]
+              },
+              {
+                "NAME": "NKURE",
+                "PLACES": [
+                  "NKURE",
+                  "NKOAGIRIKI",
+                  "NKOAKIRUA"
+                ]
+              },
+              {
+                "NAME": "SANGANANU",
+                "PLACES": [
+                  "HUDUMA",
+                  "STOO",
+                  "UZUNGUNI"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "MONDULI",
+        "POSTCODE": 234,
+        "WARD": [
+          {
+            "NAME": "MONDULI MJINI",
+            "POSTCODE": 23401,
+            "STREETS": [
+              {
+                "NAME": "SANGANANU",
+                "PLACES": [
+                  "MONDULI MAGHARIBI",
+                  "MONDULI MASHARIKI",
+                  "SISONI KATI",
+                  "SABASABA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGUTOTO",
+            "POSTCODE": 23402,
+            "STREETS": [
+              {
+                "NAME": "MLIMANI",
+                "PLACES": [
+                  "MLIMANI MAGHARIBI",
+                  "MLIMANI MASHARIKI",
+                  "MLIMANI MASH.KATI",
+                  "MLIMANI MAGH. KATI"
+                ]
+              },
+              {
+                "NAME": "SINONI/NGARASH",
+                "PLACES": [
+                  "SINON KUSINI",
+                  "NGARASH JUU",
+                  "NGARASH"
+                ]
+              },
+              {
+                "NAME": "OLARASH",
+                "PLACES": [
+                  "LENGINE",
+                  "LOSITETI",
+                  "ORKARIA",
+                  "LESALE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SEPEKO",
+            "POSTCODE": 23403,
+            "STREETS": [
+              {
+                "NAME": "MTI MMOJA",
+                "PLACES": [
+                  "NOONGOIJO",
+                  "SEPEKO",
+                  "MEGWARA"
+                ]
+              },
+              {
+                "NAME": "ARKARIA",
+                "PLACES": [
+                  "ALKARIA",
+                  "OLOODO LALKARIA",
+                  "ALMALOROI",
+                  "ESEKI"
+                ]
+              },
+              {
+                "NAME": "LENDIKINYA",
+                "PLACES": [
+                  "MUGUMANYOKIE",
+                  "LENDIKINYA",
+                  "MURUNDAWA"
+                ]
+              },
+              {
+                "NAME": "ARKATAN",
+                "PLACES": [
+                  "NADOSOITO",
+                  "ARDAI",
+                  "MEGWARA",
+                  "KARATINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MONDULI JUU",
+            "POSTCODE": 23404,
+            "STREETS": [
+              {
+                "NAME": "EMAIRETE",
+                "PLACES": [
+                  "ALASAI",
+                  "ORKETURAI",
+                  "EMAIRETE",
+                  "IMORIJO",
+                  "IRKUNGU"
+                ]
+              },
+              {
+                "NAME": "ELUAI",
+                "PLACES": [
+                  "LERMAHIR",
+                  "KILASHO"
+                ]
+              },
+              {
+                "NAME": "ENGUIKI",
+                "PLACES": [
+                  "NENGILORITI",
+                  "LOIMARORO",
+                  "ORMELI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MESERANI",
+            "POSTCODE": 23405,
+            "STREETS": [
+              {
+                "NAME": "MESERANI JUU",
+                "PLACES": [
+                  "LOOSINGIRAN",
+                  "DUKA BOVU",
+                  "SHAKAPE",
+                  "INGOKUMET",
+                  "MUSSA",
+                  "DUKA MBILI"
+                ]
+              },
+              {
+                "NAME": "MESERANI BWAWANI",
+                "PLACES": [
+                  "LOOLERA",
+                  "EMBARARWAI",
+                  "LIPISIEK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MOITA",
+            "POSTCODE": 23406,
+            "STREETS": [
+              {
+                "NAME": "MOITA KILORITI",
+                "PLACES": [
+                  "EMBARARUAI",
+                  "ERANGAU",
+                  "KONYORI",
+                  "ARKINA",
+                  "EINOTI"
+                ]
+              },
+              {
+                "NAME": "KILORITI KIPOK",
+                "PLACES": [
+                  "LEMUGUR",
+                  "ORKISIMA",
+                  "ENGIKARET"
+                ]
+              },
+              {
+                "NAME": "LOOLERA",
+                "PLACES": [
+                  "LOVILOKUNY",
+                  "LOOLERA",
+                  "EDOINYO"
+                ]
+              },
+              {
+                "NAME": "MOITA BWAWANI",
+                "PLACES": [
+                  "ENDIPIDAPOI",
+                  "NASISINI",
+                  "ORKOLILI",
+                  "KITOSOKOINE",
+                  "NAALARAMI"
+                ]
+              },
+              {
+                "NAME": "KILIMATINDE",
+                "PLACES": [
+                  "SILONGOI",
+                  "NOONGAI",
+                  "KILMATINDE",
+                  "KITOSOKOINE",
+                  "EINITO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LOLKISALE",
+            "POSTCODE": 23407,
+            "STREETS": [
+              {
+                "NAME": "LOLKISALE",
+                "PLACES": [
+                  "LOLKISALE A",
+                  "LOLKISALE B",
+                  "NDARPOI",
+                  "MAKAO MAPYA"
+                ]
+              },
+              {
+                "NAME": "NAFCO",
+                "PLACES": [
+                  "OSILALEI",
+                  "LOONGOLWA B",
+                  "LOONGOLWA C"
+                ]
+              },
+              {
+                "NAME": "TUKUSI",
+                "PLACES": [
+                  "MAKAO MAPYA",
+                  "NAKWENI",
+                  "CHEMCHEMI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSWAKINI",
+            "POSTCODE": 23408,
+            "STREETS": [
+              {
+                "NAME": "NAITOLIA",
+                "PLACES": [
+                  "ORMANGWAI",
+                  "ENGUSERO"
+                ]
+              },
+              {
+                "NAME": "MSWAKINI CHINI",
+                "PLACES": [
+                  "LAMOSAMO",
+                  "ENGASITI",
+                  "SHULENI"
+                ]
+              },
+              {
+                "NAME": "MSWAKINI JUU",
+                "PLACES": [
+                  "LANDILEN",
+                  "ORBUKOI",
+                  "MSIMAMO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ESILALEI",
+            "POSTCODE": 23409,
+            "STREETS": [
+              {
+                "NAME": "LOSIRWA",
+                "PLACES": [
+                  "LOSIRWA JUU",
+                  "LOSIRWA CHINI",
+                  "OLEMIT",
+                  "MTI WA KLINIKI",
+                  "LOSIRWA",
+                  "MAKAO MPAYA"
+                ]
+              },
+              {
+                "NAME": "BARAKA",
+                "PLACES": [
+                  "BARAKA",
+                  "BELGIJI",
+                  "ENGURAISI"
+                ]
+              },
+              {
+                "NAME": "ESILALEI",
+                "PLACES": [
+                  "NDEPESI",
+                  "MAKUYUNI MASAINI",
+                  "ESIMITI",
+                  "SHULENI",
+                  "KANISANI"
+                ]
+              },
+              {
+                "NAME": "OLTUKAI",
+                "PLACES": [
+                  "OLTUKAI",
+                  "ENGUSERO",
+                  "SIMBI",
+                  "ILERA"
+                ]
+              },
+              {
+                "NAME": "MUNGERE",
+                "PLACES": [
+                  "MUNGERE",
+                  "KAMBI YA MKAA",
+                  "ENOLOO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MTO WA MBU",
+            "POSTCODE": 23410,
+            "STREETS": [
+              {
+                "NAME": "BARABARANI",
+                "PLACES": [
+                  "NHC",
+                  "KOREA KUSINI",
+                  "KOREA MAGHARIBI",
+                  "KOREA KASKAZINI"
+                ]
+              },
+              {
+                "NAME": "KISUTU",
+                "PLACES": [
+                  "MNAZI MMOJA",
+                  "UWANJA WA  BARAFU",
+                  "KISUTU KATI"
+                ]
+              },
+              {
+                "NAME": "JANGWANI",
+                "PLACES": [
+                  "JANGWANI ZIWANI",
+                  "MAGOMENI A",
+                  "MAGOMENI B"
+                ]
+              },
+              {
+                "NAME": "MAGADINI",
+                "PLACES": [
+                  "MAGADINI A",
+                  "MAGADINI B",
+                  "N.H.C",
+                  "SOKONI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAJENGO",
+            "POSTCODE": 23411,
+            "STREETS": [
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  "MAJENGO A",
+                  "MAJENGO B",
+                  "MAJENGO C",
+                  "MAJENGO D"
+                ]
+              },
+              {
+                "NAME": "MIGOMBANI",
+                "PLACES": [
+                  "KIRURUMO",
+                  "MIGOMBANI CHINI",
+                  "MAGADINI",
+                  "NJORO",
+                  "MIGOMBANI KATI",
+                  "MIGOMBANI JUU",
+                  "MLIMANI PARK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKUYUNI",
+            "POSTCODE": 23412,
+            "STREETS": [
+              {
+                "NAME": "MAKUYUNI",
+                "PLACES": [
+                  "MAKUYUNI MJINI",
+                  "MAKUYUNI JUU",
+                  "ESIMANGORI",
+                  "SABURI",
+                  "LEMIYONI"
+                ]
+              },
+              {
+                "NAME": "NAITI",
+                "PLACES": [
+                  "NAITI SHULENI",
+                  "LAMBO",
+                  "ORKISIMA"
+                ]
+              },
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  "NJORO",
+                  "BARABARANI",
+                  "LOOLEA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEPURKO",
+            "POSTCODE": 23413,
+            "STREETS": [
+              {
+                "NAME": "LEPURKO SHULENI",
+                "PLACES": [
+                  "ENDARARA",
+                  "LOYONGO",
+                  "MGUU WA ZUBERI"
+                ]
+              },
+              {
+                "NAME": "LOOSIMINGOR",
+                "PLACES": [
+                  "ENGIRIGISI",
+                  "ENGILORITI",
+                  "ORKISIMA",
+                  "NOOSUYAN",
+                  "MILIMANI"
+                ]
+              },
+              {
+                "NAME": "EN'GAROOJI",
+                "PLACES": [
+                  "ENDUPASAT",
+                  "EN'GAROOJI",
+                  "MLIMANI"
+                ]
+              },
+              {
+                "NAME": "NANJA",
+                "PLACES": [
+                  "MGUU WA ZUBERI",
+                  "NOONDIMITO",
+                  "NANJA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SELELA",
+            "POSTCODE": 23414,
+            "STREETS": [
+              {
+                "NAME": "SELELA",
+                "PLACES": [
+                  "SHULENI",
+                  "NADOSOITO",
+                  "BOMBA",
+                  "NDINYIKA",
+                  "RANCH"
+                ]
+              },
+              {
+                "NAME": "MBAASH",
+                "PLACES": [
+                  "OLTEPESI",
+                  "IKLORKOR",
+                  "INJOROI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGARUKA",
+            "POSTCODE": 23415,
+            "STREETS": [
+              {
+                "NAME": "ENGARUKA JUU",
+                "PLACES": [
+                  "MULLA",
+                  "MADUKANI",
+                  "ARUSHANI A",
+                  "ARUSHANI B",
+                  "LEPOLOSI B"
+                ]
+              },
+              {
+                "NAME": "OLDONYO LENGAI",
+                "PLACES": [
+                  "IRKUNG",
+                  "DONYONAADO",
+                  "MIGOMBANI",
+                  "KISERIANI",
+                  "IRKUNG",
+                  "NGOISUK"
+                ]
+              },
+              {
+                "NAME": "ENGARUKA CHINI",
+                "PLACES": [
+                  "ENGARUKA CHINI",
+                  "ALAPALASEK",
+                  "LAPALSEK",
+                  "ENDEPESI",
+                  "NENGALASH",
+                  "ENGORIKA",
+                  "NDERASH",
+                  "NDIMI"
+                ]
+              },
+              {
+                "NAME": "RERENDENI",
+                "PLACES": [
+                  "MKAO",
+                  "NAISIJO",
+                  "ORMESULI",
+                  "ENG'OSWA",
+                  "ORMUNISHOI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MFEREJI",
+            "POSTCODE": 23416,
+            "STREETS": [
+              {
+                "NAME": "IDONYONAADO",
+                "PLACES": [
+                  "IRKUNG",
+                  "IDONYO",
+                  "NAADO"
+                ]
+              },
+              {
+                "NAME": "MFEREJI",
+                "PLACES": [
+                  "EMARTI",
+                  "PUSLUKUNYA",
+                  "IMBOPON'G"
+                ]
+              },
+              {
+                "NAME": "EMURUA",
+                "PLACES": [
+                  "OLNDEMWAI",
+                  "NOONDERKES",
+                  "ORBIL"
+                ]
+              },
+              {
+                "NAME": "KOMESHA",
+                "PLACES": [
+                  "LENGOLONG",
+                  "NOOMAKARANI",
+                  "ORKEJU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LASHAINE",
+            "POSTCODE": 23417,
+            "STREETS": [
+              {
+                "NAME": "LASHAINE",
+                "PLACES": [
+                  "ORNG'OSWA",
+                  "LASHAINE",
+                  "SEPEKO"
+                ]
+              },
+              {
+                "NAME": "ORKESWA",
+                "PLACES": [
+                  "LODING'ORO",
+                  "ENGOSHUKU",
+                  "ORKESWA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAALARAMI",
+            "POSTCODE": 23418,
+            "STREETS": [
+              {
+                "NAME": "NAALARAMI",
+                "PLACES": [
+                  "IRKIDOMUNGE",
+                  "NAALARAMI",
+                  "IDONYO"
+                ]
+              },
+              {
+                "NAME": "LENGILORITI",
+                "PLACES": [
+                  "LENGILORITI",
+                  "LOSIRIRIMI"
+                ]
+              },
+              {
+                "NAME": "ENGORIKA",
+                "PLACES": [
+                  "KIRURUM",
+                  "TULIANG'ATUNY"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LEMOOTI",
+            "POSTCODE": 23419,
+            "STREETS": [
+              {
+                "NAME": "LEMOOTI",
+                "PLACES": [
+                  "LEMOOTI",
+                  "OLORISO",
+                  "LESIDAI"
+                ]
+              },
+              {
+                "NAME": "LONGOOLWA A",
+                "PLACES": [
+                  "LONGOOLWA A",
+                  "ORKISIMA",
+                  "ODONYO",
+                  "ENGOSIPA"
+                ]
+              },
+              {
+                "NAME": "OLDONYO",
+                "PLACES": [
+                  "NYORIT A",
+                  "NYORIT B",
+                  "LENGIJAPE",
+                  "OLDONYO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MIGUNGANI",
+            "POSTCODE": 23420,
+            "STREETS": [
+              {
+                "NAME": "MIGUNGANI A",
+                "PLACES": [
+                  "MNADA WA ZAMANI",
+                  "ROMAN CATHOLIC",
+                  "COMWEX",
+                  "POPO"
+                ]
+              },
+              {
+                "NAME": "MIGUNGANI B",
+                "PLACES": [
+                  "MIGUNGANI KUSINI",
+                  "MAKAO MAPYA",
+                  "MIGUNGANI MASHARIKI"
+                ]
+              },
+              {
+                "NAME": "KIGONGONI",
+                "PLACES": [
+                  "MIEMBENI",
+                  "AMANI",
+                  "BONDENI"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "LONGIDO",
+        "POSTCODE": 235,
+        "WARD": [
+          {
+            "NAME": "LONGIDO",
+            "POSTCODE": 23501,
+            "STREETS": [
+              {
+                "NAME": "LONGIDO",
+                "PLACES": [
+                  "MADUKANI",
+                  "SHULENI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIMOKOUWA",
+            "POSTCODE": 23502,
+            "STREETS": [
+              {
+                "NAME": "KIMOKOUWA",
+                "PLACES": [
+                  "ILTILAL",
+                  "ENDEPESI",
+                  "LOLOIBONI"
+                ]
+              },
+              {
+                "NAME": "EWORENDEKE",
+                "PLACES": [
+                  "SIKARDA",
+                  "MATIANI",
+                  "LESOIT",
+                  "EWORENDEKE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAMANGA",
+            "POSTCODE": 23503,
+            "STREETS": [
+              {
+                "NAME": "NAMANGA",
+                "PLACES": [
+                  "MTAA WA SABA",
+                  "BUGURUNI",
+                  "KISONGO",
+                  "KISONGO B",
+                  "KISONGO C",
+                  "MLIMANI",
+                  "MAKAO MAPYA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TINGATINGA",
+            "POSTCODE": 23504,
+            "STREETS": [
+              {
+                "NAME": "TINGATINGA",
+                "PLACES": [
+                  "ORRO",
+                  "NAMBA 1",
+                  "MADUKANI"
+                ]
+              },
+              {
+                "NAME": "NGEREYANI",
+                "PLACES": [
+                  "NGUNGÓSUNYAI",
+                  "MADUKANI",
+                  "OKII",
+                  "EMBONG’ET  A",
+                  "EMBONG’ET B",
+                  "KIBANGASI",
+                  "NGOBENI",
+                  "ILDONYO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLMOLOG",
+            "POSTCODE": 23505,
+            "STREETS": [
+              {
+                "NAME": "ELERAI",
+                "PLACES": [
+                  "ORMOTI",
+                  "ELERAIKATI",
+                  "ERANGAU"
+                ]
+              },
+              {
+                "NAME": "OLMOLOG",
+                "PLACES": [
+                  "ELWAAI",
+                  "MSHALONI",
+                  "ENGATANI"
+                ]
+              },
+              {
+                "NAME": "LERANG’WA",
+                "PLACES": [
+                  "MUKAO",
+                  "LERANG’WA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAMWANGA",
+            "POSTCODE": 23506,
+            "STREETS": [
+              {
+                "NAME": "KAMWANGA",
+                "PLACES": [
+                  "NAGILENGOS",
+                  "LALARASHI",
+                  "MLIMANI PARK",
+                  "LEPAYON",
+                  "EMURUTOTO"
+                ]
+              },
+              {
+                "NAME": "KITENDEN",
+                "PLACES": [
+                  "KITENDEN",
+                  "MISIGIYO",
+                  "ENGOKOLA"
+                ]
+              },
+              {
+                "NAME": "IRKASWA",
+                "PLACES": [
+                  "MKULIMA",
+                  "KILIMANYUKI",
+                  "MZALENDO",
+                  "KIJIWENI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGIKARET",
+            "POSTCODE": 23507,
+            "STREETS": [
+              {
+                "NAME": "ENGIKARET",
+                "PLACES": [
+                  "INDEMWA",
+                  "OSINYAI",
+                  "EMBALWA"
+                ]
+              },
+              {
+                "NAME": "KISERIAN",
+                "PLACES": [
+                  "ENGASURAI",
+                  "NGÓSWANI",
+                  "OLDONYOLAANDARE",
+                  "MANAU – SITET"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ELANG'ATADAPASH",
+            "POSTCODE": 23508,
+            "STREETS": [
+              {
+                "NAME": "ELANGÁTADAPASH",
+                "PLACES": [
+                  "NGINYE",
+                  "NDARAKWA",
+                  "LOSINONI"
+                ]
+              },
+              {
+                "NAME": "OLCHORONYOKYE",
+                "PLACES": [
+                  "OLCHORONYOKYE",
+                  "LARKARIA",
+                  "INDALETA"
+                ]
+              },
+              {
+                "NAME": "SOKON",
+                "PLACES": [
+                  "SANGEI",
+                  "SOKON",
+                  "KINGÚNA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KETUMBEINE",
+            "POSTCODE": 23509,
+            "STREETS": [
+              {
+                "NAME": "ORKEJULOONGISHU",
+                "PLACES": [
+                  "MADUKANI",
+                  "EWASOLTUROTO"
+                ]
+              },
+              {
+                "NAME": "ENGUSHAI",
+                "PLACES": [
+                  "ENDONYONAJU",
+                  "EUWASNAMANAA",
+                  "MBARANGATI"
+                ]
+              },
+              {
+                "NAME": "ARMANIE",
+                "PLACES": [
+                  "PARMANJA",
+                  "IRBILIN",
+                  "INGOLILI"
+                ]
+              },
+              {
+                "NAME": "LOPOLOSEK",
+                "PLACES": [
+                  "IMBILIN",
+                  "LOPOLOSEK",
+                  "IOORBILIN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MUNDARARA",
+            "POSTCODE": 23510,
+            "STREETS": [
+              {
+                "NAME": "MUNDARARA",
+                "PLACES": [
+                  "LESS MUNDARARA",
+                  "OLORIEN",
+                  "OLONGELU",
+                  "KATARINI",
+                  "INJALAY"
+                ]
+              },
+              {
+                "NAME": "ORGIRA",
+                "PLACES": [
+                  "INGONDIN",
+                  "ENGUTOTO"
+                ]
+              },
+              {
+                "NAME": "ORPURKEL",
+                "PLACES": [
+                  "LOOSOITO",
+                  "ENGOSOKWAN"
+                ]
+              },
+              {
+                "NAME": "LESINGÉITA",
+                "PLACES": [
+                  "OLDOINYO",
+                  "NDEPES",
+                  "LELEK"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGARENAIBOR",
+            "POSTCODE": 23511,
+            "STREETS": [
+              {
+                "NAME": "NGOSWAK",
+                "PLACES": [
+                  "NARIPI",
+                  "NGOSWAK"
+                ]
+              },
+              {
+                "NAME": "MAIROWA",
+                "PLACES": [
+                  "MADUKANI",
+                  "LOSIAITI",
+                  "ENGUTOKORGOS",
+                  "ENGONGU",
+                  "NESONGOYO"
+                ]
+              },
+              {
+                "NAME": "KARAO",
+                "PLACES": [
+                  "ILCHOROI",
+                  "OLTEPES",
+                  "INGOISUK"
+                ]
+              },
+              {
+                "NAME": "SINONIK",
+                "PLACES": [
+                  "EMPOPONGÍ",
+                  "NGERIN"
+                ]
+              },
+              {
+                "NAME": "KIMWATI",
+                "PLACES": [
+                  "LOONJOITO",
+                  "KIMWATI",
+                  "KWENIA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MATALE A",
+            "POSTCODE": 23512,
+            "STREETS": [
+              {
+                "NAME": "MATALE A",
+                "PLACES": [
+                  "ALAKIRIKIR",
+                  "MATAKASE",
+                  "MATALE C",
+                  "IRINGONG'WEN"
+                ]
+              },
+              {
+                "NAME": "MATALE B",
+                "PLACES": [
+                  "EMURUTOTO",
+                  "EMESERA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GELAI LUMBWA",
+            "POSTCODE": 23513,
+            "STREETS": [
+              {
+                "NAME": "LUMBWA",
+                "PLACES": [
+                  "ESOKONNOI",
+                  "NDINYIKA",
+                  "ENGIRIRATI",
+                  "IRMANYARA",
+                  "ELESOTI"
+                ]
+              },
+              {
+                "NAME": "ALAILILAI",
+                "PLACES": [
+                  "LOOMBOORI",
+                  "OSINONI",
+                  "ORKUNGÚRANGAI"
+                ]
+              },
+              {
+                "NAME": "ILCHANGITSAPUKIN",
+                "PLACES": [
+                  "NAARMANYARA",
+                  "ILCHANGÍTSAPUKIN",
+                  "NAUDO"
+                ]
+              },
+              {
+                "NAME": "WOSIWOSI",
+                "PLACES": [
+                  "NAIPANDI",
+                  "KIPII",
+                  "LOORBILIN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GELAI MEIRUGOI",
+            "POSTCODE": 23514,
+            "STREETS": [
+              {
+                "NAME": "MEIRUGOI",
+                "PLACES": [
+                  "LOONDOLWO",
+                  "NGÓINGÓI",
+                  "ARMANIE",
+                  "MADUKANI",
+                  "LAILUPA",
+                  "OLDUNG'ORO",
+                  "ENDIRIMA"
+                ]
+              },
+              {
+                "NAME": "LOONDOLWO/ESIRWA",
+                "PLACES": [
+                  "ARMANIE",
+                  "ORPURA",
+                  "MARIKI"
+                ]
+              },
+              {
+                "NAME": "MAGADINI",
+                "PLACES": [
+                  "ESIRWA",
+                  "OLDONYOLENGAI",
+                  "NAIKARIKAR"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ILORIENITO",
+            "POSTCODE": 23515,
+            "STREETS": [
+              {
+                "NAME": "ILORIENITO",
+                "PLACES": [
+                  "IMBURIA",
+                  "MOTOON",
+                  "ORETETI"
+                ]
+              },
+              {
+                "NAME": "NADAARE",
+                "PLACES": [
+                  "ALAIRATAAT",
+                  "ENJOREANGATA",
+                  "ILOPON"
+                ]
+              },
+              {
+                "NAME": "LOSIRWA",
+                "PLACES": [
+                  "KISAMBI",
+                  "OSINONI",
+                  "OLOMUKI",
+                  "LOOLTUROT",
+                  "LESOIT"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ORBOMBA",
+            "POSTCODE": 23516,
+            "STREETS": [
+              {
+                "NAME": "ORBOMBA",
+                "PLACES": [
+                  "ORBOMBA",
+                  "ELANGÁTAMUKUTAN",
+                  "OLCHURAI",
+                  "OLDORKO"
+                ]
+              },
+              {
+                "NAME": "OLTEPESI",
+                "PLACES": [
+                  "OLTEPESI",
+                  "MLIMANI",
+                  "OLTINGA",
+                  "DARAJANI",
+                  "IRIRO"
+                ]
+              },
+              {
+                "NAME": "RANCHI",
+                "PLACES": [
+                  "NAALARAMI",
+                  "LOOSIKITO",
+                  "LAALTARAI",
+                  "IMBILIN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NOONDOTO",
+            "POSTCODE": 23517,
+            "STREETS": [
+              {
+                "NAME": "NOONDOTO",
+                "PLACES": [
+                  "INGUTOT",
+                  "NAAMALASIN"
+                ]
+              },
+              {
+                "NAME": "ENGUSERO",
+                "PLACES": [
+                  "NOONDEMWA",
+                  "OLCHURAI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SINYA",
+            "POSTCODE": 23518,
+            "STREETS": [
+              {
+                "NAME": "ILDONYIO",
+                "PLACES": [
+                  "OLTINGA",
+                  "OLDOINYIO",
+                  "OLOKII"
+                ]
+              },
+              {
+                "NAME": "LEREMETA",
+                "PLACES": [
+                  "LEREMETA",
+                  "ENGUSERO",
+                  "ESOITNAROK"
+                ]
+              },
+              {
+                "NAME": "ENDONYEMALI",
+                "PLACES": [
+                  "ENDONYEMALI",
+                  "ENGUTOTO",
+                  "OLTEPES",
+                  "KITABARNE"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "KARATU",
+        "POSTCODE": 236,
+        "WARD": [
+          {
+            "NAME": "KARATU",
+            "POSTCODE": 23601,
+            "STREETS": [
+              {
+                "NAME": "ENDONYEMALI",
+                "PLACES": [
+                  "KATI",
+                  "TFA",
+                  "MALIASILI",
+                  "SLAHHAMO",
+                  "MANYARA",
+                  "MANGAFI",
+                  "BARAZANI",
+                  "NMC",
+                  "BWAWANI",
+                  "MAZINGIRA BORA",
+                  "BOMANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GANAKO",
+            "POSTCODE": 23602,
+            "STREETS": [
+              {
+                "NAME": "ENDONYEMALI",
+                "PLACES": [
+                  "AYALABE MAGHARIBI",
+                  "AYALABE KUSINI",
+                  "AYALABE KASKAZINI",
+                  "AYALABE MASHARIKI",
+                  "KIWANDANI",
+                  "SABATO",
+                  "TLOMA",
+                  "KAMBI YA NYOKA",
+                  "KILIMANI MASHAMBA",
+                  "HUDUMA",
+                  "KILIMANI",
+                  "GANAKO",
+                  "HAYMU",
+                  "NGORONGORO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "RHOTIA",
+            "POSTCODE": 23603,
+            "STREETS": [
+              {
+                "NAME": "KILIMAMOJA",
+                "PLACES": [
+                  "SANGARYAN",
+                  "CHANGARAWE",
+                  "KIBAONI",
+                  "PARK"
+                ]
+              },
+              {
+                "NAME": "HUDUMA",
+                "PLACES": [
+                  "SOWETO",
+                  "SAHHATA",
+                  "KIRURUMO",
+                  "AYATSERE"
+                ]
+              },
+              {
+                "NAME": "RHOTIA KATI",
+                "PLACES": [
+                  "RHOTIA JUU",
+                  "RHOTIA KATI"
+                ]
+              },
+              {
+                "NAME": "MARERA",
+                "PLACES": [
+                  "MARERA KATI",
+                  "HUDUMA",
+                  "DIPU"
+                ]
+              },
+              {
+                "NAME": "KILIMATEMBO",
+                "PLACES": [
+                  "KILIMATEMBO BARABARANI",
+                  "HUDUMA",
+                  "KILIMATEMBO JUU",
+                  "GILALA"
+                ]
+              },
+              {
+                "NAME": "KAINAM RHOTIA",
+                "PLACES": [
+                  "KAINAM KUSINI",
+                  "JARANJAR",
+                  "HAREABI"
+                ]
+              },
+              {
+                "NAME": "CHEMCHEM",
+                "PLACES": [
+                  "ASLINI",
+                  "HUDUMA",
+                  "MBULUMBULU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBULUMBULU",
+            "POSTCODE": 23604,
+            "STREETS": [
+              {
+                "NAME": "SLAHHAMO",
+                "PLACES": [
+                  "TLOMA",
+                  "WHEAT SCHEME",
+                  "GENDAA",
+                  "ASLINI",
+                  "TLOMA DO DIRANGW"
+                ]
+              },
+              {
+                "NAME": "KAMBI YA SIMBA",
+                "PLACES": [
+                  "SEAY JUU",
+                  "SEAY CHINI",
+                  "SAHHATA",
+                  "TLAWI JUU",
+                  "TLAWI KATI",
+                  "HARKI"
+                ]
+              },
+              {
+                "NAME": "LOSITETE",
+                "PLACES": [
+                  "KITUMA",
+                  "SELELA",
+                  "LENGIPIMA"
+                ]
+              },
+              {
+                "NAME": "UPPER KITETE",
+                "PLACES": [
+                  "KATI",
+                  "ANTSI",
+                  "QANGARI",
+                  "BONDE LA FARU",
+                  "TLOMA",
+                  "SABA SABA",
+                  "JUU"
+                ]
+              },
+              {
+                "NAME": "KITETE",
+                "PLACES": [
+                  "NJORO",
+                  "TLOMA DO HHAWU",
+                  "BARAI",
+                  "FITSA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENDAMARARIEK",
+            "POSTCODE": 23605,
+            "STREETS": [
+              {
+                "NAME": "ENDAMARARIEK",
+                "PLACES": [
+                  "AYARAAT",
+                  "ENDAMARARIEK"
+                ]
+              },
+              {
+                "NAME": "GIDBASSO",
+                "PLACES": [
+                  "ASLIN",
+                  "BAGHAYO",
+                  "ANTSI",
+                  "TLOMA",
+                  "SHANGIT"
+                ]
+              },
+              {
+                "NAME": "ENDALLAH",
+                "PLACES": [
+                  "MANUSAY",
+                  "SHANGIT",
+                  "ENDALLAH"
+                ]
+              },
+              {
+                "NAME": "MASABEDA",
+                "PLACES": [
+                  "MASABEDA",
+                  "KINIHHE",
+                  "FITSA"
+                ]
+              },
+              {
+                "NAME": "GETAMOCK",
+                "PLACES": [
+                  "HAMBAL",
+                  "KWANDAL",
+                  "GENDAA"
+                ]
+              },
+              {
+                "NAME": "MAHHAHHA",
+                "PLACES": [
+                  "GARANTHI",
+                  "ANTSI",
+                  "MAHHAHHA",
+                  "KINIHHE"
+                ]
+              },
+              {
+                "NAME": "BASSODAWISH",
+                "PLACES": [
+                  "AMAFALA",
+                  "GWANDUMEHHI",
+                  "GWANDUMEHHI TLAWI",
+                  "BARAY ‘A’"
+                ]
+              },
+              {
+                "NAME": "SHANGIT",
+                "PLACES": [
+                  "TIITA",
+                  "G/TLAWI",
+                  "MANUSAY"
+                ]
+              },
+              {
+                "NAME": "KHUSUMAY",
+                "PLACES": [
+                  "TLA’A",
+                  "ANTSA",
+                  "SLAHHAMO",
+                  "MIBUYU MIWILI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUGER",
+            "POSTCODE": 23606,
+            "STREETS": [
+              {
+                "NAME": "AYALALIYO",
+                "PLACES": [
+                  "ANTSI",
+                  "AYLOI",
+                  "GEHANDU"
+                ]
+              },
+              {
+                "NAME": "BUGER",
+                "PLACES": [
+                  "GAHABIYA",
+                  "AYABEA",
+                  "ANTSI-GAMDI",
+                  "AYALABE"
+                ]
+              },
+              {
+                "NAME": "ENDONYAWET",
+                "PLACES": [
+                  "KRASH",
+                  "SENTA",
+                  "KRETA",
+                  "GARANTLI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KANSAY",
+            "POSTCODE": 23607,
+            "STREETS": [
+              {
+                "NAME": "KANSAY",
+                "PLACES": [
+                  "ENDAGESH",
+                  "KAINAM",
+                  "KANSAY KATI",
+                  "HARKI"
+                ]
+              },
+              {
+                "NAME": "NG’AIBARA",
+                "PLACES": [
+                  "NGAIDADU",
+                  "BARAKTA"
+                ]
+              },
+              {
+                "NAME": "KAMBI YA FARU",
+                "PLACES": [
+                  "DUM",
+                  "GENDAA",
+                  "GEER"
+                ]
+              },
+              {
+                "NAME": "LAJA",
+                "PLACES": [
+                  "ENDANG’U MASHARIKI",
+                  "YAMURAAT",
+                  "ENDAGESH"
+                ]
+              },
+              {
+                "NAME": "UMBANGW'",
+                "PLACES": [
+                  "ENDANG’U MAGHARIBI",
+                  "UMBANGW'",
+                  "DARANGU",
+                  "TLOMA AWAKI",
+                  "LAJA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENDABASHI",
+            "POSTCODE": 23608,
+            "STREETS": [
+              {
+                "NAME": "ENDABASH",
+                "PLACES": [
+                  "DAKWTLER MASHARIKI",
+                  "DAKWTLER MAGHARIBI",
+                  "MANGISA",
+                  "SARAMAY"
+                ]
+              },
+              {
+                "NAME": "ENDAGEM",
+                "PLACES": [
+                  "MURUS",
+                  "GENAI",
+                  "SENTA",
+                  "LAJA"
+                ]
+              },
+              {
+                "NAME": "QARU",
+                "PLACES": [
+                  "AYARAAT",
+                  "QARU"
+                ]
+              },
+              {
+                "NAME": "KOSI",
+                "PLACES": [
+                  "KOSI",
+                  "MIGANGW",
+                  "SARAMAY",
+                  "BURGEDA"
+                ]
+              },
+              {
+                "NAME": "KINIHHE",
+                "PLACES": [
+                  "LAMBO",
+                  "KRETA",
+                  "KINIHHE",
+                  "SENTA",
+                  "MSASANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "QURUS",
+            "POSTCODE": 23609,
+            "STREETS": [
+              {
+                "NAME": "GYEKRUM LAMBO",
+                "PLACES": [
+                  "GWANDUMEHHI",
+                  "LAMBO KASKAZINI"
+                ]
+              },
+              {
+                "NAME": "GENDAA",
+                "PLACES": [
+                  "GENDAA",
+                  "NARAY",
+                  "TITIWI",
+                  "MASABEDA",
+                  "SEKONDARI"
+                ]
+              },
+              {
+                "NAME": "GONGALI",
+                "PLACES": [
+                  "KATI",
+                  "BAGHAR",
+                  "KINIHHE",
+                  "HAYDOM"
+                ]
+              },
+              {
+                "NAME": "QORONG’AIDA",
+                "PLACES": [
+                  "MAGESHO",
+                  "AMPA",
+                  "ASILINI",
+                  "QANGARI"
+                ]
+              },
+              {
+                "NAME": "QURUS",
+                "PLACES": [
+                  "GIDMAJA",
+                  "MENDAY",
+                  "KATI"
+                ]
+              },
+              {
+                "NAME": "BASHAY",
+                "PLACES": [
+                  "BUTIAMA",
+                  "HALLET",
+                  "UMBE",
+                  "UFANA"
+                ]
+              },
+              {
+                "NAME": "DOFFA",
+                "PLACES": [
+                  "DOFFA JUU",
+                  "NJIAPANDA",
+                  "QANGHARI",
+                  "MEFURDA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLDEANI",
+            "POSTCODE": 23610,
+            "STREETS": [
+              {
+                "NAME": "OLDEANI",
+                "PLACES": [
+                  "OLDEANI KATI",
+                  "POSTA",
+                  "OLDEANI NG’AMBO",
+                  "T.E.C",
+                  "ASCONA",
+                  "KIRAN",
+                  "BEN-DHU"
+                ]
+              },
+              {
+                "NAME": "KIWANJA",
+                "PLACES": [
+                  "O.C.E.",
+                  "NITIN",
+                  "SHAH",
+                  "EDELWEISS",
+                  "IDARA YA MAJI",
+                  "DARAJANI",
+                  "HUDUMA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "DAA",
+            "POSTCODE": 23611,
+            "STREETS": [
+              {
+                "NAME": "CHANGARAWE",
+                "PLACES": [
+                  "COMWORKS",
+                  "TLOMA",
+                  "INTSI",
+                  "SABLETA"
+                ]
+              },
+              {
+                "NAME": "ENDASHANGWET",
+                "PLACES": [
+                  "WAGH’ASI",
+                  "KATI",
+                  "CHEMCHEM",
+                  "SEGENGE",
+                  "YUDECK"
+                ]
+              },
+              {
+                "NAME": "MANG’OLA JUU",
+                "PLACES": [
+                  "GENDARYANDI",
+                  "YUDECK",
+                  "KITANGW DOFFA",
+                  "SIMHHA ‘A’",
+                  "SIMHHA ‘B’",
+                  "MIDABINI"
+                ]
+              },
+              {
+                "NAME": "MAKHOROMBA",
+                "PLACES": [
+                  "SAIDORI",
+                  "ENDANG’ADI",
+                  "TLOMA",
+                  "GERMAN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MANG'OLA",
+            "POSTCODE": 23612,
+            "STREETS": [
+              {
+                "NAME": "MANG'OLA BARAZANI",
+                "PLACES": [
+                  "MAYFOLA",
+                  "NARAY",
+                  "KISIMANGEDA",
+                  "SASGWENJU",
+                  "MSWAKINI",
+                  "MILANGARINI",
+                  "MBUYU SENTA",
+                  "SHULENI",
+                  "MIBUYU MIWILI",
+                  "ANTSA"
+                ]
+              },
+              {
+                "NAME": "LAGHANGARERI",
+                "PLACES": [
+                  "MUDELAND",
+                  "GENDARGA",
+                  "BUTAHE",
+                  "NGUVUKAZI",
+                  "MAJIMOTO"
+                ]
+              },
+              {
+                "NAME": "MALECKCHAND",
+                "PLACES": [
+                  "MAGHANYO",
+                  "GIDABURJECK",
+                  "BUGHARGA",
+                  "GIDABESH",
+                  "MASIYEDA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BARAY",
+            "POSTCODE": 23613,
+            "STREETS": [
+              {
+                "NAME": "QANGDEND",
+                "PLACES": [
+                  "KAMBI YA SIMBA",
+                  "KIGONGONI",
+                  "MBUYUNI",
+                  "MURUS",
+                  "KATI",
+                  "MWEMBENI",
+                  "MKWAJUNI",
+                  "MANDAGEW"
+                ]
+              },
+              {
+                "NAME": "MBUGA NYEKUNDU",
+                "PLACES": [
+                  "BARAY",
+                  "MIPOMENI",
+                  "MBUYUNI",
+                  "DARAJANI"
+                ]
+              },
+              {
+                "NAME": "JOBAJ",
+                "PLACES": [
+                  "SHULENI",
+                  "KISIRIRI",
+                  "GIDABUGHARGA",
+                  "MIEMBENI"
+                ]
+              },
+              {
+                "NAME": "DUMBECHAND",
+                "PLACES": [
+                  "CHEMCHEM",
+                  "GILODABESHTA",
+                  "MBUYUNI",
+                  "DUMBECHAND  KATI",
+                  "MZAMBARAUNI",
+                  "ESHAW",
+                  "GIDAMILANDA"
+                ]
+              },
+              {
+                "NAME": "MATALA",
+                "PLACES": [
+                  "MASOLAGE",
+                  "HAYDESH",
+                  "SHULENI",
+                  "IBANKA"
+                ]
+              },
+              {
+                "NAME": "ENDESH",
+                "PLACES": [
+                  "DERAJIDA",
+                  "ENDESH",
+                  "MOHADAGEW"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENDAMAGHANG",
+            "POSTCODE": 23614,
+            "STREETS": [
+              {
+                "NAME": "MIKOCHENI",
+                "PLACES": [
+                  "ENDABESH",
+                  "HAREABI",
+                  "KISIMANGEDA"
+                ]
+              },
+              {
+                "NAME": "ENDAMAGHANG",
+                "PLACES": [
+                  "MIGUNGANI",
+                  "JANGWANI",
+                  "GETAWASAN"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "NGORONGORO",
+        "POSTCODE": 237,
+        "WARD": [
+          {
+            "NAME": "ORGOSOROK",
+            "POSTCODE": 23701,
+            "STREETS": [
+              {
+                "NAME": "ENDAMAGHANG",
+                "PLACES": [
+                  "LOLIONDO MASHARIKI",
+                  "LOLIONDO MAGHARIBI",
+                  "ORKIU CHINI",
+                  "BWAWANI",
+                  "NDIPILIKWA",
+                  "NJORWETIN",
+                  "KAPONGONI",
+                  "MAKALASINGA",
+                  "LEKODYA",
+                  "WASSO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLOIRIEN/ MAGAIDURU",
+            "POSTCODE": 23702,
+            "STREETS": [
+              {
+                "NAME": "OLOIRIEN",
+                "PLACES": [
+                  "OLOIRIEN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLOIRIEN/ MAGAIDURU",
+            "POSTCODE": 23703,
+            "STREETS": [
+              {
+                "NAME": "MAGAIDURU",
+                "PLACES": [
+                  "MAGAIDURU"
+                ]
+              },
+              {
+                "NAME": "OLOIPIRI",
+                "PLACES": [
+                  "OLOIPIRI",
+                  "ORKUYENE",
+                  "ESERO"
+                ]
+              },
+              {
+                "NAME": "SUKENYA",
+                "PLACES": [
+                  "EMBAASH-OLOIPIRI",
+                  "ENGOTOTO",
+                  "ORONGAI",
+                  "OLOIKOBOI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLOIRIEN/ MAGAIDURU",
+            "POSTCODE": 23704,
+            "STREETS": [
+              {
+                "NAME": "OLDONYOWAS",
+                "PLACES": [
+                  "OLDONYOWAS"
+                ]
+              },
+              {
+                "NAME": "ENGUSEROSAMBU",
+                "PLACES": [
+                  "ENGUSEROSAMBU"
+                ]
+              },
+              {
+                "NAME": "NG'ARWA",
+                "PLACES": [
+                  "NG'ARWA"
+                ]
+              },
+              {
+                "NAME": "NAAN",
+                "PLACES": [
+                  "NAAN"
+                ]
+              },
+              {
+                "NAME": "ORKIU JUU",
+                "PLACES": [
+                  "ORKIU JUU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLOIRIEN/ MAGAIDURU",
+            "POSTCODE": 23705,
+            "STREETS": [
+              {
+                "NAME": "WASSO",
+                "PLACES": [
+                  "WASSO"
+                ]
+              },
+              {
+                "NAME": "SAMUNGE",
+                "PLACES": [
+                  "RELA",
+                  "SAMUNGE",
+                  "HAHARA",
+                  "MIJITI"
+                ]
+              },
+              {
+                "NAME": "MUGONGO",
+                "PLACES": [
+                  "MUGONGO",
+                  "MAGERI",
+                  "LUKERENE"
+                ]
+              },
+              {
+                "NAME": "YASIMDITO",
+                "PLACES": [
+                  "EYASI",
+                  "MDITO",
+                  "BWELO"
+                ]
+              },
+              {
+                "NAME": "MAGERI",
+                "PLACES": [
+                  "MAGERI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAALON",
+            "POSTCODE": 23706,
+            "STREETS": [
+              {
+                "NAME": "LOOSOITO",
+                "PLACES": [
+                  "LOISOITI",
+                  "EMURWADIKIR",
+                  "NDIPILIKWAN"
+                ]
+              },
+              {
+                "NAME": "MAALON",
+                "PLACES": [
+                  "SITET",
+                  "MAALONI",
+                  "NDUNG'OROT",
+                  "LEPOLOSI"
+                ]
+              },
+              {
+                "NAME": "OLOSWASHI",
+                "PLACES": [
+                  "KIPAMBI",
+                  "LOORUKA",
+                  "LOSWASHI",
+                  "NGISHUPUSI"
+                ]
+              },
+              {
+                "NAME": "NGOBERETI",
+                "PLACES": [
+                  "ENGOBERITI",
+                  "EMARTI",
+                  "ELELESHWA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ARASH",
+            "POSTCODE": 23707,
+            "STREETS": [
+              {
+                "NAME": "ARASH",
+                "PLACES": [
+                  "ENGUTOTO",
+                  "ENGORIKA",
+                  "ARASH",
+                  "LOSEKENJA",
+                  "LAMNYAN A"
+                ]
+              },
+              {
+                "NAME": "ORMANIE",
+                "PLACES": [
+                  "ORMANIE",
+                  "LOKIA",
+                  "OLTEPESI"
+                ]
+              },
+              {
+                "NAME": "MBUKEN",
+                "PLACES": [
+                  "MBUKEN",
+                  "OSUKUMWA",
+                  "ESUNGUROI"
+                ]
+              },
+              {
+                "NAME": "OLALAA",
+                "PLACES": [
+                  "OLALAA",
+                  "LAMNYANI B",
+                  "NAISONGOYON",
+                  "NGARIAPUS",
+                  "ORMANIE",
+                  "OLTEBES",
+                  "OITI",
+                  "ENGEREYAN",
+                  "MBUKEN",
+                  "OSUKUNWA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOITSAMBU",
+            "POSTCODE": 23708,
+            "STREETS": [
+              {
+                "NAME": "KIRTALO",
+                "PLACES": [
+                  "NAIDIKIDIKO",
+                  "IRIMISIGYO",
+                  "EMPOPONG",
+                  "OLOSIRWA"
+                ]
+              },
+              {
+                "NAME": "MONDOROSI",
+                "PLACES": [
+                  "OCHOKI",
+                  "OLEPOLOSI",
+                  "MONDOROS",
+                  "ENADOOSHOKE"
+                ]
+              },
+              {
+                "NAME": "SOITSAMBU",
+                "PLACES": [
+                  "EMBOROM",
+                  "MONDOROS",
+                  "EMPOPONJA",
+                  "NJOROI",
+                  "SUKENYA",
+                  "KIRTALO",
+                  "ENADOSHOKE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLOLOSOKWAN",
+            "POSTCODE": 23709,
+            "STREETS": [
+              {
+                "NAME": "OLOLOSOKWAN",
+                "PLACES": [
+                  "OLAIKA"
+                ]
+              },
+              {
+                "NAME": "MAIROWA",
+                "PLACES": [
+                  "OLOKINUKA"
+                ]
+              },
+              {
+                "NAME": "NJOROI",
+                "PLACES": [
+                  "OITI",
+                  "ELITIPISI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "DIGODIGO",
+            "POSTCODE": 23710,
+            "STREETS": [
+              {
+                "NAME": "DIGODIGO",
+                "PLACES": [
+                  "BWELO",
+                  "MAKUREHENDANE",
+                  "NDELANE",
+                  "RANE",
+                  "DIGODIGO MADUKANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLDONYOSAMBU",
+            "POSTCODE": 23711,
+            "STREETS": [
+              {
+                "NAME": "OLDONYOSAMBU",
+                "PLACES": [
+                  "OLDONYOSAMBU",
+                  "KATOLEGANI",
+                  "NDELANE"
+                ]
+              },
+              {
+                "NAME": "JEMA",
+                "PLACES": [
+                  "JEMA",
+                  "SUGHU",
+                  "BUNA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SALE",
+            "POSTCODE": 23712,
+            "STREETS": [
+              {
+                "NAME": "SALE",
+                "PLACES": [
+                  "MARONGORENE",
+                  "JAMUSI",
+                  "KIBALO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "PINYINYI",
+            "POSTCODE": 23713,
+            "STREETS": [
+              {
+                "NAME": "PINYINYI",
+                "PLACES": [
+                  "PINYINYI",
+                  "MASUSU",
+                  "ORBILIN",
+                  "NDINYIKA",
+                  "EMBAAS"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MALAMBO",
+            "POSTCODE": 23714,
+            "STREETS": [
+              {
+                "NAME": "MALAMBO",
+                "PLACES": [
+                  "SANJAN",
+                  "OLCHORRO",
+                  "MANANG"
+                ]
+              },
+              {
+                "NAME": "MADUKANI",
+                "PLACES": [
+                  "MADUKANI",
+                  "NDINYIKA",
+                  "NG'ABOLO",
+                  "ENGUTUTO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "OLBALBAL",
+            "POSTCODE": 23715,
+            "STREETS": [
+              {
+                "NAME": "MESHIL",
+                "PLACES": [
+                  "MESHIL",
+                  "NGURUMAAN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ALAILELAI",
+            "POSTCODE": 23716,
+            "STREETS": [
+              {
+                "NAME": "ALAILELAI",
+                "PLACES": [
+                  "ALAILELAI",
+                  "IKIRANGAREN"
+                ]
+              },
+              {
+                "NAME": "BULATI",
+                "PLACES": [
+                  "HAUNOK",
+                  "BULATI",
+                  "IRMEJIRO",
+                  "NAABAST"
+                ]
+              },
+              {
+                "NAME": "SENDUI",
+                "PLACES": [
+                  "SENDUI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAIYOBI",
+            "POSTCODE": 23717,
+            "STREETS": [
+              {
+                "NAME": "NAIYOBI",
+                "PLACES": [
+                  "ILTULETE",
+                  "LERA",
+                  "ENGOMEI",
+                  "ENONG'OTO"
+                ]
+              },
+              {
+                "NAME": "ITULELE",
+                "PLACES": [
+                  "ENGARUKA JUU",
+                  "ENGARUKA CHINI"
+                ]
+              },
+              {
+                "NAME": "KAPENJIRO",
+                "PLACES": [
+                  "MAKOSEN",
+                  "ORKOKOLA A",
+                  "SINONI",
+                  "ORKOKOLA B"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAINOKANOKA",
+            "POSTCODE": 23718,
+            "STREETS": [
+              {
+                "NAME": "OLCHAMIOLOCK",
+                "PLACES": [
+                  "OLCHAMIOLOCK"
+                ]
+              },
+              {
+                "NAME": "NAINOKANOKA",
+                "PLACES": [
+                  "NAINOKANOKA",
+                  "MUUNGE",
+                  "OLDONYOWAS",
+                  "EMBULIMBULI"
+                ]
+              },
+              {
+                "NAME": "IRKEEPUS",
+                "PLACES": [
+                  "IRKEEPUS",
+                  "LOPOLES",
+                  "LOREDHI JUU",
+                  "LORESHO CHINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGORONGORO",
+            "POSTCODE": 23719,
+            "STREETS": [
+              {
+                "NAME": "OLOIROBI",
+                "PLACES": [
+                  "EMOTONI/NDEPES",
+                  "KAYAPUS",
+                  "OLOIROBI/MALANJA"
+                ]
+              },
+              {
+                "NAME": "MOKILAL",
+                "PLACES": [
+                  "MALANJAA"
+                ]
+              },
+              {
+                "NAME": "KAYAPUSI",
+                "PLACES": [
+                  "NGUTOTOSUMBATI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENDULENI",
+            "POSTCODE": 23720,
+            "STREETS": [
+              {
+                "NAME": "ENDULENI",
+                "PLACES": [
+                  "ESIRWA",
+                  "ENDULENI MADUKANI",
+                  "LAJANG'A",
+                  "ALDALPOI",
+                  "ESIRIWA JUU",
+                  "LOSILALE"
+                ]
+              },
+              {
+                "NAME": "NASPORIOONG",
+                "PLACES": [
+                  "NASPORIOONG",
+                  "DONYO",
+                  "NGOYAPASE",
+                  "NDIAN",
+                  "OLMEKEKE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAKESIO",
+            "POSTCODE": 23721,
+            "STREETS": [
+              {
+                "NAME": "KAKESIO",
+                "PLACES": [
+                  "MADUKANI",
+                  "INGUTOTI",
+                  "NGOITERE",
+                  "NGAIRISHI"
+                ]
+              },
+              {
+                "NAME": "OSINONI",
+                "PLACES": [
+                  "OLGUMI",
+                  "NGEREYENI",
+                  "NGIDOKUN"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGOILE",
+            "POSTCODE": 23723,
+            "STREETS": [
+              {
+                "NAME": "NGOILE",
+                "PLACES": [
+                  "NGOILE",
+                  "NGOLOLAA",
+                  "LOOMUNYI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MISIGIYO",
+            "POSTCODE": 23724,
+            "STREETS": [
+              {
+                "NAME": "KAITAKITENG",
+                "PLACES": [
+                  "KAITA JUU"
+                ]
+              },
+              {
+                "NAME": "LONGOOJO",
+                "PLACES": [
+                  "LONGOJOO"
+                ]
+              },
+              {
+                "NAME": "MISIGYO",
+                "PLACES": [
+                  "KATEKITENG"
+                ]
+              },
+              {
+                "NAME": "",
+                "PLACES": [
+                  "MISIGYO/OLONGOJIOK",
+                  "MOKILAL NDORES"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "EYASI",
+            "POSTCODE": 23725,
+            "STREETS": [
+              {
+                "NAME": "OLPIRO",
+                "PLACES": [
+                  "MUSHORJOGA",
+                  "OLDOGOM",
+                  "OLPIRO KATI"
+                ]
+              },
+              {
+                "NAME": "MASUMBURAI",
+                "PLACES": [
+                  "LOONGILEJI",
+                  "LANGALI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ALAITOLEI",
+            "POSTCODE": 23726,
+            "STREETS": [
+              {
+                "NAME": "ESERE",
+                "PLACES": [
+                  "MUGONGORONI",
+                  "OLMOT",
+                  "ESERE"
+                ]
+              },
+              {
+                "NAME": "ENGESHEI",
+                "PLACES": [
+                  "ENGESHEI",
+                  "LENGELDINA",
+                  "SARUFA"
+                ]
+              },
+              {
+                "NAME": "ALAITOLEI",
+                "PLACES": [
+                  "OLPIRI",
+                  "OLKEREKETA",
+                  "MGORORONI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIRANGI",
+            "POSTCODE": 23727,
+            "STREETS": [
+              {
+                "NAME": "KISANGIRO",
+                "PLACES": [
+                  "KIRANGI",
+                  "KISANGIRO",
+                  "MEJE"
+                ]
+              },
+              {
+                "NAME": "MUGHOLO",
+                "PLACES": [
+                  "BWELO",
+                  "MUGHOLO"
+                ]
+              },
+              {
+                "NAME": "TINAGA",
+                "PLACES": [
+                  "TINAGA",
+                  "MARIBANE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ENGARESERO",
+            "POSTCODE": 23728,
+            "STREETS": [
+              {
+                "NAME": "ENGARESERO",
+                "PLACES": [
+                  "NAIBOROSO",
+                  "REPARKASHI",
+                  "ENGARESERO",
+                  "MONIC"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "PIYAYA",
+            "POSTCODE": 23729,
+            "STREETS": [
+              {
+                "NAME": "KESILE",
+                "PLACES": [
+                  "ESILALEI",
+                  "KESILE",
+                  "NGORIKA",
+                  "ELERAI"
+                ]
+              },
+              {
+                "NAME": "PIYAYA",
+                "PLACES": [
+                  "MADUKANI",
+                  "SENGERETUNY",
+                  "OLOPIRIKI"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,4046 @@
+[
+  {
+    "REGION": "DAR-ES-SALAAM",
+    "POSTCODE": 11,
+    "DISTRIC": [
+      {
+        "NAME": "ILALA CBD",
+        "POSTCODE": 11,
+        "WARD": [
+          {
+            "NAME": "KIVUKONI",
+            "POSTCODE": 11101,
+            "STREETS": [
+              {
+                "NAME": "KIVUKONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SEA VIEW",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UPANGA MASHARIKI",
+            "POSTCODE": 11102,
+            "STREETS": [
+              {
+                "NAME": "KITONGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBASILA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UPANGA MAGHARIBI",
+            "POSTCODE": 11103,
+            "STREETS": [
+              {
+                "NAME": "FIRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHARAMBE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MFAUME",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KISUTU",
+            "POSTCODE": 11104,
+            "STREETS": [
+              {
+                "NAME": "KISUTU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTENDENI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MCHAFUKOGE",
+            "POSTCODE": 11105,
+            "STREETS": [
+              {
+                "NAME": "KITUMBINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MCHAFUKOGE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KARIAKOO",
+            "POSTCODE": 11106,
+            "STREETS": [
+              {
+                "NAME": "KARIAKOO MAGHARIBI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KARIAKOO KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KARIAKOO MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GEREZANI",
+            "POSTCODE": 11107,
+            "STREETS": [
+              {
+                "NAME": "GEREZANI MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GEREZANI MAGHARIBI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "JANGWANI",
+            "POSTCODE": 11108,
+            "STREETS": [
+              {
+                "NAME": "UKOMBOZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MNAZI MMOJA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAMBANI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAMBANI \"B",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MCHIKICHINI",
+            "POSTCODE": 11109,
+            "STREETS": [
+              {
+                "NAME": "MISSION QUARTER",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ILALA KOTA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSIMBAZI BONDENI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "ILALA",
+        "POSTCODE": 12,
+        "WARD": [
+          {
+            "NAME": "ILALA",
+            "POSTCODE": 12101,
+            "STREETS": [
+              {
+                "NAME": "MAFURIKO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KASULU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KARUME",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHARIFF SHAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AMANA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUGURUNI",
+            "POSTCODE": 12102,
+            "STREETS": [
+              {
+                "NAME": "MALAPA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MADENGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MVINJENI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TABATA",
+            "POSTCODE": 12103,
+            "STREETS": [
+              {
+                "NAME": "MANDELA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TABATA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MATUMBI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSIMBAZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TENGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSIMBAZI MAGHARIBI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIMANGA",
+            "POSTCODE": 12104,
+            "STREETS": [
+              {
+                "NAME": "TEMBOMGWAZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMANGA DARAJANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BANEBANE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIHIMBWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SOKOINE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TWIGA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SEGEREA",
+            "POSTCODE": 12105,
+            "STREETS": [
+              {
+                "NAME": "MGOMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UGOMBOLWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SEGEREA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MFAUME",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIPAWA",
+            "POSTCODE": 12106,
+            "STREETS": [
+              {
+                "NAME": "MOGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KARAKATA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIPUNGUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "STAKISHARI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UWANJA WA NDEGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJIMPYA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UKONGA",
+            "POSTCODE": 12107,
+            "STREETS": [
+              {
+                "NAME": "MWEMBE MADAFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAZIZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MARKAZ",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MONGO LA NDEGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SABASABA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIWALANI",
+            "POSTCODE": 12108,
+            "STREETS": [
+              {
+                "NAME": "KIGILAGILA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "YOMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIWALANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "VINGUNGUTI",
+            "POSTCODE": 12109,
+            "STREETS": [
+              {
+                "NAME": "KOMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIEMBENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAKUJA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUTIAMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GONGO LA MBOTO",
+            "POSTCODE": 12110,
+            "STREETS": [
+              {
+                "NAME": "GULUKA KWALALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GONGO LA MBOTO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ULONGONI A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ULONGONI B",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KITUNDA",
+            "POSTCODE": 12111,
+            "STREETS": [
+              {
+                "NAME": "KIPERA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KITUNDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RELINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIYOMBO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "PUGU",
+            "POSTCODE": 12112,
+            "STREETS": [
+              {
+                "NAME": "KINYAMWEZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BOMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGOGO FRESH 'A'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGOGO FRESH 'B'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUSTAPHA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAJOHE",
+            "POSTCODE": 12113,
+            "STREETS": [
+              {
+                "NAME": "MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIVULE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RADA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIWEGE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSONGOLA",
+            "POSTCODE": 12114,
+            "STREETS": [
+              {
+                "NAME": "KITONGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "YANGEYANGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBONDOLE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MVULENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBOGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIDOLE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKERA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SANGARA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UWANJA WA NYANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHANIKA",
+            "POSTCODE": 12115,
+            "STREETS": [
+              {
+                "NAME": "TUNGINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "YONGWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LUKOMI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIKONGORO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGUVU MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIROBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIDUGALO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGWALE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LUKOONI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KINYEREZI",
+            "POSTCODE": 12116,
+            "STREETS": [
+              {
+                "NAME": "KINYEREZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIFURU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWALIMBAGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBAGA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIVULE",
+            "POSTCODE": 12117,
+            "STREETS": [
+              {
+                "NAME": "KIVULE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BOMBAMBILI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAREZANGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGORE A",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MNYAMANI",
+            "POSTCODE": 12118,
+            "STREETS": [
+              {
+                "NAME": "MALUZUKU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "FARU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MNYAMANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LIWITI",
+            "POSTCODE": 12119,
+            "STREETS": [
+              {
+                "NAME": "MACHIMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LIWITI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MISEWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AMANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BONYOKWA",
+            "POSTCODE": 12120,
+            "STREETS": [
+              {
+                "NAME": "BONYOKWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSINGWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIPUNGUNI",
+            "POSTCODE": 12121,
+            "STREETS": [
+              {
+                "NAME": "KIPUNGUNI B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KITINYE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MACHIMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AMANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KISUKULU",
+            "POSTCODE": 12122,
+            "STREETS": [
+              {
+                "NAME": "LUHANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISUKULU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIANZINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MINAZI MIREFU",
+            "POSTCODE": 12123,
+            "STREETS": [
+              {
+                "NAME": "MWALE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIGOMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MINAZI MIREFU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUYUNI",
+            "POSTCODE": 12124,
+            "STREETS": [
+              {
+                "NAME": "ZAVALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MGEULE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NYEBURU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGEZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGEZI CHINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MGEULE JUU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TALIANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ZINGIZIWA",
+            "POSTCODE": 12125,
+            "STREETS": [
+              {
+                "NAME": "NZASA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ZOGOALI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ZINGIZIWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LUBAKAYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGOBEDI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SOMELO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MZINGA",
+            "POSTCODE": 12126,
+            "STREETS": [
+              {
+                "NAME": "MWANAGATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGOLE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MZINGA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "PUGU STATION",
+            "POSTCODE": 12127,
+            "STREETS": [
+              {
+                "NAME": "BANGULO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PUGU STATION",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "KINONDONI",
+        "POSTCODE": 14,
+        "WARD": [
+          {
+            "NAME": "MAGOMENI",
+            "POSTCODE": 14101,
+            "STREETS": [
+              {
+                "NAME": "SUNA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUTI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUTI \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DOSSI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IDRISA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MZIMUNI",
+            "POSTCODE": 14102,
+            "STREETS": [
+              {
+                "NAME": "IDRISA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUMBUSHO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTAMBANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWINYIMKUU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NDUGUMBI",
+            "POSTCODE": 14104,
+            "STREETS": [
+              {
+                "NAME": "MPAKANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIKOROSHINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKANYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIGAENI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TANDALE",
+            "POSTCODE": 14106,
+            "STREETS": [
+              {
+                "NAME": "MTOGOLE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA TUMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PAKACHA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SOKONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKUNDUGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUHALTANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKUMBUSHO",
+            "POSTCODE": 14107,
+            "STREETS": [
+              {
+                "NAME": "MAKUMBUSHO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MINAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MCHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SINGANO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MWANANYAMALA",
+            "POSTCODE": 14108,
+            "STREETS": [
+              {
+                "NAME": "KAMBANGWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSISIRI \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSISIRI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BWAWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWINJUMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA KOPA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSOLOMI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "HANANASIF",
+            "POSTCODE": 14109,
+            "STREETS": [
+              {
+                "NAME": "HANANASIF",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISUTU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKUNGUNI A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKUNGUNI B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAWAWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KINONDONI",
+            "POSTCODE": 14110,
+            "STREETS": [
+              {
+                "NAME": "KUMBUKUMBU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KINONDONI MJINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KINONDONI SHAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ADA ESTATE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSASANI",
+            "POSTCODE": 14111,
+            "STREETS": [
+              {
+                "NAME": "OYSTERBAY",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASAKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIKOROSHONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BONDE LA MPUNGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKANGIRA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MIKOCHENI",
+            "POSTCODE": 14112,
+            "STREETS": [
+              {
+                "NAME": "MIKOCHENI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIKOCHENI \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "REGENT ESTATE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ALLY H. MWINYI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TPDC",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DARAJANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIJITONYAMA",
+            "POSTCODE": 14113,
+            "STREETS": [
+              {
+                "NAME": "KIJITONYAMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ALIMAUA \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ALIMAUA \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPAKANI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPAKANI \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BWAWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWENGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NZASA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIGOGO",
+            "POSTCODE": 14118,
+            "STREETS": [
+              {
+                "NAME": "KIGOGO KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGOGO MKWAJUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGOGO MBUYUNI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAWE",
+            "POSTCODE": 14121,
+            "STREETS": [
+              {
+                "NAME": "MZIMUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UKWAMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI  BEACH  \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI  BEACH  \"B",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KUNDUCHI",
+            "POSTCODE": 14122,
+            "STREETS": [
+              {
+                "NAME": "PWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILONGAWIMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTONGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TEGETA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UNUNIO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KONDO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUNJU",
+            "POSTCODE": 14125,
+            "STREETS": [
+              {
+                "NAME": "BOKO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUNJU \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILUNGULE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUSIHAYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DOVYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKOANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBWENI",
+            "POSTCODE": 14126,
+            "STREETS": [
+              {
+                "NAME": "MAPUTO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBWENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TETA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MALINDI ESTATE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPIJI MBWENI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBEZI JUU",
+            "POSTCODE": 14128,
+            "STREETS": [
+              {
+                "NAME": "JOGOO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NDUMBWI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI MTONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI JUU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKONGO",
+            "POSTCODE": 14129,
+            "STREETS": [
+              {
+                "NAME": "CHANGANYIKENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLALAKUWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKONGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "WAZO",
+            "POSTCODE": 14130,
+            "STREETS": [
+              {
+                "NAME": "WAZO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SALASALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILIMAHEWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MADALE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIVUMONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILIMAHEWA JUU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAKASANGWE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MABWEPANDE",
+            "POSTCODE": 14134,
+            "STREETS": [
+              {
+                "NAME": "BUNJU \"B'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MABWE PANDE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJIMPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIHONZILE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBOPO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "TEMEKE",
+        "POSTCODE": 15,
+        "WARD": [
+          {
+            "NAME": "TEMEKE",
+            "POSTCODE": 15101,
+            "STREETS": [
+              {
+                "NAME": "MAGANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MATUMBI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NJARO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TEMEKE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SANDALI",
+            "POSTCODE": 15102,
+            "STREETS": [
+              {
+                "NAME": "MAMBOLEO \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SANDALI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAMBOLEO \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPOGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWEMBELADU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TINDWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKWIDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VETERINARY",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "USALAMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMBUNGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWEMBEMNOFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHANG’OMBE",
+            "POSTCODE": 15103,
+            "STREETS": [
+              {
+                "NAME": "BORA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TOROLI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHANG'OMBE \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHANG'OMBE \"B",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KEKO",
+            "POSTCODE": 15104,
+            "STREETS": [
+              {
+                "NAME": "KEKO \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KEKO MWANGA \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KEKO MWANGA \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KEKO MAGURUMBASI \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KEKO MAGURUMBASI \"B",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MIBURANI",
+            "POSTCODE": 15105,
+            "STREETS": [
+              {
+                "NAME": "MIBURANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UWANJA WA TAIFA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "WAILES",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KEKO MACHUNGWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MGULANI (KEKO JUU)",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "AZIMIO",
+            "POSTCODE": 15106,
+            "STREETS": [
+              {
+                "NAME": "AZIMIO KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AZIMIO KUSINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TAMBUKARELI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTONGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTONI UNGUJA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TANDIKA",
+            "POSTCODE": 15107,
+            "STREETS": [
+              {
+                "NAME": "TAMLA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGURUWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILIMAHEWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TANDIKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NYAMBWERA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MABATINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MTONI",
+            "POSTCODE": 15108,
+            "STREETS": [
+              {
+                "NAME": "MTONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SABASABA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUSTANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RELINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHAUREMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BOKORANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KURASINI",
+            "POSTCODE": 15109,
+            "STREETS": [
+              {
+                "NAME": "SHIMO LA UDONGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIVINJENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MINAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KURASINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIUNGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBAGALA KUU",
+            "POSTCODE": 15112,
+            "STREETS": [
+              {
+                "NAME": "KIZUIANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBONDE MAJI \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHEMCHEM",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "JESHI LA WOKOVU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBAGALA KUU MASHARIKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBAGALA KUU MAGHARIBI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBAGALA KUU KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUKA KUSINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUKA KASKAZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPAKANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBAGALA",
+            "POSTCODE": 15113,
+            "STREETS": [
+              {
+                "NAME": "MBAGALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIZINGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MANGAYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MORINGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUGHUDADI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SERENGE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKANGARAWE",
+            "POSTCODE": 15114,
+            "STREETS": [
+              {
+                "NAME": "MAKANGARAWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "YOMBO DOVYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSAKALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UWAZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBONDE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "YOMBO VITUKA",
+            "POSTCODE": 15115,
+            "STREETS": [
+              {
+                "NAME": "YOMBO VITUKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SIGARA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MACHIMBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGOGONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MZAMBARAUNI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHAMAZI",
+            "POSTCODE": 15116,
+            "STREETS": [
+              {
+                "NAME": "MAGENGENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWEMBEBAMIA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIPONZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISEWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RUFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSUFINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIGOA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DOVYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKONDOGWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHARAMBE",
+            "POSTCODE": 15117,
+            "STREETS": [
+              {
+                "NAME": "KURASINI MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NZASA \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "RANGI TATU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MACHINJIONI A",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TOANGOMA",
+            "POSTCODE": 15118,
+            "STREETS": [
+              {
+                "NAME": "TOANGOMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MALELA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VIKUNAI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASULIZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASAKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIKWAMBE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHANGANYIKENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWAPEMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PONDE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KONGOWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOROKA 'A'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOROKA 'B'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MZINGA 'A'",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MZINGA 'B'",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUZA",
+            "POSTCODE": 15125,
+            "STREETS": [
+              {
+                "NAME": "BUZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MASHINE YA MAJI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIDAGAA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AMANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KILAKALA",
+            "POSTCODE": 15127,
+            "STREETS": [
+              {
+                "NAME": "BARABARA YA MWINYI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILAKALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGUNGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIEMBESAMAKI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "YOMBO RELI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIBURUGWA",
+            "POSTCODE": 15128,
+            "STREETS": [
+              {
+                "NAME": "JUHUDI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBURUGWA NAMBA3",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWANYOKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KINGUGI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BARABARA YA MWINYI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBURUGWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIJICHI",
+            "POSTCODE": 15129,
+            "STREETS": [
+              {
+                "NAME": "MGENI NANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MISHENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTONI KIJICHI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUTIAMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWANAMTOTI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MIANZINI",
+            "POSTCODE": 15130,
+            "STREETS": [
+              {
+                "NAME": "MAJIMATITU A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MACHINJIONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPONDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIANZINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIBONDEMAJI",
+            "POSTCODE": 15131,
+            "STREETS": [
+              {
+                "NAME": "MAJIMATITU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBONDEMAJI A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MCHIKICHINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMBANGULILE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KILUNGULE",
+            "POSTCODE": 15132,
+            "STREETS": [
+              {
+                "NAME": "KILUNGULE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NZASA A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJIMATITU B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA MZUNGU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UZOMBOKONI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "UBUNGO",
+        "POSTCODE": 16,
+        "WARD": [
+          {
+            "NAME": "MBURAHATI",
+            "POSTCODE": 16101,
+            "STREETS": [
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NATIONAL HOUSING CORP",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BARAFU",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SINZA",
+            "POSTCODE": 16102,
+            "STREETS": [
+              {
+                "NAME": "SINZA \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SINZA \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SINZA \"C",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SINZA \"D",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SINZA \"E",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UBUNGO",
+            "POSTCODE": 16103,
+            "STREETS": [
+              {
+                "NAME": "CHUO KIKUU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSEWE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NATIONAL HOUSING CORP.",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIMARA",
+            "POSTCODE": 16104,
+            "STREETS": [
+              {
+                "NAME": "BARUTI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMARA BARUTI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAVURUNZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILUNGULE \"A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILUNGULE  \"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOLANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SARANGA",
+            "POSTCODE": 16105,
+            "STREETS": [
+              {
+                "NAME": "SARANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UPENDO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMARA\"B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MATANGINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "STOP OVER",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KING'ONGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MICHUNGWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UKOMBOZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJI MPYA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKUBURI",
+            "POSTCODE": 16106,
+            "STREETS": [
+              {
+                "NAME": "MWONGOZO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKOKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBANGU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKUBURI KIBANGU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAJIMA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKURUMLA",
+            "POSTCODE": 16107,
+            "STREETS": [
+              {
+                "NAME": "KWA JONGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIMAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILIMAHEWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KAGERA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIANZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SISI KWA SISI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MANZESE",
+            "POSTCODE": 16108,
+            "STREETS": [
+              {
+                "NAME": "MIDIZINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILIMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MNAZI MMOJA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UZURI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MVULENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWEMBENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHAKULA BORA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TUPENDANE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MFEREJINI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MABIBO",
+            "POSTCODE": 16109,
+            "STREETS": [
+              {
+                "NAME": "MABIBO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "JITEGEMEE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "AZIMIO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KANUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MATOKEO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MABIBO FARASI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIBAMBA",
+            "POSTCODE": 16110,
+            "STREETS": [
+              {
+                "NAME": "KIBWEGERE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "HONDOGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOGONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KILUVYA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KWEMBE",
+            "POSTCODE": 16111,
+            "STREETS": [
+              {
+                "NAME": "KWEMBE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPAKANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KING'AZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LUGURUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISOPWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NJETENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KING'AZI B",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJIMPYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSAKUZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLONGAZILA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GOBA",
+            "POSTCODE": 16112,
+            "STREETS": [
+              {
+                "NAME": "GOBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MATOSA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KULANGWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KINZUDI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KUNGURU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBULULU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TEGETA A",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBEZI",
+            "POSTCODE": 16113,
+            "STREETS": [
+              {
+                "NAME": "MSAKUZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSUMI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBEZI LUIS",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MPIJI MAGOHE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAKABE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSHIKAMANO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSAKUZI KUSINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LUIS",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSIGANI",
+            "POSTCODE": 16114,
+            "STREETS": [
+              {
+                "NAME": "TEMBONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MALAMBA MAWILI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA YUSUPH",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSIGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSINGWA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "KIGAMBONI",
+        "POSTCODE": 17,
+        "WARD": [
+          {
+            "NAME": "KIMBIJI",
+            "POSTCODE": 17101,
+            "STREETS": [
+              {
+                "NAME": "GOLANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA CHALE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIKENGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGOBANYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIZITO HUONJWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIJAKA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOMANGILA",
+            "POSTCODE": 17102,
+            "STREETS": [
+              {
+                "NAME": "KIZANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBWAMAJI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWERA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DEGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MALIMBIKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VISIKINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWANZO MGUMU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHIRIKISHO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MINONDO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SARA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKWAJUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TUNGI",
+            "POSTCODE": 17103,
+            "STREETS": [
+              {
+                "NAME": "TUNGI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGOGONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KISARAWE II",
+            "POSTCODE": 17104,
+            "STREETS": [
+              {
+                "NAME": "TUMAINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIGOGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWASONGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SHARIFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "VUMILIA UKOONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NGOMA MAPINDUZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWANINGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKAMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "LINGATO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MADEGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "PEMBAMNAZI",
+            "POSTCODE": 17105,
+            "STREETS": [
+              {
+                "NAME": "POTEA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PU CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KWA MORISI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GULUBWIDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAHENGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TUNDWI CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SONGANI CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "PEMBA CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "BUYUNI CENTRE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBUNGO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MUHIMBILI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NYANGE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHAMBEWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MTIMWEUPE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MJIMWEMA",
+            "POSTCODE": 17106,
+            "STREETS": [
+              {
+                "NAME": "MAWENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UNGINDONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJIMWEMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBUGUMO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIGAMBONI",
+            "POSTCODE": 17107,
+            "STREETS": [
+              {
+                "NAME": "KIGAMBONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "FERRY",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TUAMOYO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "VIJIBWENI",
+            "POSTCODE": 17108,
+            "STREETS": [
+              {
+                "NAME": "VIJIBWENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIBENE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKWAJUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISIWANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UPENDO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KIBADA",
+            "POSTCODE": 17109,
+            "STREETS": [
+              {
+                "NAME": "NYAKWALE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KICHANGANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SOKONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIZIZA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UVUMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KIFURUKWE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

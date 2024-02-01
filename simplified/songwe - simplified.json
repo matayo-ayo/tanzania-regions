@@ -1,0 +1,4075 @@
+[
+  {
+    "REGION": "SONGWE",
+    "POSTCODE": 54,
+    "DISTRIC": [
+      {
+        "NAME": "SONGWE",
+        "POSTCODE": 541,
+        "WARD": [
+          {
+            "NAME": "GUA",
+            "POSTCODE": 54101,
+            "STREETS": [
+              {
+                "NAME": "GUA",
+                "PLACES": [
+                  "GUA  A",
+                  "GUA   E",
+                  "GUA   F",
+                  "KATAVI   A",
+                  "KATAVI   B",
+                  "KATAVI   C",
+                  "KATAVI  D",
+                  "KAKOMA",
+                  "SONGAMBELE",
+                  "MANDA JUU."
+                ]
+              },
+              {
+                "NAME": "SOME",
+                "PLACES": [
+                  "SOME   A",
+                  "SOME   B",
+                  "SOME   C"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGWALA",
+            "POSTCODE": 54102,
+            "STREETS": [
+              {
+                "NAME": "NGWALA",
+                "PLACES": [
+                  "NGWALA KATI  A",
+                  "NGWALA KATI  B",
+                  "KAMFICHENI",
+                  "MAJENGO",
+                  "AZIMIO",
+                  "NGWALA MAGHARIBI",
+                  "MADODOMYA"
+                ]
+              },
+              {
+                "NAME": "ITIZIRO",
+                "PLACES": [
+                  "KIKAMBA",
+                  "ITIZIRO",
+                  "KISERUKA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAPALALA",
+            "POSTCODE": 54103,
+            "STREETS": [
+              {
+                "NAME": "KAPALALA",
+                "PLACES": [
+                  "KAPALALA A",
+                  "KAPALALA B",
+                  "KAPALALA C",
+                  "KININGA",
+                  "MTEKA"
+                ]
+              },
+              {
+                "NAME": "UDINDE",
+                "PLACES": [
+                  "IBOMA",
+                  "IPONGA",
+                  "MKUMBILI",
+                  "NYERERE",
+                  "ULAYA"
+                ]
+              },
+              {
+                "NAME": "RUKWA",
+                "PLACES": [
+                  "ITUMBI",
+                  "IZOSHA",
+                  "MBIZYA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBANGALA",
+            "POSTCODE": 54104,
+            "STREETS": [
+              {
+                "NAME": "MBANGALA",
+                "PLACES": [
+                  "MBANGALA  A",
+                  "MBANGALA  B",
+                  "MGOMBA",
+                  "ICHESE"
+                ]
+              },
+              {
+                "NAME": "MALEZA",
+                "PLACES": [
+                  "LUTUMBI  A",
+                  "LUTUMBI  B",
+                  "MALEZA JUU",
+                  "MTOTO JUU",
+                  "MADIZINI",
+                  "KALANDA",
+                  "SAZA FALLS"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SAZA",
+            "POSTCODE": 54105,
+            "STREETS": [
+              {
+                "NAME": "SAZA",
+                "PLACES": [
+                  "SAZA KATI",
+                  "MAKAMBINI",
+                  "BWANA MZUNGU",
+                  "KIBAONI",
+                  "BWAWANI",
+                  "MIEMBENI"
+                ]
+              },
+              {
+                "NAME": "PATAMELA",
+                "PLACES": [
+                  "MJINI",
+                  "MBUGANI",
+                  "MAWOWO",
+                  "SHULENI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MKWAJUNI",
+            "POSTCODE": 54106,
+            "STREETS": [
+              {
+                "NAME": "MKWAJUNI",
+                "PLACES": [
+                  "MKWAJUNI  A",
+                  "MKWAJUNI  B",
+                  "KAMFICHENI  A",
+                  "KAMFICHENI  B",
+                  "MNAZIMMOJA."
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  "MAJENGO",
+                  "MAGEREZA",
+                  "MBUGANI",
+                  "MORAVIAN",
+                  "KIMBOROKOTO"
+                ]
+              },
+              {
+                "NAME": "CHUDECO",
+                "PLACES": [
+                  "CHUDECO",
+                  "OSTERBAY",
+                  "ITONTERA",
+                  "MAWENI",
+                  "MELERANI"
+                ]
+              },
+              {
+                "NAME": "KALOLENI",
+                "PLACES": [
+                  "KALOLENI",
+                  "KIKUYU",
+                  "KALUNGU",
+                  "ILEPUKA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MWAMBANI",
+            "POSTCODE": 54107,
+            "STREETS": [
+              {
+                "NAME": "MWAMBANI",
+                "PLACES": [
+                  "LUTUMBI",
+                  "KALIMA",
+                  "KABONDE",
+                  "CHIZYA",
+                  "MAOMBWE"
+                ]
+              },
+              {
+                "NAME": "MBALA",
+                "PLACES": [
+                  "MBALA",
+                  "MIEMBENI",
+                  "MAPOROMOKO"
+                ]
+              },
+              {
+                "NAME": "ISECHE",
+                "PLACES": [
+                  "KIKONDO",
+                  "ISECHE  A",
+                  "ISECHE  B",
+                  "ISECHE  C"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "TOTOWE",
+            "POSTCODE": 54108,
+            "STREETS": [
+              {
+                "NAME": "TOTOWE",
+                "PLACES": [
+                  "TOTOWE KUSINI",
+                  "TOTOWE KATI",
+                  "HANDENI  A",
+                  "MBUYUNI",
+                  "CHEMICHEMI",
+                  "KAZUNDU"
+                ]
+              },
+              {
+                "NAME": "NAMAMBO",
+                "PLACES": [
+                  "MWONGOZO",
+                  "RUKWA",
+                  "MIKOCHENI",
+                  "HANDENI  B",
+                  "MIEMBENI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MPONA",
+            "POSTCODE": 54109,
+            "STREETS": [
+              {
+                "NAME": "MPONA",
+                "PLACES": [
+                  "MPONA",
+                  "NAMALAMA",
+                  "MWAWADIMI  A",
+                  "MALANGALI",
+                  "MWAWADIMI  B."
+                ]
+              },
+              {
+                "NAME": "IYOVYO",
+                "PLACES": [
+                  "IYOVYO MASH.",
+                  "IYOVYO MAGH.",
+                  "KAZUNDU",
+                  "MWAWADIMI",
+                  "KAMBIPOTEA."
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAMKUKWE",
+            "POSTCODE": 54110,
+            "STREETS": [
+              {
+                "NAME": "NAMKUKWE",
+                "PLACES": [
+                  "NAMKUKWE  A",
+                  "NAMKUKWE  B",
+                  "NAMKUKWE  C",
+                  "MPANGALA",
+                  "KISALE"
+                ]
+              },
+              {
+                "NAME": "MUHEZA",
+                "PLACES": [
+                  "MUHEZA  A",
+                  "MUHEZA  B",
+                  "NGUZI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MANDA",
+            "POSTCODE": 54111,
+            "STREETS": [
+              {
+                "NAME": "ISANZU",
+                "PLACES": [
+                  "UKOMBOZI",
+                  "LANDANI",
+                  "MWAMBANG'OMBE",
+                  "KWIMBA"
+                ]
+              },
+              {
+                "NAME": "MANDA",
+                "PLACES": [
+                  "MANDA A",
+                  "MANDA B",
+                  "MANDA C",
+                  "LUTUMBI",
+                  "KAMBIULIZA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAGAMBA",
+            "POSTCODE": 54112,
+            "STREETS": [
+              {
+                "NAME": "MAGAMBA",
+                "PLACES": [
+                  "MAGAMBA",
+                  "NGAYANGWANDA",
+                  "MBALWE",
+                  "NKOMANO",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "KAMBARAGE",
+                "PLACES": [
+                  "SOGA",
+                  "ILEMBO"
+                ]
+              },
+              {
+                "NAME": "HALYONGO",
+                "PLACES": [
+                  "HALYONGO A",
+                  "HALYONGO B",
+                  "MILE",
+                  "MAZINDE"
+                ]
+              },
+              {
+                "NAME": "SONGAMBELE",
+                "PLACES": [
+                  "MBUGANI",
+                  "SHUJILA",
+                  "LUMWAHA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "GALULA",
+            "POSTCODE": 54113,
+            "STREETS": [
+              {
+                "NAME": "GALULA",
+                "PLACES": [
+                  "GALULA  A",
+                  "GALULA  B",
+                  "MUHIMBILI",
+                  "GALULA  C",
+                  "ILEMBO"
+                ]
+              },
+              {
+                "NAME": "ILASILO",
+                "PLACES": [
+                  "ILASILO  A",
+                  "ILASILO  B",
+                  "LUMPAMBA",
+                  "IWOMBWE"
+                ]
+              },
+              {
+                "NAME": "ITINDI",
+                "PLACES": [
+                  "NAMAKUNGU",
+                  "ITINDI KATI",
+                  "MTAKUJA",
+                  "IGUZYA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBUYUNI",
+            "POSTCODE": 54114,
+            "STREETS": [
+              {
+                "NAME": "MBUYUNI",
+                "PLACES": [
+                  "MBUYUNI  A",
+                  "MBUYUNI  B",
+                  "MBUYUNI  C",
+                  "MBUYUNI  D"
+                ]
+              },
+              {
+                "NAME": "NDANGA",
+                "PLACES": [
+                  "NDANGA  A",
+                  "NDANGA  B",
+                  "MBUYUNI  E"
+                ]
+              },
+              {
+                "NAME": "MWAGALA",
+                "PLACES": [
+                  "MWAGALA  A",
+                  "MWAGALA  B",
+                  "MWAGALA  C",
+                  "MWAGALA  D"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHANG'OMBE",
+            "POSTCODE": 54115,
+            "STREETS": [
+              {
+                "NAME": "CHANG’OMBE",
+                "PLACES": [
+                  "ISALE",
+                  "MWAGALA",
+                  "MTAKUJA",
+                  "MAGUNGA  A",
+                  "MAGUNGA  B"
+                ]
+              },
+              {
+                "NAME": "IFUKO",
+                "PLACES": [
+                  "MAZIZINI",
+                  "MAZIZINI  B",
+                  "MAPOGOLO",
+                  "MTONI",
+                  "MIEMBENI",
+                  "SWELA",
+                  "MABATINI"
+                ]
+              },
+              {
+                "NAME": "WANZANI",
+                "PLACES": [
+                  "MKOMA",
+                  "USANGU",
+                  "WAFUGAJI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KANGA",
+            "POSTCODE": 54116,
+            "STREETS": [
+              {
+                "NAME": "KANGA",
+                "PLACES": [
+                  "KANGA",
+                  "MAGADINI",
+                  "MAZIZINI",
+                  "MIKOCHENI",
+                  "MAJENGO",
+                  "IPALA",
+                  "SAWI"
+                ]
+              },
+              {
+                "NAME": "TETE",
+                "PLACES": [
+                  "BWAWANI",
+                  "MAJIMOTO",
+                  "ILANGA",
+                  "TETE KATI",
+                  "NAHAGONDO",
+                  "CHIKUWA",
+                  "MAGADINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IFWENKENYA",
+            "POSTCODE": 54117,
+            "STREETS": [
+              {
+                "NAME": "IFWENKENYA",
+                "PLACES": [
+                  "BWAWANI",
+                  "TANKINI",
+                  "MLIMANI",
+                  "MADIZINI",
+                  "MIEMBENI",
+                  "IPWIZI",
+                  "NZOHA",
+                  "IWAMBI."
+                ]
+              },
+              {
+                "NAME": "ILEYA",
+                "PLACES": [
+                  "ILEYA",
+                  "ILEMBO",
+                  "KIKAVU",
+                  "MULU."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "MBOZI",
+        "POSTCODE": 542,
+        "WARD": [
+          {
+            "NAME": "VWAWA",
+            "POSTCODE": 54201,
+            "STREETS": [
+              {
+                "NAME": "VWAWA",
+                "PLACES": [
+                  "VWAWA KATI",
+                  "SOKONI",
+                  "MWENGE",
+                  "VWAWA SEKONDARI",
+                  "OLD VWAWA",
+                  "MAKATANI",
+                  "SHIWANDA",
+                  "SHIGODE A",
+                  "SHIGODE B",
+                  "RELINI",
+                  "NSENYA",
+                  "NAMLEYA",
+                  "MAJENGO",
+                  "HALOLI",
+                  "MANTENGU \"A",
+                  "MANTENGU \"B",
+                  "UKINGANI",
+                  "KITOVUNI\"A",
+                  "KITOVUNI \"B"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MLOWO",
+            "POSTCODE": 54202,
+            "STREETS": [
+              {
+                "NAME": "MLOWO",
+                "PLACES": [
+                  "MLOWO",
+                  "SHULE",
+                  "MABATINI",
+                  "MAJENGO",
+                  "TAZARA",
+                  "MTAKUJA",
+                  "KIWANDANI",
+                  "ISINIZYA",
+                  "MIGOMBANI",
+                  "MAKOMBONI",
+                  "NSELEWA",
+                  "ILEMBO",
+                  "NAMBALA",
+                  "IZUMU",
+                  "MZUNGUKO",
+                  "ITENDE",
+                  "IGAWANYA",
+                  "SEGEREA",
+                  "MALENJE",
+                  "KALASHA",
+                  "IPANGA",
+                  "MABATINI",
+                  "IZYILA",
+                  "SANGANOTI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IGAMBA",
+            "POSTCODE": 54203,
+            "STREETS": [
+              {
+                "NAME": "IGAMBA",
+                "PLACES": [
+                  "MSUTO",
+                  "MZUMANZI",
+                  "CHAMANI",
+                  "IGAMBA KATI",
+                  "ISENTI"
+                ]
+              },
+              {
+                "NAME": "MSANYILA",
+                "PLACES": [
+                  "NANTEGO",
+                  "ITINKINYA",
+                  "KAYEWA",
+                  "NDOLEZI"
+                ]
+              },
+              {
+                "NAME": "MWANDA",
+                "PLACES": [
+                  "MWANDA",
+                  "IVULULU",
+                  "IGONDA"
+                ]
+              },
+              {
+                "NAME": "MBOZI",
+                "PLACES": [
+                  "MATULA A",
+                  "MATUKA B",
+                  "MBOZI KATI",
+                  "IDIMI A"
+                ]
+              },
+              {
+                "NAME": "MBUGA",
+                "PLACES": [
+                  "MBUGA A",
+                  "MBUGA B",
+                  "IDIMI B"
+                ]
+              },
+              {
+                "NAME": "ZELEZETA",
+                "PLACES": [
+                  "WASA",
+                  "SHULENI",
+                  "ISYALAMAGAZI",
+                  "RUTINDI"
+                ]
+              },
+              {
+                "NAME": "ITEPULA",
+                "PLACES": [
+                  "ITEPULA KATI",
+                  "MWENZO",
+                  "SHAJI",
+                  "ITEWE",
+                  "MWANDA",
+                  "MPANDA MAINI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSIA",
+            "POSTCODE": 54204,
+            "STREETS": [
+              {
+                "NAME": "MSIA",
+                "PLACES": [
+                  "MSIA",
+                  "HANKALAGWA",
+                  "MGOMBEZI",
+                  "IYUNGA",
+                  "IBANDAWE",
+                  "UZINJE"
+                ]
+              },
+              {
+                "NAME": "IBEMBWA",
+                "PLACES": [
+                  "IBEMBWA",
+                  "MAWANGA",
+                  "MPALAMAWE",
+                  "IGUNDA"
+                ]
+              },
+              {
+                "NAME": "IGANDUKA",
+                "PLACES": [
+                  "IGANDUKA KATI",
+                  "BAGAMOYO",
+                  "MSUMBI",
+                  "MAGEGE"
+                ]
+              },
+              {
+                "NAME": "WELU I",
+                "PLACES": [
+                  "WELU",
+                  "NKANA",
+                  "CHILONGO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IHANDA",
+            "POSTCODE": 54205,
+            "STREETS": [
+              {
+                "NAME": "IHANDA",
+                "PLACES": [
+                  "IHANDA",
+                  "LWIBA",
+                  "MLIMANI",
+                  "MTAKUJA",
+                  "MPANDE"
+                ]
+              },
+              {
+                "NAME": "MAJENGO",
+                "PLACES": [
+                  "NGUVU KAZI",
+                  "MAENDELEO",
+                  "MPAKANI",
+                  "UPENDO",
+                  "IZYIKA"
+                ]
+              },
+              {
+                "NAME": "SUMBALWELA",
+                "PLACES": [
+                  "MTAKUJA",
+                  "SAMBEMBE",
+                  "IZYIKA",
+                  "NG'AMBA",
+                  "MAJI MOTO",
+                  "SAWEYA KATI"
+                ]
+              },
+              {
+                "NAME": "HANSEKETWA",
+                "PLACES": [
+                  "AZIMIO",
+                  "SONGA MBELE",
+                  "KAYAMBE",
+                  "IHOZYA",
+                  "MWANDAJE",
+                  "MAJENGO",
+                  "HANSEKETWA KATI"
+                ]
+              },
+              {
+                "NAME": "MALONJI",
+                "PLACES": [
+                  "MALONJI",
+                  "NG'AMBA",
+                  "MANG'ANZO",
+                  "LENGO"
+                ]
+              },
+              {
+                "NAME": "NANYUNYI",
+                "PLACES": [
+                  "NANYUNYI",
+                  "MLAMBWIZI",
+                  "MLEMELA",
+                  "NAMBWAJI",
+                  "KIBAONI"
+                ]
+              },
+              {
+                "NAME": "SAKAMWELA",
+                "PLACES": [
+                  "LUNGWA",
+                  "ISONGOLE",
+                  "CHIYANGA",
+                  "ICHENJEZYA",
+                  "SONGANBELE A",
+                  "MABATINI",
+                  "SONGAMBELE B"
+                ]
+              },
+              {
+                "NAME": "SHILANGA",
+                "PLACES": [
+                  "SHILANGA",
+                  "NTAZU",
+                  "NAMALEMA",
+                  "KAWE",
+                  "SUPU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ISANDULA",
+            "POSTCODE": 54206,
+            "STREETS": [
+              {
+                "NAME": "CHIMBUYA",
+                "PLACES": [
+                  "MAZINGA",
+                  "MLAMBWIZI",
+                  "CHIMBUYA",
+                  "ICHENJEZYA",
+                  "IBOBI"
+                ]
+              },
+              {
+                "NAME": "LUDEWA",
+                "PLACES": [
+                  "MAPOROMOKO",
+                  "CHUNYA",
+                  "IKINGA",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "UKWILE",
+                "PLACES": [
+                  "MWEMBE",
+                  "UKWILE",
+                  "SONGAMBELE",
+                  "MWANDAJE"
+                ]
+              },
+              {
+                "NAME": "CHIZUMBI",
+                "PLACES": [
+                  "MOVA",
+                  "IYALAWE",
+                  "IBABA"
+                ]
+              },
+              {
+                "NAME": "MPONELA",
+                "PLACES": [
+                  "SONGAMBELE",
+                  "MBUGANI",
+                  "MABATINI",
+                  "NAMASANGU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NYIMBILI",
+            "POSTCODE": 54207,
+            "STREETS": [
+              {
+                "NAME": "NYIMBILI",
+                "PLACES": [
+                  "NYIMBILI KATI",
+                  "ILENGO",
+                  "MABULA",
+                  "MLOWO",
+                  "SHIDUNDA"
+                ]
+              },
+              {
+                "NAME": "MPANDA",
+                "PLACES": [
+                  "MPANDA KATI",
+                  "ISEWE",
+                  "SHITITI",
+                  "NZOVU",
+                  "NYANYI"
+                ]
+              },
+              {
+                "NAME": "MASANGULA",
+                "PLACES": [
+                  "MSANGULA KATI",
+                  "SHINDUSWA",
+                  "MAKWELA",
+                  "NALAWA",
+                  "UDINDE"
+                ]
+              },
+              {
+                "NAME": "HANTESYA",
+                "PLACES": [
+                  "HANTESYA KATI",
+                  "IYUMBA",
+                  "MAKWEMBA",
+                  "SHISI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "HALUNGU",
+            "POSTCODE": 54208,
+            "STREETS": [
+              {
+                "NAME": "HALUNGU",
+                "PLACES": [
+                  "HALUNGU MJINI",
+                  "NZIJE A",
+                  "NZIJE B",
+                  "MAKAMBINI"
+                ]
+              },
+              {
+                "NAME": "HALAMBO",
+                "PLACES": [
+                  "MBWIGA",
+                  "MPALWA",
+                  "HANGAMBA",
+                  "MAWANGA",
+                  "NUMBWE",
+                  "MWANYA"
+                ]
+              },
+              {
+                "NAME": "HAMPANGALA",
+                "PLACES": [
+                  "MALONGOTI",
+                  "NAMATENDA",
+                  "MSAMVU",
+                  "IHOMA",
+                  "ISINIZYA",
+                  "ILONGA",
+                  "YOWELA"
+                ]
+              },
+              {
+                "NAME": "LWATI",
+                "PLACES": [
+                  "BAGAMOYO",
+                  "SHIKWALE",
+                  "LWATI KATI",
+                  "IVULULU",
+                  "MANDENGA"
+                ]
+              },
+              {
+                "NAME": "SHASYA",
+                "PLACES": [
+                  "NACHILESYA",
+                  "ITAGO",
+                  "IBUCHILA",
+                  "MANG'ANZO",
+                  "SHASYA KATI",
+                  "NAMKWENDE"
+                ]
+              },
+              {
+                "NAME": "SASENGA",
+                "PLACES": [
+                  "SASENGA",
+                  "ILANGALI",
+                  "KALISHI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MLANGALI",
+            "POSTCODE": 54209,
+            "STREETS": [
+              {
+                "NAME": "MLANGALI",
+                "PLACES": [
+                  "MLANGALI",
+                  "UNDALI",
+                  "UVIMBIZYA",
+                  "UNYALA",
+                  "MAHENJE"
+                ]
+              },
+              {
+                "NAME": "NDOLEZI",
+                "PLACES": [
+                  "NDOLEZI A",
+                  "NDOLEZI B",
+                  "SAGULE",
+                  "SIPUKA",
+                  "MTAKUJA",
+                  "ISELA",
+                  "IPOLA"
+                ]
+              },
+              {
+                "NAME": "MBEWE",
+                "PLACES": [
+                  "IYOMBO",
+                  "ILULA",
+                  "INTESYA",
+                  "IDUVULA",
+                  "MPANGALA"
+                ]
+              },
+              {
+                "NAME": "LUKULULU",
+                "PLACES": [
+                  "LUKULULU",
+                  "ITEMBA",
+                  "SHAMWA",
+                  "MWANDAJE",
+                  "ITAWA",
+                  "VILULUTA"
+                ]
+              },
+              {
+                "NAME": "SHAJI",
+                "PLACES": [
+                  "SHAJI",
+                  "MASOKO",
+                  "HAWIGA",
+                  "DOGO",
+                  "UTEMBELE",
+                  "SEKEWE"
+                ]
+              },
+              {
+                "NAME": "SHOMOLA",
+                "PLACES": [
+                  "SHOMOLA",
+                  "NSENGA",
+                  "IBOYO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IYULA",
+            "POSTCODE": 54210,
+            "STREETS": [
+              {
+                "NAME": "IYULA",
+                "PLACES": [
+                  "IYULA A",
+                  "CHAWAMA",
+                  "ILEYA",
+                  "NANYUKI"
+                ]
+              },
+              {
+                "NAME": "HATETE",
+                "PLACES": [
+                  "HATETE",
+                  "MKULA",
+                  "IKUKA",
+                  "HASALE",
+                  "SANTANGU"
+                ]
+              },
+              {
+                "NAME": "IYULA B",
+                "PLACES": [
+                  "JOSHO",
+                  "FOREST",
+                  "ITUMBA",
+                  "MTAKUJA",
+                  "MAENDELEO"
+                ]
+              },
+              {
+                "NAME": "IPYANA",
+                "PLACES": [
+                  "MAKAO MAKUU",
+                  "SADAMU",
+                  "MAJIMOTO",
+                  "NYEMBE",
+                  "NSANYA"
+                ]
+              },
+              {
+                "NAME": "IGALE",
+                "PLACES": [
+                  "UNYENYEMBE",
+                  "MSIA",
+                  "SHILUNGU",
+                  "LALASIMBA",
+                  "NSWIGA",
+                  "IZIWILA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MYOVIZI",
+            "POSTCODE": 54211,
+            "STREETS": [
+              {
+                "NAME": "MAHENJE",
+                "PLACES": [
+                  "HASALE",
+                  "SHAMBWE",
+                  "SELE",
+                  "NJIA PANDA",
+                  "ILONGA"
+                ]
+              },
+              {
+                "NAME": "ICHESA",
+                "PLACES": [
+                  "ICHESA KATI",
+                  "HATELELE",
+                  "UPENDO",
+                  "MAPOROMOKO",
+                  "BELU",
+                  "NANSYANI"
+                ]
+              },
+              {
+                "NAME": "MYOVIZI",
+                "PLACES": [
+                  "MYOVIZI KATI",
+                  "MWONGOZO",
+                  "AZIMIO",
+                  "ITEKA"
+                ]
+              },
+              {
+                "NAME": "MBULU",
+                "PLACES": [
+                  "MBULU KATI",
+                  "IYALAWE",
+                  "ILINDI",
+                  "ISONGOLE",
+                  "HASALE",
+                  "ILANGALI"
+                ]
+              },
+              {
+                "NAME": "IGUNDA",
+                "PLACES": [
+                  "GHALANI",
+                  "MJI MWEMA",
+                  "NAKUNGURU",
+                  "MIANZINI",
+                  "NSEKEWE"
+                ]
+              },
+              {
+                "NAME": "IVUGULA",
+                "PLACES": [
+                  "SHOGO KATI",
+                  "MPEMBE",
+                  "HATETE",
+                  "MWANDAJE",
+                  "IVUGULA JUU",
+                  "HALINGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "RUANDA",
+            "POSTCODE": 54212,
+            "STREETS": [
+              {
+                "NAME": "LUMBILA",
+                "PLACES": [
+                  "LUMBILA KATI",
+                  "LUDADULA",
+                  "IVWANGWA",
+                  "LUWEMBA",
+                  "NKAHATU",
+                  "ISENTE"
+                ]
+              },
+              {
+                "NAME": "WELU II",
+                "PLACES": [
+                  "WELU KATI",
+                  "IFINGANO",
+                  "LUGONYO",
+                  "IWAWA"
+                ]
+              },
+              {
+                "NAME": "IHOWA",
+                "PLACES": [
+                  "ITEWE",
+                  "NJIA PANDA",
+                  "SHONDA",
+                  "KILABUNI KATI",
+                  "SHULENI",
+                  "IYANGA",
+                  "SHILANGA"
+                ]
+              },
+              {
+                "NAME": "IDIBILA",
+                "PLACES": [
+                  "MAJENGO",
+                  "MABUBA",
+                  "NAMLEA",
+                  "NASHUNGA",
+                  "IVUGULA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ITAKA",
+            "POSTCODE": 54213,
+            "STREETS": [
+              {
+                "NAME": "INSANI",
+                "PLACES": [
+                  "IZIMBWE",
+                  "MCHESE",
+                  "NAMWAYA",
+                  "MWANDAJE",
+                  "UWANISHE"
+                ]
+              },
+              {
+                "NAME": "MBOJE",
+                "PLACES": [
+                  "NKASI",
+                  "TOGAMWENDO",
+                  "MBOJE",
+                  "HAZEMBE",
+                  "IBULA"
+                ]
+              },
+              {
+                "NAME": "ITAKA",
+                "PLACES": [
+                  "ITAKA MJINI",
+                  "MASEWE",
+                  "SHIHANDO",
+                  "LUNYEGO"
+                ]
+              },
+              {
+                "NAME": "HAMWELO",
+                "PLACES": [
+                  "MPANTILA",
+                  "NYEMBE",
+                  "MAPOGORO",
+                  "ISUKAMAWELA",
+                  "NZIGE",
+                  "NJOOMUONE"
+                ]
+              },
+              {
+                "NAME": "ISELA",
+                "PLACES": [
+                  "ISELA",
+                  "IYUNGA",
+                  "HAROLI",
+                  "GEZAULOLE"
+                ]
+              },
+              {
+                "NAME": "ITENTULA",
+                "PLACES": [
+                  "STENDI",
+                  "SUMBAWANGA",
+                  "NANKANZA",
+                  "LIWELYAMANGA"
+                ]
+              },
+              {
+                "NAME": "ITEWE",
+                "PLACES": [
+                  "ITEWE",
+                  "GEZAULOLE",
+                  "MAJENGO",
+                  "KALOLENI",
+                  "MGANGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NAMBINZO",
+            "POSTCODE": 54214,
+            "STREETS": [
+              {
+                "NAME": "NKANGA",
+                "PLACES": [
+                  "GHALANI",
+                  "MAKAMBINI",
+                  "SHILANGA",
+                  "IPENYA"
+                ]
+              },
+              {
+                "NAME": "MWANJELWA",
+                "PLACES": [
+                  "MAJENGO",
+                  "NALUSANYA",
+                  "MWANJELWA",
+                  "SUMBA MAJEMBE"
+                ]
+              },
+              {
+                "NAME": "ISENZANYA",
+                "PLACES": [
+                  "UDONDA",
+                  "USUANGALA",
+                  "MKUKWE",
+                  "ISENZANYA KATI"
+                ]
+              },
+              {
+                "NAME": "MANYARA",
+                "PLACES": [
+                  "MANYARA KATI",
+                  "PATAMELA",
+                  "HAZUMBI",
+                  "UPENDO"
+                ]
+              },
+              {
+                "NAME": "NAMBINZO",
+                "PLACES": [
+                  "NAMBINZO KATI",
+                  "MKUKWE",
+                  "NAMANGA",
+                  "MWALA",
+                  "IWEZYA"
+                ]
+              },
+              {
+                "NAME": "UTAMBALILA",
+                "PLACES": [
+                  "HUDUMA",
+                  "MWANSAPILA",
+                  "TENDAMEMA",
+                  "MAGAMBA",
+                  "ILALANGULU"
+                ]
+              },
+              {
+                "NAME": "SHITUNGURU",
+                "PLACES": [
+                  "SHITUNGURU KATI",
+                  "NANYANYA",
+                  "SHIHANDO",
+                  "LUPANGO"
+                ]
+              },
+              {
+                "NAME": "IPAPA",
+                "PLACES": [
+                  "NAMPANJI",
+                  "MBUGANI",
+                  "MANTIVWANA",
+                  "IPAPA",
+                  "HASALE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NANYALA",
+            "POSTCODE": 54215,
+            "STREETS": [
+              {
+                "NAME": "NANYALA",
+                "PLACES": [
+                  "NANYALA KATI",
+                  "KAWETELE",
+                  "MAULA",
+                  "IFUFU",
+                  "IWANGA",
+                  "UDINDE",
+                  "MAJI YA MOTO"
+                ]
+              },
+              {
+                "NAME": "SENJELE",
+                "PLACES": [
+                  "NANDAGO",
+                  "SHITUNGULU",
+                  "SHIKULA",
+                  "IDIBILA"
+                ]
+              },
+              {
+                "NAME": "NAMLONGA",
+                "PLACES": [
+                  "IWANGA",
+                  "IFINGANO",
+                  "LUGONYO",
+                  "MALEMA SONGWE"
+                ]
+              },
+              {
+                "NAME": "SONGWE",
+                "PLACES": [
+                  "MPIKA",
+                  "MANYALA",
+                  "MLANGALI",
+                  "MAJENGO",
+                  "SOGEA"
+                ]
+              },
+              {
+                "NAME": "LUSUNGO",
+                "PLACES": [
+                  "LONJELA",
+                  "IHOMBE",
+                  "LUHOMANO",
+                  "NTIKA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IPUNGA",
+            "POSTCODE": 54216,
+            "STREETS": [
+              {
+                "NAME": "IPUNGA",
+                "PLACES": [
+                  "ISUNKA",
+                  "NAKONDE",
+                  "CHILULUMO",
+                  "NAZARETI",
+                  "CHIYANGA",
+                  "MPAKANI",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "IPAPA",
+                "PLACES": [
+                  "MAWENI",
+                  "HANSALE",
+                  "IPAPA KATI",
+                  "IWUNJI",
+                  "SAMBANDOLA",
+                  "SHANDAMU"
+                ]
+              },
+              {
+                "NAME": "IPANZYA",
+                "PLACES": [
+                  "IPANZYA KATI",
+                  "INYELA",
+                  "KILIMAMPIMBI",
+                  "MSULO",
+                  "TOGAMWENDO"
+                ]
+              },
+              {
+                "NAME": "MPELA",
+                "PLACES": [
+                  "MPELA",
+                  "LEGEZA MWENDO",
+                  "MIBULANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BARA",
+            "POSTCODE": 54217,
+            "STREETS": [
+              {
+                "NAME": "BARA",
+                "PLACES": [
+                  "BARA MJINI",
+                  "CHANG'OMBE",
+                  "USAFWANI",
+                  "BARA KATI",
+                  "ITANDULA"
+                ]
+              },
+              {
+                "NAME": "MANINGA",
+                "PLACES": [
+                  "MANINGA",
+                  "IGOLOLA",
+                  "NGOMANI"
+                ]
+              },
+              {
+                "NAME": "TWINZI",
+                "PLACES": [
+                  "NAZWANGA",
+                  "TWINZI",
+                  "MAHOMA",
+                  "MTAKUJA",
+                  "RAHALEO"
+                ]
+              },
+              {
+                "NAME": "HANGOMBA",
+                "PLACES": [
+                  "HANGOMBA MJINI",
+                  "ITANDULA",
+                  "ISECHE",
+                  "IYULA",
+                  "SHAMBWE"
+                ]
+              },
+              {
+                "NAME": "IKONYA",
+                "PLACES": [
+                  "SHAMNDA",
+                  "IKONYA A",
+                  "LUWEMBA",
+                  "IKONYA B",
+                  "ISANGU"
+                ]
+              },
+              {
+                "NAME": "IPOROTO",
+                "PLACES": [
+                  "SHAMBWE",
+                  "IPOLOTO KATI",
+                  "ILANZI",
+                  "MALENJE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ILOLO",
+            "POSTCODE": 54218,
+            "STREETS": [
+              {
+                "NAME": "ILOLO",
+                "PLACES": [
+                  "IKONONGO",
+                  "LAMI",
+                  "ILOLO SHULENI",
+                  "MIGOMBANI",
+                  "MWANGUKU",
+                  "KANISANI",
+                  "IGWALA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ICHENJEZYA",
+            "POSTCODE": 54219,
+            "STREETS": [
+              {
+                "NAME": "ICHENJEZYA",
+                "PLACES": [
+                  "MBUGANI",
+                  "MPAKANI",
+                  "ICHENJEZYA SHULENI",
+                  "IPANGA",
+                  "MASAKI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "HASANGA",
+            "POSTCODE": 54220,
+            "STREETS": [
+              {
+                "NAME": "HASANGA",
+                "PLACES": [
+                  "HASANGA",
+                  "MAJENGO",
+                  "NAMBA WANI",
+                  "ICHENJEZYA",
+                  "UDINDE",
+                  "NANGONDO",
+                  "ITAGHA",
+                  "MIANZINI",
+                  "ISANGU",
+                  "IYELA",
+                  "LONDONI",
+                  "SHANKO",
+                  "LUPEMBE",
+                  "MTAKUJA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "HASAMBA",
+            "POSTCODE": 54221,
+            "STREETS": [
+              {
+                "NAME": "HASAMBA",
+                "PLACES": [
+                  "IYENGA",
+                  "ILYIKA",
+                  "MIGOMBANI",
+                  "NSENYA",
+                  "HAZERU \"A",
+                  "HAZERU \"B",
+                  "CHIGOMA",
+                  "SHINANDALA",
+                  "KAMFICHENI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ISANSA",
+            "POSTCODE": 54222,
+            "STREETS": [
+              {
+                "NAME": "ISANSA",
+                "PLACES": [
+                  "ISANSA KATI",
+                  "IWELA",
+                  "LUONGA",
+                  "ILANGALI"
+                ]
+              },
+              {
+                "NAME": "ISOWEZYA",
+                "PLACES": [
+                  "ISOWEZYA",
+                  "MSOWELO",
+                  "WANISHE",
+                  "ZWALO",
+                  "IWINDI"
+                ]
+              },
+              {
+                "NAME": "LUNGWA",
+                "PLACES": [
+                  "HANGOMBA",
+                  "HANSULU",
+                  "LUONGA",
+                  "MALENJE"
+                ]
+              },
+              {
+                "NAME": "NANSAMA",
+                "PLACES": [
+                  "USUNJE",
+                  "ILANZI",
+                  "MWANJELWA",
+                  "NASAMA KATI A",
+                  "MSENSE",
+                  "NANSAMA KATI B"
+                ]
+              },
+              {
+                "NAME": "MPITO",
+                "PLACES": [
+                  "MPITO KATI A",
+                  "MBWAJI",
+                  "NSAHALA",
+                  "SHENJE",
+                  "MPITO KATI B",
+                  "MAWE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SHIWINGA",
+            "POSTCODE": 54223,
+            "STREETS": [
+              {
+                "NAME": "SHIWINGA",
+                "PLACES": [
+                  "UZYIKA",
+                  "MALENJE",
+                  "MAZIMBO",
+                  "NANKWITWA",
+                  "NTUNGWA",
+                  "UNYANYEMBE"
+                ]
+              },
+              {
+                "NAME": "IWEZI",
+                "PLACES": [
+                  "IWEZI KATI",
+                  "IWILU",
+                  "NAHANCHALA",
+                  "NAMSAKELI",
+                  "MWANTA"
+                ]
+              },
+              {
+                "NAME": "HATELELE",
+                "PLACES": [
+                  "NYELYA",
+                  "ISYALAMAGAZI",
+                  "MAZIMBO",
+                  "NAKULA",
+                  "HATELELE KIJIJINI"
+                ]
+              },
+              {
+                "NAME": "MAKUA",
+                "PLACES": [
+                  "MAKUA",
+                  "ILOLO",
+                  "IBULA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ITUMPI",
+            "POSTCODE": 54224,
+            "STREETS": [
+              {
+                "NAME": "ITUMPI",
+                "PLACES": [
+                  "ITUMPI KATI",
+                  "IGANDA",
+                  "IWAGAMOYO",
+                  "KALENJE",
+                  "SHILANGA",
+                  "ISANGU"
+                ]
+              },
+              {
+                "NAME": "SAMBEWE",
+                "PLACES": [
+                  "SAMBEWE",
+                  "IGANYA",
+                  "IWENJE",
+                  "SILANGA",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "ILEYA",
+                "PLACES": [
+                  "MYOMBONI",
+                  "ULANDA",
+                  "SEJELELA",
+                  "ILEYA KATI",
+                  "MLOWO"
+                ]
+              },
+              {
+                "NAME": "NSENGA",
+                "PLACES": [
+                  "ITINDI",
+                  "KASAMA",
+                  "KONKWE A",
+                  "KONKWE B",
+                  "NAMANINGA"
+                ]
+              },
+              {
+                "NAME": "IYENGA",
+                "PLACES": [
+                  "SIJI",
+                  "NDEZI",
+                  "IYENGA KATI",
+                  "RAHA LEO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KILIMAMPIMBI",
+            "POSTCODE": 54225,
+            "STREETS": [
+              {
+                "NAME": "IKOMELA",
+                "PLACES": [
+                  "IKOMELA",
+                  "LUPIA",
+                  "MAVULA",
+                  "WAYA"
+                ]
+              },
+              {
+                "NAME": "ISANDULA",
+                "PLACES": [
+                  "ISANDULA A",
+                  "ISANDULA B",
+                  "MBWIGA",
+                  "NYULA"
+                ]
+              },
+              {
+                "NAME": "KILIMAMPIMBI",
+                "PLACES": [
+                  "KANJENJE",
+                  "LEKEZONTA",
+                  "KILIMAMPIMBI",
+                  "MAJENGO"
+                ]
+              },
+              {
+                "NAME": "MSAMBA 1",
+                "PLACES": [
+                  "MSAMBA KATI"
+                ]
+              },
+              {
+                "NAME": "MSAMBA 2",
+                "PLACES": [
+                  "KAWALE"
+                ]
+              },
+              {
+                "NAME": "MSAMBA 3",
+                "PLACES": [
+                  "NJIA PANDA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "WASA",
+            "POSTCODE": 54226,
+            "STREETS": [
+              {
+                "NAME": "WASA",
+                "PLACES": [
+                  "WASA KATI",
+                  "MANYALA",
+                  "NDOLA",
+                  "ISELA",
+                  "LUCHECHE",
+                  "NAMATONTO"
+                ]
+              },
+              {
+                "NAME": "ISALALO",
+                "PLACES": [
+                  "ISALALO KATI",
+                  "LUPEMBE",
+                  "CHIYANGA",
+                  "TAZARA"
+                ]
+              },
+              {
+                "NAME": "IZYANICHE",
+                "PLACES": [
+                  "ISAFI",
+                  "MWAMBANI",
+                  "NAMAULWE",
+                  "KESELIA",
+                  "IZYANICHE KATI"
+                ]
+              },
+              {
+                "NAME": "MALOLO",
+                "PLACES": [
+                  "MALOLO",
+                  "IYULA",
+                  "ISEMBUKA",
+                  "ILOMBA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "HEZYA",
+            "POSTCODE": 54227,
+            "STREETS": [
+              {
+                "NAME": "HEZYA",
+                "PLACES": [
+                  "HEZYA KATI",
+                  "SITI",
+                  "UYOLE",
+                  "SHONGO"
+                ]
+              },
+              {
+                "NAME": "IZUMBI",
+                "PLACES": [
+                  "IZUMBI",
+                  "IDODOMA",
+                  "SHILOTA",
+                  "SONGWE"
+                ]
+              },
+              {
+                "NAME": "NAMWANGWA",
+                "PLACES": [
+                  "SONGWE",
+                  "ISENGA",
+                  "SONGAMBELE"
+                ]
+              },
+              {
+                "NAME": "HARAKA",
+                "PLACES": [
+                  "KIMEMBE",
+                  "MYOMBO",
+                  "HARAKA KATI",
+                  "IYALAWE",
+                  "NGEKE",
+                  "NAMWANGULE",
+                  "MALINGO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAGAMBA",
+            "POSTCODE": 54228,
+            "STREETS": [
+              {
+                "NAME": "MAGAMBA",
+                "PLACES": [
+                  "MAGAMBA KATI",
+                  "IGANYA",
+                  "HASAMBA",
+                  "SHUNI",
+                  "MTUNDURU",
+                  "ITILIWINDI"
+                ]
+              },
+              {
+                "NAME": "IGANYA",
+                "PLACES": [
+                  "HAPONJELE",
+                  "MALONJI",
+                  "ITIPULA",
+                  "IGANYA",
+                  "SIYA"
+                ]
+              },
+              {
+                "NAME": "MTUNDURU",
+                "PLACES": [
+                  "MTUNDURU",
+                  "MASEDA",
+                  "ISOMOLE",
+                  "ITILIWINDI",
+                  "MALENJE"
+                ]
+              },
+              {
+                "NAME": "IWALANJE",
+                "PLACES": [
+                  "IWALANJE",
+                  "ILEWE",
+                  "HAULENGE",
+                  "BETHELEHEMU",
+                  "ILENDELA"
+                ]
+              },
+              {
+                "NAME": "NAULONGO",
+                "PLACES": [
+                  "NAULONGO KATI",
+                  "SAMLENDA",
+                  "MAJIWE",
+                  "NANTONGORO",
+                  "HANTUPA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IDIWILI",
+            "POSTCODE": 54229,
+            "STREETS": [
+              {
+                "NAME": "IDIWILI",
+                "PLACES": [
+                  "MBALAMUSEJE",
+                  "IDOGO",
+                  "NONDE A",
+                  "NONDE B",
+                  "ILINDI"
+                ]
+              },
+              {
+                "NAME": "ULULU",
+                "PLACES": [
+                  "SHITETI",
+                  "IHOWA",
+                  "ULULU",
+                  "NTASYE B"
+                ]
+              },
+              {
+                "NAME": "ILOMBA",
+                "PLACES": [
+                  "HUDUMA",
+                  "NTASYE",
+                  "SHIMANGA",
+                  "IGWILA",
+                  "ISALE",
+                  "NANYONGO"
+                ]
+              },
+              {
+                "NAME": "MAFUMBO",
+                "PLACES": [
+                  "MATENGA",
+                  "MAFUMBO",
+                  "NDOLA",
+                  "SHENYA"
+                ]
+              },
+              {
+                "NAME": "IDUNDA",
+                "PLACES": [
+                  "IYALAWE",
+                  "IWEZYA",
+                  "NZOVU",
+                  "MPANZI",
+                  "IPANGA"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "ILEJE",
+        "POSTCODE": 543,
+        "WARD": [
+          {
+            "NAME": "ITUMBA",
+            "POSTCODE": 54301,
+            "STREETS": [
+              {
+                "NAME": "ITUMBA",
+                "PLACES": [
+                  "RUNGWA A",
+                  "RUNGWA B",
+                  "RUNGWA C",
+                  "BUSWESI",
+                  "NAMANGONI",
+                  "CHIBANJE",
+                  "CHAFWONYA",
+                  "HARAKA",
+                  "NKANKA",
+                  "CHOBWE"
+                ]
+              },
+              {
+                "NAME": "YENZEBWE",
+                "PLACES": [
+                  "NYINZA",
+                  "CHIBANJE",
+                  "BULENJE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ISONGOLE",
+            "POSTCODE": 54302,
+            "STREETS": [
+              {
+                "NAME": "ISONGOLE",
+                "PLACES": [
+                  "CHUMBAGENI A",
+                  "CHUMBAGENI B",
+                  "NAKALULU",
+                  "IPAPA",
+                  "IGUNDA",
+                  "MBENZU"
+                ]
+              },
+              {
+                "NAME": "IZUBA",
+                "PLACES": [
+                  "KABWE",
+                  "ILESHELA A",
+                  "ILESHELA B",
+                  "MANYARA"
+                ]
+              },
+              {
+                "NAME": "ILULU",
+                "PLACES": [
+                  "IPUNGA",
+                  "CHITEKA",
+                  "CHIPYA",
+                  "NTEBELA",
+                  "KATI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NDOLA",
+            "POSTCODE": 54303,
+            "STREETS": [
+              {
+                "NAME": "NDOLA",
+                "PLACES": [
+                  "KABULU",
+                  "NDOLA",
+                  "ISANGA",
+                  "KALOLENI",
+                  "TUNDUMA",
+                  "ILEYA",
+                  "ISAGAMA"
+                ]
+              },
+              {
+                "NAME": "ISHENTA",
+                "PLACES": [
+                  "MDIBE",
+                  "IBUTUTU",
+                  "ITULA",
+                  "SERENJE"
+                ]
+              },
+              {
+                "NAME": "IGUMILA",
+                "PLACES": [
+                  "MBILU",
+                  "IGUMILA",
+                  "ILEMBO"
+                ]
+              },
+              {
+                "NAME": "IBEZYA",
+                "PLACES": [
+                  "IBEZYA",
+                  "ILULU",
+                  "ULANDA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "BUPIGU",
+            "POSTCODE": 54304,
+            "STREETS": [
+              {
+                "NAME": "BUPIGU",
+                "PLACES": [
+                  "LUBEMBA",
+                  "MWATI",
+                  "ITENJE",
+                  "ILAMBI",
+                  "INYALA",
+                  "ILEMBO",
+                  "CHONGO"
+                ]
+              },
+              {
+                "NAME": "IBUNGU",
+                "PLACES": [
+                  "ILEBELO",
+                  "NJEJE",
+                  "MBALULA",
+                  "LUBANDA"
+                ]
+              },
+              {
+                "NAME": "CHABU",
+                "PLACES": [
+                  "LUPANDO",
+                  "IKOMBE",
+                  "MANGWINA",
+                  "SEKONDARI",
+                  "ISIMIKE"
+                ]
+              },
+              {
+                "NAME": "MABULA",
+                "PLACES": [
+                  "MBANGALA",
+                  "CHIPUPWA",
+                  "NDIMA",
+                  "LULI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHITETE",
+            "POSTCODE": 54305,
+            "STREETS": [
+              {
+                "NAME": "IKUMBILO",
+                "PLACES": [
+                  "LUSUNGO",
+                  "ITABA",
+                  "MAGEREZA",
+                  "IKUMBILO",
+                  "KAWAMA",
+                  "NAVILOLO"
+                ]
+              },
+              {
+                "NAME": "CHITETE",
+                "PLACES": [
+                  "MAJENGO",
+                  "CHITETE",
+                  "IBANA",
+                  "BULANGA",
+                  "NANGOJI",
+                  "LUSUNGOJUU"
+                ]
+              },
+              {
+                "NAME": "MSIA",
+                "PLACES": [
+                  "IZWALANGUO",
+                  "IYUNGA",
+                  "IHANDANG'OMBE",
+                  "ISUNDAMBWA"
+                ]
+              },
+              {
+                "NAME": "NTEMBO",
+                "PLACES": [
+                  "IGALULA",
+                  "LUSENGA",
+                  "MAJENGO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MBEBE",
+            "POSTCODE": 54306,
+            "STREETS": [
+              {
+                "NAME": "MBEBE",
+                "PLACES": [
+                  "MBEBE",
+                  "NATWAJIMBA",
+                  "NGOMOLO",
+                  "NAMBIJILI",
+                  "ISOKA",
+                  "IPANGA",
+                  "NALWENDA"
+                ]
+              },
+              {
+                "NAME": "MAPOGORO",
+                "PLACES": [
+                  "NG'ONGO",
+                  "MAPOGORO",
+                  "NAMALONGOLA",
+                  "NAKASALE",
+                  "NAMBUNDA"
+                ]
+              },
+              {
+                "NAME": "SHINJI",
+                "PLACES": [
+                  "MAJENGO",
+                  "SHINJI",
+                  "NDENDO",
+                  "HASONGWA"
+                ]
+              },
+              {
+                "NAME": "MTIMA",
+                "PLACES": [
+                  "MTIMA",
+                  "MSANGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "ITALE",
+            "POSTCODE": 54307,
+            "STREETS": [
+              {
+                "NAME": "ITEGA",
+                "PLACES": [
+                  "KAFULE",
+                  "CHIKOMBOLASI",
+                  "SAMPEMBE",
+                  "SHINYA",
+                  "ISANGA"
+                ]
+              },
+              {
+                "NAME": "ITALE",
+                "PLACES": [
+                  "MPANDE A",
+                  "MPANDE B",
+                  "KABWE",
+                  "IJEMBE",
+                  "ILOMBA",
+                  "KATETE",
+                  "WIMI"
+                ]
+              },
+              {
+                "NAME": "IWALA",
+                "PLACES": [
+                  "MELA A",
+                  "MELA B",
+                  "IWALA A",
+                  "IWALA B",
+                  "HADUYA",
+                  "META",
+                  "IBUBI"
+                ]
+              },
+              {
+                "NAME": "ISHINGA",
+                "PLACES": [
+                  "ISHIMBILA",
+                  "MSELEMA",
+                  "ITEPULA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IBABA",
+            "POSTCODE": 54308,
+            "STREETS": [
+              {
+                "NAME": "SHUBA",
+                "PLACES": [
+                  "ILUFI A",
+                  "ILUFI B",
+                  "MWATI",
+                  "SHUBA A",
+                  "SHUBA B",
+                  "ILUMBA"
+                ]
+              },
+              {
+                "NAME": "SHEYO",
+                "PLACES": [
+                  "IPOLOTO",
+                  "SHEYO",
+                  "SHILIBA",
+                  "SUMBI"
+                ]
+              },
+              {
+                "NAME": "IBABA",
+                "PLACES": [
+                  "KABWE",
+                  "ILOLA",
+                  "IBABA",
+                  "IJIGIMA"
+                ]
+              },
+              {
+                "NAME": "LALI",
+                "PLACES": [
+                  "LALI",
+                  "MBIJILI",
+                  "NDUGWE",
+                  "MASOKO",
+                  "ITUKUTE"
+                ]
+              },
+              {
+                "NAME": "SHIKUNGA",
+                "PLACES": [
+                  "MAPOLE",
+                  "IYUNGWE",
+                  "KAWETELE",
+                  "SENJELE",
+                  "SHIKUNGA",
+                  "KALULUSHI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MALANGALI",
+            "POSTCODE": 54309,
+            "STREETS": [
+              {
+                "NAME": "MALANGALI",
+                "PLACES": [
+                  "MALANGALI",
+                  "MLENDA",
+                  "MTEMA",
+                  "LUBWE",
+                  "LWAGE",
+                  "LUBOGA"
+                ]
+              },
+              {
+                "NAME": "CHEMBE",
+                "PLACES": [
+                  "CHIKWAMBALALA",
+                  "CHIBULI",
+                  "NDONDELA"
+                ]
+              },
+              {
+                "NAME": "ILONDO",
+                "PLACES": [
+                  "NDEGULA",
+                  "NAMASELE",
+                  "IGOJE",
+                  "MLAMBA",
+                  "ILONDO"
+                ]
+              },
+              {
+                "NAME": "BULANGA",
+                "PLACES": [
+                  "BULANGA",
+                  "CHUNYA",
+                  "MALANGALI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAFULE",
+            "POSTCODE": 54310,
+            "STREETS": [
+              {
+                "NAME": "KAPELEKESI",
+                "PLACES": [
+                  "KISALALA",
+                  "KASEBE",
+                  "MKELA",
+                  "IBOLE",
+                  "KAPELEKESI",
+                  "ITEJA"
+                ]
+              },
+              {
+                "NAME": "KAFULE",
+                "PLACES": [
+                  "KAFULE",
+                  "ISEGELO",
+                  "ILIKWA",
+                  "IKUYU",
+                  "CHIJA"
+                ]
+              },
+              {
+                "NAME": "BANJI",
+                "PLACES": [
+                  "LUNDO",
+                  "MSONGWI"
+                ]
+              },
+              {
+                "NAME": "ISOKO",
+                "PLACES": [
+                  "KATETE",
+                  "MGOFI",
+                  "KALOLA",
+                  "LUPEMBE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IKINGA",
+            "POSTCODE": 54311,
+            "STREETS": [
+              {
+                "NAME": "IKINGA",
+                "PLACES": [
+                  "IKINGA",
+                  "LUPUNGU",
+                  "MGESHI"
+                ]
+              },
+              {
+                "NAME": "KIKOTA",
+                "PLACES": [
+                  "KIKOTA",
+                  "KASHETO",
+                  "SOKA",
+                  "KASANGA",
+                  "IBUNGI",
+                  "NDEMBO"
+                ]
+              },
+              {
+                "NAME": "IBETA",
+                "PLACES": [
+                  "IBETA",
+                  "MINYARA",
+                  "HALALE"
+                ]
+              },
+              {
+                "NAME": "KAPETA",
+                "PLACES": [
+                  "KAPETA",
+                  "IBEMBE",
+                  "LANDANI"
+                ]
+              },
+              {
+                "NAME": "MGAYA",
+                "PLACES": [
+                  "MGAYA",
+                  "LUBINDU",
+                  "NGELE",
+                  "KAPANGA"
+                ]
+              },
+              {
+                "NAME": "BWIPA",
+                "PLACES": [
+                  "BWIPA",
+                  "BUFWILO",
+                  "MWALISI",
+                  "MFULU"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SANGE",
+            "POSTCODE": 54312,
+            "STREETS": [
+              {
+                "NAME": "SANGE",
+                "PLACES": [
+                  "SANGE",
+                  "ITANGA",
+                  "MWALUPASO",
+                  "ZAHANATI",
+                  "MIJUNI"
+                ]
+              },
+              {
+                "NAME": "LUSALALA",
+                "PLACES": [
+                  "ITONGO",
+                  "MABWE",
+                  "ISANGA",
+                  "MLANGA",
+                  "KALEJA",
+                  "MAMBI"
+                ]
+              },
+              {
+                "NAME": "MSWIMA",
+                "PLACES": [
+                  "MWAKAJWISHA",
+                  "LWIBA",
+                  "MAJENGO",
+                  "KAIRO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LUBANDA",
+            "POSTCODE": 54313,
+            "STREETS": [
+              {
+                "NAME": "MTULA",
+                "PLACES": [
+                  "MTULA",
+                  "KABATA",
+                  "LUBANDA",
+                  "CHITETE",
+                  "CHIPWELA"
+                ]
+              },
+              {
+                "NAME": "BWENDA",
+                "PLACES": [
+                  "BWENDA",
+                  "MTAMBO",
+                  "KALOKANI",
+                  "IGAMBA",
+                  "MBASAGILA",
+                  "IKUYU"
+                ]
+              },
+              {
+                "NAME": "MBEMBATI",
+                "PLACES": [
+                  "MBEMBATI",
+                  "MKWAWA",
+                  "IKOMBELA",
+                  "MAJENGO",
+                  "MATWISA",
+                  "ILOLA"
+                ]
+              },
+              {
+                "NAME": "CHILEMBA",
+                "PLACES": [
+                  "MABATINI",
+                  "MLIMANI",
+                  "CHILEMBA",
+                  "MASEBE",
+                  "IBONDE",
+                  "MAGAMBA"
+                ]
+              },
+              {
+                "NAME": "KASANGA",
+                "PLACES": [
+                  "KASANGA",
+                  "CHIGULU",
+                  "ILUNDI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGULUGULU",
+            "POSTCODE": 54314,
+            "STREETS": [
+              {
+                "NAME": "NGULUGULU",
+                "PLACES": [
+                  "IPANGA",
+                  "NGULUGUGU A",
+                  "NGULUGULU B",
+                  "KANYENYE",
+                  "IBUNGU"
+                ]
+              },
+              {
+                "NAME": "CHUKUMBULU",
+                "PLACES": [
+                  "IBANGA",
+                  "ISHARA A",
+                  "ISHARA B",
+                  "MWAKALELI",
+                  "ITEMBWE",
+                  "MTETE"
+                ]
+              },
+              {
+                "NAME": "KISYESYE",
+                "PLACES": [
+                  "MAGENGE",
+                  "KISYESYE",
+                  "MWALUBUNJU",
+                  "KISHINGA",
+                  "IJONGWE",
+                  "KAPUGI A",
+                  "KAPUGI B"
+                ]
+              },
+              {
+                "NAME": "BUFULA",
+                "PLACES": [
+                  "KINA",
+                  "BUFULA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "LUSWISI",
+            "POSTCODE": 54315,
+            "STREETS": [
+              {
+                "NAME": "LUSWISI",
+                "PLACES": [
+                  "LUSWISI",
+                  "LUTETE",
+                  "ITAMANDA",
+                  "SONGWE"
+                ]
+              },
+              {
+                "NAME": "MAKOGA",
+                "PLACES": [
+                  "MAKOGA",
+                  "KAFWAFWA",
+                  "MEGA"
+                ]
+              },
+              {
+                "NAME": "CHIBILA",
+                "PLACES": [
+                  "CHIBILA",
+                  "IBAGA",
+                  "NGUNGUNI"
+                ]
+              },
+              {
+                "NAME": "IPANDE",
+                "PLACES": [
+                  "IPANDE",
+                  "JIBANDA",
+                  "MLENGE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NGULILO",
+            "POSTCODE": 54316,
+            "STREETS": [
+              {
+                "NAME": "NGULILO",
+                "PLACES": [
+                  "NGULILO",
+                  "IPESI",
+                  "MLIMBA",
+                  "IKOMBE"
+                ]
+              },
+              {
+                "NAME": "SHIRINGA",
+                "PLACES": [
+                  "KABALE",
+                  "CHUNYA",
+                  "IBUTUTU"
+                ]
+              },
+              {
+                "NAME": "SAPANDA",
+                "PLACES": [
+                  "SAPANDA",
+                  "SAMBOGO",
+                  "MBEPETE"
+                ]
+              },
+              {
+                "NAME": "NDAPWA",
+                "PLACES": [
+                  "IPOJO",
+                  "BUSANGO",
+                  "NDAPWA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MLALE",
+            "POSTCODE": 54317,
+            "STREETS": [
+              {
+                "NAME": "MLALE",
+                "PLACES": [
+                  "MPEMBE",
+                  "SHIGOMBOLA",
+                  "ILAGANILO",
+                  "MCHALA",
+                  "MAJENGO",
+                  "SIMBOBE"
+                ]
+              },
+              {
+                "NAME": "ILANGA",
+                "PLACES": [
+                  "MBEYA",
+                  "LUSUNGO",
+                  "UFIPA"
+                ]
+              },
+              {
+                "NAME": "YULI",
+                "PLACES": [
+                  "IKUMBI",
+                  "HASALE",
+                  "NASHIPASA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KALEMBO",
+            "POSTCODE": 54318,
+            "STREETS": [
+              {
+                "NAME": "KALEMBO",
+                "PLACES": [
+                  "IPANDE",
+                  "VULI",
+                  "MKUYU",
+                  "KALEMBO",
+                  "IPASA"
+                ]
+              },
+              {
+                "NAME": "KABALE",
+                "PLACES": [
+                  "KABALE A",
+                  "KABALE B"
+                ]
+              },
+              {
+                "NAME": "MBANGALA",
+                "PLACES": [
+                  "MBANGALA A",
+                  "MBANGALA B",
+                  "MBAGALA C"
+                ]
+              },
+              {
+                "NAME": "IBANDI",
+                "PLACES": [
+                  "IBANDI",
+                  "SWEBE"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NAME": "MOMBA",
+        "POSTCODE": 544,
+        "WARD": [
+          {
+            "NAME": "TUNDUMA",
+            "POSTCODE": 54401,
+            "STREETS": [
+              {
+                "NAME": "TUKUYU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SIKANYIKA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IHANDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UNYAMWANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TUNDUMA KATI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHIWEZI",
+            "POSTCODE": 54402,
+            "STREETS": [
+              {
+                "NAME": "CHIWEZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAMOLE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NSANZYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NIUMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSAMBA II",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NKANGAMO",
+            "POSTCODE": 54403,
+            "STREETS": [
+              {
+                "NAME": "CHIWANDA",
+                "PLACES": [
+                  "CHIWANDA",
+                  "CHIMILA",
+                  "MUKO",
+                  "MLANGALI",
+                  "MPUMPI"
+                ]
+              },
+              {
+                "NAME": "NKANGAMO",
+                "PLACES": [
+                  "NKANGAMO",
+                  "NZAZI",
+                  "ILUMA",
+                  "ZANGA"
+                ]
+              },
+              {
+                "NAME": "ISANGA",
+                "PLACES": [
+                  "MWAKA",
+                  "MZUNDU",
+                  "MAJENGO",
+                  "NYANGU",
+                  "KATETE",
+                  "MPAPA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NDALAMBO",
+            "POSTCODE": 54404,
+            "STREETS": [
+              {
+                "NAME": "NDALAMBO",
+                "PLACES": [
+                  "NDALAMBO",
+                  "KAMSUNTE",
+                  "CHALAWIKOZI",
+                  "NANKONJE",
+                  "KAMWANKOKO"
+                ]
+              },
+              {
+                "NAME": "MENGO",
+                "PLACES": [
+                  "MENGO",
+                  "KALONGA",
+                  "MTAKUJA",
+                  "MZOMBO",
+                  "CHILOVYA"
+                ]
+              },
+              {
+                "NAME": "IPUMPILA",
+                "PLACES": [
+                  "IPUMPILA",
+                  "CHITETE",
+                  "KAYUMBI"
+                ]
+              },
+              {
+                "NAME": "KAKOZI",
+                "PLACES": [
+                  "KAKOZI KATI",
+                  "MSEKWA",
+                  "MASANGATI",
+                  "KASEWA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MSANGANO",
+            "POSTCODE": 54405,
+            "STREETS": [
+              {
+                "NAME": "MSANGANO",
+                "PLACES": [
+                  "MLANDA “A”",
+                  "MLANDA “B”",
+                  "MLANDA “C”",
+                  "MLANDA “D”",
+                  "IPENZA",
+                  "KAWALE",
+                  "IYELA",
+                  "RUANDA",
+                  "MBUYUNI"
+                ]
+              },
+              {
+                "NAME": "NTINGA",
+                "PLACES": [
+                  "CHANSENAMWA",
+                  "MILEMWA “A”",
+                  "MILEMWA “B”",
+                  "SAYUNI",
+                  "TEMBEZI"
+                ]
+              },
+              {
+                "NAME": "CHINDI",
+                "PLACES": [
+                  "MPAPA",
+                  "MSIA",
+                  "NDALWE",
+                  "IKONKO",
+                  "CHINDI ‘A’",
+                  "CHINDI ‘B’",
+                  "NANTUMBE",
+                  "MIKUTI",
+                  "MAJENGO"
+                ]
+              },
+              {
+                "NAME": "MNYUZI",
+                "PLACES": [
+                  "MNYUZI",
+                  "LWANDA",
+                  "MTAKUJA",
+                  "MKOMBA",
+                  "NANTETE"
+                ]
+              },
+              {
+                "NAME": "IPATA",
+                "PLACES": [
+                  "KOMBE",
+                  "IPATA",
+                  "MHEZA",
+                  "NAFINGA",
+                  "NACHIZINJI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHITETE",
+            "POSTCODE": 54406,
+            "STREETS": [
+              {
+                "NAME": "CHITETE",
+                "PLACES": [
+                  "CHITETE KATI",
+                  "MINTAKOMWA",
+                  "MSOGEZE"
+                ]
+              },
+              {
+                "NAME": "MLOMBA",
+                "PLACES": [
+                  "IKUNGWE",
+                  "POLILELO",
+                  "MBALWA"
+                ]
+              },
+              {
+                "NAME": "NKALA",
+                "PLACES": [
+                  "CHING’ONY’O",
+                  "MUWEMBA ‘A’",
+                  "MUWEMBA ‘B’",
+                  "CHIKAMBA",
+                  "HAKAMBA ‘C’"
+                ]
+              },
+              {
+                "NAME": "MAKAMBA",
+                "PLACES": [
+                  "MAKAMBA ‘A’",
+                  "MAKAMBA ‘B’",
+                  "LOZI"
+                ]
+              },
+              {
+                "NAME": "NAMING’ONGO",
+                "PLACES": [
+                  "NAMING’ONGO",
+                  "KAWANA",
+                  "NACHISITU",
+                  "NSALA",
+                  "MSWEPA"
+                ]
+              },
+              {
+                "NAME": "YALA",
+                "PLACES": [
+                  "YALA",
+                  "NG’AMBA"
+                ]
+              },
+              {
+                "NAME": "TINDINGOMA",
+                "PLACES": [
+                  "CHIPECHELO",
+                  "MOROGORO",
+                  "IYUNGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IVUNA",
+            "POSTCODE": 54407,
+            "STREETS": [
+              {
+                "NAME": "IVUNA",
+                "PLACES": [
+                  "KINAMWENE",
+                  "MNYUZI",
+                  "IKONJE",
+                  "MABATINI",
+                  "KALOLENI"
+                ]
+              },
+              {
+                "NAME": "ITUMBULA",
+                "PLACES": [
+                  "CHUMVI",
+                  "MORAVIAN",
+                  "NAKASANU"
+                ]
+              },
+              {
+                "NAME": "LWATWE",
+                "PLACES": [
+                  "INUNKA",
+                  "MTAKUJA “A”",
+                  "MBAMBILA",
+                  "MSHANSHA",
+                  "MTAKUJA “B”"
+                ]
+              },
+              {
+                "NAME": "SAMANG’OMBE",
+                "PLACES": [
+                  "FORODHANI",
+                  "MSHANSHA",
+                  "MASUCHE",
+                  "SAMANG’OMBE “A”",
+                  "SAMANG’OMBE “B”"
+                ]
+              },
+              {
+                "NAME": "KALUNGU",
+                "PLACES": [
+                  "KALUNGU “A”",
+                  "KANISANI",
+                  "KALUNGU “B”",
+                  "MUBUYUNI",
+                  "NANKANGA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAMSAMBA",
+            "POSTCODE": 54408,
+            "STREETS": [
+              {
+                "NAME": "KAMSAMBA",
+                "PLACES": [
+                  "KAMSAMBA KATI",
+                  "MTUI",
+                  "MUWEMBA",
+                  "MALANGWA",
+                  "NTEMBO"
+                ]
+              },
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  "MDUNDO",
+                  "MIYUNGA",
+                  "CHIMBO",
+                  "KAPUTA"
+                ]
+              },
+              {
+                "NAME": "MUUYU",
+                "PLACES": [
+                  "MUUYU KATI",
+                  "SOGEA",
+                  "KAOMBWE"
+                ]
+              },
+              {
+                "NAME": "MKONKO",
+                "PLACES": [
+                  "LAELA",
+                  "MKWAJUNI",
+                  "MWAMI",
+                  "DESSA"
+                ]
+              },
+              {
+                "NAME": "USOCHE",
+                "PLACES": [
+                  "IWETA",
+                  "MCHANGANI",
+                  "CHANGOMBE",
+                  "MIEMBENI"
+                ]
+              },
+              {
+                "NAME": "SENGA",
+                "PLACES": [
+                  "SENGA",
+                  "CHANG’OMBE",
+                  "NTELWA",
+                  "MING’ONGO",
+                  "MCHANGANI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHILULUMO",
+            "POSTCODE": 54409,
+            "STREETS": [
+              {
+                "NAME": "CHILULUMO",
+                "PLACES": [
+                  "CHILULUMO KATI",
+                  "CHILULUMO JUU",
+                  "MILOMBWA",
+                  "MBUYUNI 'A'",
+                  "MBUYUNI"
+                ]
+              },
+              {
+                "NAME": "TONTELA",
+                "PLACES": [
+                  "TONTELA",
+                  "CHINAMWENE",
+                  "NAKASANU",
+                  "KANYALA",
+                  "MAWIMBA"
+                ]
+              },
+              {
+                "NAME": "KAONGA",
+                "PLACES": [
+                  "KAONGA",
+                  "MISUMBI",
+                  "NSALA",
+                  "MWAKA",
+                  "MASALAWE"
+                ]
+              },
+              {
+                "NAME": "NAMSINDE I",
+                "PLACES": [
+                  "SINJILI",
+                  "SULUTU"
+                ]
+              },
+              {
+                "NAME": "NSANZYA",
+                "PLACES": [
+                  "NSANZYA",
+                  "MALANDILO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MYUNGA",
+            "POSTCODE": 54410,
+            "STREETS": [
+              {
+                "NAME": "MYUNGA",
+                "PLACES": [
+                  "MYUNGA",
+                  "KAFUTI"
+                ]
+              },
+              {
+                "NAME": "MPUI",
+                "PLACES": [
+                  "MPUI",
+                  "NTEKWE",
+                  "MSUNGO"
+                ]
+              },
+              {
+                "NAME": "MFUTO",
+                "PLACES": [
+                  "MFUTO",
+                  "CHIPOMA"
+                ]
+              },
+              {
+                "NAME": "MACHINDO",
+                "PLACES": [
+                  "MACHINDO",
+                  "KALOLENI",
+                  "SWEPA"
+                ]
+              },
+              {
+                "NAME": "NAMSINDE II",
+                "PLACES": [
+                  "NAMSINDE",
+                  "MUWANGA"
+                ]
+              },
+              {
+                "NAME": "ISUNDA",
+                "PLACES": [
+                  "ISUNDA",
+                  "NTAWA",
+                  "KAMBA",
+                  "MITWE",
+                  "KATETE"
+                ]
+              },
+              {
+                "NAME": "LWASHO",
+                "PLACES": [
+                  "LWASHO",
+                  "MOMBA",
+                  "CHIPANDIKO",
+                  "KATETE",
+                  "KASAKALANJE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KAPELE",
+            "POSTCODE": 54411,
+            "STREETS": [
+              {
+                "NAME": "KAPELE",
+                "PLACES": [
+                  "MSUFINI",
+                  "MANZESE",
+                  "MBEYA",
+                  "ZAIRE"
+                ]
+              },
+              {
+                "NAME": "CHIPUMPU",
+                "PLACES": [
+                  "KAMSAMBA",
+                  "MTACHOKA",
+                  "MTAKUJA",
+                  "MATATIZO"
+                ]
+              },
+              {
+                "NAME": "NAMCHINKA",
+                "PLACES": [
+                  "MLALO",
+                  "NAMCHINKA",
+                  "MYAKASI",
+                  "MAPATANO",
+                  "MAJENGO",
+                  "NDOLWA",
+                  "SADOCK"
+                ]
+              },
+              {
+                "NAME": "IYENDWE",
+                "PLACES": [
+                  "KALWAMBU",
+                  "IPWESHA",
+                  "MSOKOLO",
+                  "MAGWELE",
+                  "IYENDWE"
+                ]
+              },
+              {
+                "NAME": "KASINDE",
+                "PLACES": [
+                  "KAUKAMA",
+                  "KASINDE"
+                ]
+              },
+              {
+                "NAME": "MSUNGWE",
+                "PLACES": [
+                  "MSELEMWA",
+                  "NAMNSALALA",
+                  "MSUNGWE",
+                  "MATETE"
+                ]
+              },
+              {
+                "NAME": "CHISITU",
+                "PLACES": [
+                  "CHISITU KATI",
+                  "KAMPALA",
+                  "KAZI",
+                  "CHISITU SHULENI",
+                  "ONGELE"
+                ]
+              },
+              {
+                "NAME": "CHAFUMA",
+                "PLACES": [
+                  "CHAFUMA KATI",
+                  "CHIRASITU",
+                  "CHINYIKA",
+                  "NUYAKASI",
+                  "CHAFUMA"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MKULWE",
+            "POSTCODE": 54412,
+            "STREETS": [
+              {
+                "NAME": "MKULWE",
+                "PLACES": [
+                  "KINAMWENE",
+                  "NDOOLO",
+                  "MPATE",
+                  "NAMANYONJO",
+                  "MKULWE KATI"
+                ]
+              },
+              {
+                "NAME": "ITELEFYA",
+                "PLACES": [
+                  "ITELEFYA",
+                  "MWANIEMBA"
+                ]
+              },
+              {
+                "NAME": "CHUO",
+                "PLACES": [
+                  "CHUO",
+                  "NACHISITU",
+                  "NKATUMBO"
+                ]
+              },
+              {
+                "NAME": "MWENEEMBA",
+                "PLACES": [
+                  "MWENEEMBA",
+                  "MAJENGO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MPAPA",
+            "POSTCODE": 54413,
+            "STREETS": [
+              {
+                "NAME": "MPAPA",
+                "PLACES": [
+                  "MPAPA KATI",
+                  "NAMBINZO",
+                  "CHINYIWANDA",
+                  "NAMAIMBA",
+                  "NAMITOO"
+                ]
+              },
+              {
+                "NAME": "MASANYINTA",
+                "PLACES": [
+                  "MASANYINTA KATI",
+                  "NAMSINDE",
+                  "KIPOKA",
+                  "MZINDE",
+                  "KILOMBERO",
+                  "MYAKASI"
+                ]
+              },
+              {
+                "NAME": "KASANU",
+                "PLACES": [
+                  "MWANJILA",
+                  "MKWAJUNI",
+                  "MALULU",
+                  "UCHINDI",
+                  "CHANG’OMBE"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "NZOKA",
+            "POSTCODE": 54414,
+            "STREETS": [
+              {
+                "NAME": "NZOKA",
+                "PLACES": [
+                  "NZOKA",
+                  "KANYIMBO",
+                  "MANYOTO",
+                  "CHIPANDA"
+                ]
+              },
+              {
+                "NAME": "IPATIKANA",
+                "PLACES": [
+                  "IPATIKANA",
+                  "MLELENGWA"
+                ]
+              },
+              {
+                "NAME": "MKUTANO",
+                "PLACES": [
+                  "MKUTANO",
+                  "KASECHELA",
+                  "KAMISU"
+                ]
+              },
+              {
+                "NAME": "NAMTAMBALA",
+                "PLACES": [
+                  "NAMTAMBALALA",
+                  "KAKOZI",
+                  "MENGO",
+                  "NG’ONGO"
+                ]
+              },
+              {
+                "NAME": "CHILANGU",
+                "PLACES": [
+                  "CHILANGU",
+                  "MALINGA"
+                ]
+              },
+              {
+                "NAME": "ITUMBA",
+                "PLACES": [
+                  "ITUMBA",
+                  "NZWALO",
+                  "MPULU",
+                  "LALAUNDA",
+                  "CHITUMBI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "IKANA",
+            "POSTCODE": 54415,
+            "STREETS": [
+              {
+                "NAME": "IKANA",
+                "PLACES": [
+                  "IKANA",
+                  "CHIPWA",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "NAKAWALE",
+                "PLACES": [
+                  "NAKAWALE KATI",
+                  "NAKAWALE (B)",
+                  "MAJENGO",
+                  "MAELA"
+                ]
+              },
+              {
+                "NAME": "IPANGA",
+                "PLACES": [
+                  "CHITOWA",
+                  "MLILANONDO",
+                  "KALOLI",
+                  "SAMBA",
+                  "IPANGA KATI."
+                ]
+              },
+              {
+                "NAME": "NYENJELE",
+                "PLACES": [
+                  "NYENJELE KATI",
+                  "NYENJELE (B)",
+                  "KAPATI"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MKOMBA",
+            "POSTCODE": 54416,
+            "STREETS": [
+              {
+                "NAME": "MKOMBA",
+                "PLACES": [
+                  "ILENGO",
+                  "MKOMBA “A”",
+                  "MKOMBA “B”",
+                  "MKOMBA KATI",
+                  "CHAMSOKA"
+                ]
+              },
+              {
+                "NAME": "SILIWITI",
+                "PLACES": [
+                  "SILIWITI 'A'",
+                  "SILIWITI 'B'",
+                  "FORODHANI",
+                  "MKUYUNI",
+                  "MPAKANI"
+                ]
+              },
+              {
+                "NAME": "CHOLE",
+                "PLACES": [
+                  "CHOLE",
+                  "MAONWA",
+                  "CHANG’OMBE",
+                  "MAJENGO",
+                  "MTAKUJA"
+                ]
+              },
+              {
+                "NAME": "SANTE",
+                "PLACES": [
+                  "SANTE KATI",
+                  "NAMING’ONGO",
+                  "TUNKO",
+                  "MUWANGU",
+                  "KAWENGA"
+                ]
+              },
+              {
+                "NAME": "NTUNGWA",
+                "PLACES": [
+                  "CHIULA",
+                  "CHANG’OMBE",
+                  "MAJENGO",
+                  "NTUNGWA KATI",
+                  "MBAO"
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAJENGO",
+            "POSTCODE": 54417,
+            "STREETS": [
+              {
+                "NAME": "MAJENGO ‘A’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO ‘B’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO ‘C’",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAJENGO MAPYA.",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MPANDE",
+            "POSTCODE": 54418,
+            "STREETS": [
+              {
+                "NAME": "MPANDE KATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MACHINJIONI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IPITO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MJI MWEMA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TAZARA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHAPWA",
+            "POSTCODE": 54419,
+            "STREETS": [
+              {
+                "NAME": "CHAPWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IGAWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "ISANZO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSAMPANIA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KESELIA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAPOROMOKO",
+            "POSTCODE": 54420,
+            "STREETS": [
+              {
+                "NAME": "SHULENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAGEUZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLIMANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MAPOROMOKO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KALOLENI",
+            "POSTCODE": 54421,
+            "STREETS": [
+              {
+                "NAME": "NELLO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KALOLENI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "DANIDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CUSTOM",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MIGOMBANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "SOGEA",
+            "POSTCODE": 54422,
+            "STREETS": [
+              {
+                "NAME": "SOGEA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "JAKAYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "IKULU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "HALF LONDON",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MAKAMBINI",
+            "POSTCODE": 54423,
+            "STREETS": [
+              {
+                "NAME": "MAKAMBINI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SOWETO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KANANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "TOKYO",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "KATETE",
+            "POSTCODE": 54424,
+            "STREETS": [
+              {
+                "NAME": "KATETE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MLENDA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAMAZYANZYA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAKAUMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "FURA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MPEMBA",
+            "POSTCODE": 54425,
+            "STREETS": [
+              {
+                "NAME": "MPEMBA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SEFU",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NANSELE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KATENJELE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KOKOTO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NANDANGA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSINDE",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MUUNGANO",
+            "POSTCODE": 54426,
+            "STREETS": [
+              {
+                "NAME": "MUUNGANO",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SAYUNI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "NAZARETI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MKOMBOZI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KISANGANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "MWAKAKATI",
+            "POSTCODE": 54427,
+            "STREETS": [
+              {
+                "NAME": "MWAKAKATI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MALELANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "SONGAMBELE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "GOROFANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "CHIPAKA",
+            "POSTCODE": 54428,
+            "STREETS": [
+              {
+                "NAME": "ZYAGWILA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MWL. NYERERE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "KATETE",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSONGWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "CHIPAKA",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          },
+          {
+            "NAME": "UWANJANI",
+            "POSTCODE": 54429,
+            "STREETS": [
+              {
+                "NAME": "KILIMA HEWA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MSASANI",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "MBAGALA",
+                "PLACES": [
+                  ""
+                ]
+              },
+              {
+                "NAME": "UWANJANI",
+                "PLACES": [
+                  ""
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

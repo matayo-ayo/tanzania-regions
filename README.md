@@ -1,31 +1,40 @@
 # tanzania-regions
-List of all tanzania regions
+Tanzania Regions list
 
-## Summary
-This repo contain arrays of All Tanzania regions with detail including postal code for each
-
-## Format
-``` bash
-REGION : region name
-REG_CODE : region postalcode
-DISTRICT : district name
-DIS_CODE : district postalcode
-WARD : ward name
-WAR_CODE : ward postalcode
-STREET : street name
-PLACES : known / famous streets places / centers
+## regular 
+Contain listed object in below format
+```bash
+{
+    "REGION": "REGION NAME",
+    "REG_CODE": REGION POSTCODE,
+    "DISTRIC": "DISTRICT NAME",
+    "DIS_CODE": DISTRICT POSTCODE,
+    "WARD": "WARD NAME",
+    "WAR_CODE": WARD POSTCODE,
+    "STREET": "STREET NAME",
+    "PLACES": "famous, centers or known places of the street"
+  }
 ```
 
-### example
-``` bash
+## simplified
+A simplified structude based on regular list.
+```bash
 {
-    "REGION": "ARUSHA",
-    "REG_CODE": 23,
-    "DISTRIC": "ARUSHA CBD",
-    "DIS_CODE": 231,
-    "WARD": "SEKEI",
-    "WAR_CODE": 23101,
-    "STREET": "SANAWARI",
-    "PLACES": ""
-  }
-````
+  [{
+    "REGION": "REGION NAME",
+    "POSTCODE": REGION POSTCODE,
+    "DISTRIC": [{
+      "NAME": "DISTRICT NAME",
+      "POSTCODE": DISTRICT POSTCODE,
+      "WARD": [{
+        "NAME": "WARD NAME",
+        "POSTCODE": WARD POSTCODE,
+        "STREETS": [{
+          "NAME": "STREET NAME",
+          "PLACES": ["streets of places"]
+        },]
+      },]
+    }]
+  }]
+}
+```
